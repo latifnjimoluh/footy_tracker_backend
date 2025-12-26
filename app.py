@@ -10,12 +10,15 @@ from dotenv import load_dotenv; load_dotenv()
 
 # --- INITIALISATION ---
 app = Flask(__name__)
-CORS(app, resources={r"/api/*": {"origins": "https://footytracker.movie-in-the-park.com"}}, supports_credentials=True, methods=["GET", "POST", "OPTIONS"])
+
+CORS(app, resources={r"/api/*": {"origins": "*"}})
+
+
 scheduler = APScheduler()
 
 BASE_DIR = "scrapped_data"
 
-# --- FONCTIONS UTILITAIRES ---
+# --- FONCTIONS
 
 def get_latest_data(filename_pattern):
     """Lit le fichier JSON du jour selon la catégorie demandée."""
