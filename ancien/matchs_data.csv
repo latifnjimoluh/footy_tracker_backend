@@ -1,0 +1,148 @@
+﻿id,date_scrap,heure,home,away,cote_1,cote_X,cote_2
+2025-12-26_Manchester_United_Newcastle_United,2025-12-26,8:00pm,Manchester United,Newcastle United,2.55,3.25,2.65
+2025-12-26_Birmingham_City_Derby_County,2025-12-26,12:30pm,Birmingham City,Derby County,1.77,3.41,4.75
+2025-12-26_Millwall_Ipswich_Town,2025-12-26,1:00pm,Millwall,Ipswich Town,3.65,3.30,2.05
+2025-12-26_Oxford_United_Southampton,2025-12-26,3:00pm,Oxford United,Southampton,4.10,3.60,1.82
+2025-12-26_Leicester_City_Watford,2025-12-26,3:00pm,Leicester City,Watford,2.11,3.31,3.40
+2025-12-26_Middlesbrough_Blackburn_Rovers,2025-12-26,3:00pm,Middlesbrough,Blackburn Rovers,1.96,3.38,3.80
+2025-12-26_Norwich_City_Charlton_Athletic,2025-12-26,3:00pm,Norwich City,Charlton Athletic,2.13,3.31,3.34
+2025-12-26_Coventry_City_Swansea_City,2025-12-26,3:00pm,Coventry City,Swansea City,1.51,4.30,5.80
+2025-12-26_Stoke_City_Preston_North_End,2025-12-26,3:00pm,Stoke City,Preston North End,2.05,3.23,3.68
+2025-12-26_West_Bromwich_Albion_Bristol_City,2025-12-26,3:00pm,West Bromwich Albion,Bristol City,2.17,3.29,3.28
+2025-12-26_Portsmouth_Queens_Park_Rangers,2025-12-26,3:00pm,Portsmouth,Queens Park Rangers,2.75,3.26,2.50
+2025-12-26_Sheffield_Wednesday_Hull_City,2025-12-26,3:00pm,Sheffield Wednesday,Hull City,3.04,3.35,2.26
+2025-12-26_Wrexham_Sheffield_United,2025-12-26,5:30pm,Wrexham,Sheffield United,2.90,3.35,2.35
+2025-12-26_Huddersfield_Town_Port_Vale,2025-12-26,3:00pm,Huddersfield Town,Port Vale,1.91,3.15,3.59
+2025-12-26_Barnsley_Mansfield_Town,2025-12-26,3:00pm,Barnsley,Mansfield Town,1.99,3.51,3.02
+2025-12-26_Blackpool_Doncaster_Rovers,2025-12-26,3:00pm,Blackpool,Doncaster Rovers,2.42,3.20,2.53
+2025-12-26_Bolton_Wanderers_Rotherham_United,2025-12-26,3:00pm,Bolton Wanderers,Rotherham United,1.38,4.20,6.40
+2025-12-26_Cardiff_City_Exeter_City,2025-12-26,3:00pm,Cardiff City,Exeter City,1.59,3.53,4.80
+2025-12-26_AFC_Wimbledon_Stevenage,2025-12-26,3:00pm,AFC Wimbledon,Stevenage,2.85,2.88,2.38
+2025-12-26_Burton_Albion_Northampton_Town,2025-12-26,3:00pm,Burton Albion,Northampton Town,2.13,3.13,3.01
+2025-12-26_Bradford_City_Wigan_Athletic,2025-12-26,3:00pm,Bradford City,Wigan Athletic,1.85,3.21,3.72
+2025-12-26_Luton_Town_Wycombe_Wanderers,2025-12-26,3:00pm,Luton Town,Wycombe Wanderers,2.33,3.05,2.75
+2025-12-26_Peterborough_United_Leyton_Orient,2025-12-26,3:00pm,Peterborough United,Leyton Orient,2.18,3.15,2.90
+2025-12-26_Plymouth_Argyle_Reading,2025-12-26,3:00pm,Plymouth Argyle,Reading,2.44,3.15,2.55
+2025-12-26_Stockport_County_Lincoln_City,2025-12-26,3:00pm,Stockport County,Lincoln City,2.08,3.18,3.09
+2025-12-26_Newport_County_Barnet,2025-12-26,3:00pm,Newport County,Barnet,4.50,3.41,1.65
+2025-12-26_Crawley_Town_Colchester_United,2025-12-26,3:00pm,Crawley Town,Colchester United,2.49,3.21,2.46
+2025-12-26_Walsall_Crewe_Alexandra,2025-12-26,3:00pm,Walsall,Crewe Alexandra,2.03,3.13,3.25
+2025-12-26_Chesterfield_Notts_County,2025-12-26,3:00pm,Chesterfield,Notts County,2.39,3.23,2.55
+2025-12-26_Accrington_Stanley_Barrow,2025-12-26,3:00pm,Accrington Stanley,Barrow,2.04,3.08,3.27
+2025-12-26_Cheltenham_Town_Shrewsbury_Town,2025-12-26,3:00pm,Cheltenham Town,Shrewsbury Town,2.82,3.01,2.31
+2025-12-26_Gillingham_Cambridge_United,2025-12-26,3:00pm,Gillingham,Cambridge United,2.44,2.98,2.67
+2025-12-26_Grimsby_Town_Oldham_Athletic,2025-12-26,3:00pm,Grimsby Town,Oldham Athletic,1.76,3.45,3.86
+2025-12-26_Milton_Keynes_Dons_Swindon_Town,2025-12-26,3:00pm,Milton Keynes Dons,Swindon Town,1.95,3.34,3.25
+2025-12-26_Salford_City_Harrogate_Town,2025-12-26,3:00pm,Salford City,Harrogate Town,1.38,4.20,6.40
+2025-12-26_Bristol_Rovers_Bromley,2025-12-26,3:00pm,Bristol Rovers,Bromley,2.88,3.07,2.24
+2025-12-26_Tranmere_Rovers_Fleetwood_Town,2025-12-26,3:00pm,Tranmere Rovers,Fleetwood Town,2.20,3.19,2.84
+2025-12-26_Morecambe_Rochdale,2025-12-26,3:00pm,Morecambe,Rochdale,More,Draw,Roch
+2025-12-26_Eastleigh_Woking,2025-12-26,3:00pm,Eastleigh,Woking,East,Draw,Woki
+2025-12-26_Wealdstone_Boreham_Wood,2025-12-26,3:00pm,Wealdstone,Boreham Wood,Weal,Draw,Bore
+2025-12-26_York_City_Boston_United,2025-12-26,3:00pm,York City,Boston United,York,Draw,Bost
+2025-12-26_Halifax_Town_Altrincham,2025-12-26,3:00pm,Halifax Town,Altrincham,Hali,Draw,Altr
+2025-12-26_Sutton_United_Aldershot_Town,2025-12-26,3:00pm,Sutton United,Aldershot Town,Sutt,Draw,Alde
+2025-12-26_Solihull_Moors_Tamworth,2025-12-26,3:00pm,Solihull Moors,Tamworth,Soli,Draw,Tamw
+2025-12-26_Gateshead_Carlisle_United,2025-12-26,3:00pm,Gateshead,Carlisle United,Gate,Draw,Carl
+2025-12-26_Hartlepool_United_Scunthorpe_United,2025-12-26,3:00pm,Hartlepool United,Scunthorpe United,Hart,Draw,Scun
+2025-12-26_Truro_City_Yeovil_Town,2025-12-26,3:00pm,Truro City,Yeovil Town,Trur,Draw,Yeov
+2025-12-26_Brackley_Town_Forest_Green_Rovers,2025-12-26,3:00pm,Brackley Town,Forest Green Rovers,Brac,Draw,Fore
+2025-12-26_Braintree_Town_Southend_United,2025-12-26,3:00pm,Braintree Town,Southend United,Brai,Draw,Sout
+2025-12-26_Eastbourne_Borough_Worthing,2025-12-26,12:00pm,Eastbourne Borough,Worthing,East,Draw,Wort
+2025-12-26_Dagenham_&_Redbridge_AFC_Hornchurch,2025-12-26,1:00pm,Dagenham & Redbridge,AFC Hornchurch,Dage,Draw,AFC 
+2025-12-26_Maidstone_United_Dover_Athletic,2025-12-26,1:00pm,Maidstone United,Dover Athletic,Maid,Draw,Dove
+2025-12-26_Ebbsfleet_United_Tonbridge_Angels,2025-12-26,1:00pm,Ebbsfleet United,Tonbridge Angels,Ebbs,Draw,Tonb
+2025-12-26_Chesham_United_Hemel_Hempstead_Town,2025-12-26,1:00pm,Chesham United,Hemel Hempstead Town,Ches,Draw,Heme
+2025-12-26_Farnborough_Hampton_&_Richmond,2025-12-26,3:00pm,Farnborough,Hampton & Richmond,Farn,Draw,Hamp
+2025-12-26_Maidenhead_United_Slough_Town,2025-12-26,3:00pm,Maidenhead United,Slough Town,Maid,Draw,Slou
+2025-12-26_Torquay_United_Weston-super-Mare,2025-12-26,3:00pm,Torquay United,Weston-super-Mare,Torq,Draw,West
+2025-12-26_Enfield_Town_Chelmsford_City,2025-12-26,3:00pm,Enfield Town,Chelmsford City,Enfi,Draw,Chel
+2025-12-26_Dorking_Wanderers_Horsham,2025-12-26,3:00pm,Dorking Wanderers,Horsham,Dork,Draw,Hors
+2025-12-26_Salisbury_AFC_Totton,2025-12-26,3:00pm,Salisbury,AFC Totton,Sali,Draw,AFC 
+2025-12-26_Chippenham_Town_Bath_City,2025-12-26,3:00pm,Chippenham Town,Bath City,Chip,Draw,Bath
+2025-12-26_Scarborough_Athletic_Darlington,2025-12-26,12:30pm,Scarborough Athletic,Darlington,Scar,Draw,Darl
+2025-12-26_Oxford_City_Merthyr_Town,2025-12-26,1:00pm,Oxford City,Merthyr Town,Oxfo,Draw,Mert
+2025-12-26_South_Shields_FC_Spennymoor_Town,2025-12-26,3:00pm,South Shields FC,Spennymoor Town,Sout,Draw,Spen
+2025-12-26_Macclesfield_Buxton,2025-12-26,3:00pm,Macclesfield,Buxton,Macc,Draw,Buxt
+2025-12-26_Hereford_Kidderminster_Harriers,2025-12-26,3:00pm,Hereford,Kidderminster Harriers,Here,Draw,Kidd
+2025-12-26_Worksop_Town_Alfreton_Town,2025-12-26,3:00pm,Worksop Town,Alfreton Town,Work,Draw,Alfr
+2025-12-26_Fylde_Chorley,2025-12-26,3:00pm,Fylde,Chorley,Fyld,Draw,Chor
+2025-12-26_Leamington_Bedford_Town,2025-12-26,3:00pm,Leamington,Bedford Town,Leam,Draw,Bedf
+2025-12-26_King's_Lynn_Town_Peterborough_Sports,2025-12-26,3:00pm,King's Lynn Town,Peterborough Sports,King,Draw,Pete
+2025-12-26_Curzon_Ashton_Radcliffe_Borough,2025-12-26,3:00pm,Curzon Ashton,Radcliffe Borough,Curz,Draw,Radc
+2025-12-26_AFC_Telford_United_Chester,2025-12-26,3:00pm,AFC Telford United,Chester,AFC ,Draw,Ches
+2025-12-26_Marine_FC_Southport,2025-12-26,3:00pm,Marine FC,Southport,Mari,Draw,Sout
+2025-12-26_Soham_Town_Rangers_Ely_City,2025-12-26,11:00am,Soham Town Rangers,Ely City,Soha,Draw,Ely 
+2025-12-26_Hinckley_AFC_Atherstone_Town,2025-12-26,12:00pm,Hinckley AFC,Atherstone Town,Hinc,Draw,Athe
+2025-12-26_AFC_Wulfrunians_Brocton,2025-12-26,12:30pm,AFC Wulfrunians,Brocton,AFC ,Draw,Broc
+2025-12-26_Stourport_Swifts_FC_Lye_Town,2025-12-26,3:00pm,Stourport Swifts FC,Lye Town,Stou,Draw,Lye 
+2025-12-26_Hanley_Town_Abbey_Hulton_United,2025-12-26,3:00pm,Hanley Town,Abbey Hulton United,Hanl,Draw,Abbe
+2025-12-26_Winsford_United_Whitchurch_Alport,2025-12-26,3:00pm,Winsford United,Whitchurch Alport,Wins,Draw,Whit
+2025-12-26_Tividale_Dudley_Town,2025-12-26,3:00pm,Tividale,Dudley Town,Tivi,Draw,Dudl
+2025-12-26_Romulus_Coton_Green_FC,2025-12-26,3:00pm,Romulus,Coton Green FC,Romu,Draw,Coto
+2025-12-26_Northwich_Victoria_1874_Northwich,2025-12-26,3:00pm,Northwich Victoria,1874 Northwich,Nort,Draw,1874
+2025-12-26_Stockton_Town_FC_Hebburn_Town,2025-12-26,1:00pm,Stockton Town FC,Hebburn Town,Stoc,Draw,Hebb
+2025-12-26_Whitby_Town_Morpeth_Town,2025-12-26,3:00pm,Whitby Town,Morpeth Town,Whit,Draw,Morp
+2025-12-26_Ashton_United_Hyde_United,2025-12-26,3:00pm,Ashton United,Hyde United,Asht,Draw,Hyde
+2025-12-26_Lancaster_City_Bamber_Bridge,2025-12-26,3:00pm,Lancaster City,Bamber Bridge,Lanc,Draw,Bamb
+2025-12-26_Warrington_Rylands_Warrington_Town,2025-12-26,3:00pm,Warrington Rylands,Warrington Town,Warr,Draw,Warr
+2025-12-26_Ilkeston_Town_Rushall_Olympic,2025-12-26,3:00pm,Ilkeston Town,Rushall Olympic,Ilke,Draw,Rush
+2025-12-26_Guiseley_Gainsborough_Trinity,2025-12-26,3:00pm,Guiseley,Gainsborough Trinity,Guis,Draw,Gain
+2025-12-26_Leek_Town_Stocksbridge_Park_Steels,2025-12-26,3:00pm,Leek Town,Stocksbridge Park Steels,Leek,Draw,Stoc
+2025-12-26_West_Didsbury_&_Chorlton_Wythenshawe_Amateurs,2025-12-26,1:00pm,West Didsbury & Chorlton,Wythenshawe Amateurs,West,Draw,Wyth
+2025-12-26_Padiham_Barnoldswick_Town,2025-12-26,3:00pm,Padiham,Barnoldswick Town,Padi,Draw,Barn
+2025-12-26_City_of_Liverpool_South_Liverpool,2025-12-26,3:00pm,City of Liverpool,South Liverpool,City,Draw,Sout
+2025-12-26_Atherton_Laburnum_Rovers_Burscough,2025-12-26,3:00pm,Atherton Laburnum Rovers,Burscough,Athe,Draw,Burs
+2025-12-26_Euxton_Villa_Charnock_Richard,2025-12-26,3:00pm,Euxton Villa,Charnock Richard,Euxt,Draw,Char
+2025-12-26_Irlam_Glossop_North_End,2025-12-26,3:00pm,Irlam,Glossop North End,Irla,Draw,Glos
+2025-12-26_Pilkington_XXX_St_Helens,2025-12-26,3:00pm,Pilkington XXX,St Helens,Pilk,Draw,St H
+2025-12-26_Chadderton_Prestwich_Heys,2025-12-26,3:00pm,Chadderton,Prestwich Heys,Chad,Draw,Pres
+2025-12-26_Worcester_City_Halesowen_Town,2025-12-26,3:00pm,Worcester City,Halesowen Town,Worc,Draw,Hale
+2025-12-26_Gosport_Borough_Havant_&_Waterlooville,2025-12-26,3:00pm,Gosport Borough,Havant & Waterlooville,Gosp,Draw,Hava
+2025-12-26_Horden_CW_Easington_Colliery,2025-12-26,7:30pm,Horden CW,Easington Colliery,Hord,Draw,Easi
+2025-12-26_Whickham_FC_Birtley_Town,2025-12-26,7:30pm,Whickham FC,Birtley Town,Whic,Draw,Birt
+2025-12-26_Crook_Town_AFC_Shildon_AFC,2025-12-26,7:30pm,Crook Town AFC,Shildon AFC,Croo,Draw,Shil
+2025-12-26_Thornaby_West_Auckland_Town,2025-12-26,7:30pm,Thornaby,West Auckland Town,Thor,Draw,West
+2025-12-26_Newcastle_Benfield_West_Allotment_Celtic,2025-12-26,7:30pm,Newcastle Benfield,West Allotment Celtic,Newc,Draw,West
+2025-12-26_Whitley_Bay_North_Shields_FC,2025-12-26,7:30pm,Whitley Bay,North Shields FC,Whit,Draw,Nort
+2025-12-26_Guisborough_Town_Northallerton_Town,2025-12-26,7:45pm,Guisborough Town,Northallerton Town,Guis,Draw,Nort
+2025-12-26_Marske_United_Boro_Rangers,2025-12-26,7:45pm,Marske United,Boro Rangers,Mars,Draw,Boro
+2025-12-26_Penrith_AFC_Kendal_Town,2025-12-26,7:45pm,Penrith AFC,Kendal Town,Penr,Draw,Kend
+2025-12-26_Carlisle_City_Newcastle_Blue_Star,2025-12-26,7:45pm,Carlisle City,Newcastle Blue Star,Carl,Draw,Newc
+2025-12-26_Coventry_Sphinx_Rugby_Borough,2025-12-26,12:30pm,Coventry Sphinx,Rugby Borough,Cove,Draw,Rugb
+2025-12-26_St_Neots_Town_Bedworth_United,2025-12-26,1:00pm,St Neots Town,Bedworth United,1.95,3.30,3.30
+2025-12-26_Lichfield_City_Coleshill_Town,2025-12-26,3:00pm,Lichfield City,Coleshill Town,Lich,Draw,Cole
+2025-12-26_Long_Eaton_United_Belper_Town,2025-12-26,3:00pm,Long Eaton United,Belper Town,Long,Draw,Belp
+2025-12-26_Rugby_Town_Mickleover_Sports,2025-12-26,3:00pm,Rugby Town,Mickleover Sports,Rugb,Draw,Mick
+2025-12-26_Boldmere_St._Michaels_Sutton_Coldfield_Town,2025-12-26,3:00pm,Boldmere St. Michaels,Sutton Coldfield Town,Bold,Draw,Sutt
+2025-12-26_Basford_United_Carlton_Town,2025-12-26,3:00pm,Basford United,Carlton Town,Basf,Draw,Carl
+2025-12-26_Loughborough_University_FC_Shepshed_Dynamo,2025-12-26,3:00pm,Loughborough University FC,Shepshed Dynamo,2.45,3.35,2.50
+2025-12-26_AFC_Rushden_&_Diamonds_Wellingborough_Town,2025-12-26,3:00pm,AFC Rushden & Diamonds,Wellingborough Town,AFC ,Draw,Well
+2025-12-26_Bourne_Town_Corby_Town,2025-12-26,3:00pm,Bourne Town,Corby Town,Bour,Draw,Corb
+2025-12-26_Bradford_Park_Avenue_Pontefract_Collieries,2025-12-26,1:00pm,Bradford Park Avenue,Pontefract Collieries,1.70,3.75,3.95
+2025-12-26_Silsden_AFC_Brighouse_Town,2025-12-26,1:00pm,Silsden AFC,Brighouse Town,Sils,Draw,Brig
+2025-12-26_Redcar_Athletic_Dunston_UTS,2025-12-26,1:00pm,Redcar Athletic,Dunston UTS,Redc,Draw,Duns
+2025-12-26_Lincoln_United_Grimsby_Borough,2025-12-26,1:00pm,Lincoln United,Grimsby Borough,Linc,Draw,Grim
+2025-12-26_Ashington_AFC_Blyth_Spartans,2025-12-26,1:00pm,Ashington AFC,Blyth Spartans,Ashi,Draw,Blyt
+2025-12-26_Garforth_Town_AFC_Emley,2025-12-26,1:00pm,Garforth Town,AFC Emley,Garf,Draw,AFC 
+2025-12-26_Newton_Aycliffe_Bishop_Auckland,2025-12-26,1:00pm,Newton Aycliffe,Bishop Auckland,Newt,Draw,Bish
+2025-12-26_North_Ferriby_Bridlington_Town,2025-12-26,3:00pm,North Ferriby,Bridlington Town,Nort,Draw,Brid
+2025-12-26_Blyth_Town_Hallam,2025-12-26,3:00pm,Blyth Town,Hallam,Blyt,Draw,Hall
+2025-12-26_Ossett_United_Matlock_Town,2025-12-26,3:00pm,Ossett United,Matlock Town,Osse,Draw,Matl
+2025-12-26_Consett_Heaton_Stannington,2025-12-26,3:00pm,Consett,Heaton Stannington,Cons,Draw,Heat
+2025-12-26_Kidsgrove_Athletic_Newcastle_Town,2025-12-26,1:00pm,Kidsgrove Athletic,Newcastle Town,Kids,Draw,Newc
+2025-12-26_Vauxhall_Motors_Lower_Breck,2025-12-26,1:30pm,Vauxhall Motors,Lower Breck,Vaux,Draw,Lowe
+2025-12-26_Stafford_Rangers_Chasetown,2025-12-26,3:00pm,Stafford Rangers,Chasetown,Staf,Draw,Chas
+2025-12-26_Shifnal_Town_FC_Congleton_Town,2025-12-26,3:00pm,Shifnal Town FC,Congleton Town,Shif,Draw,Cong
+2025-12-26_Mossley_Stalybridge_Celtic,2025-12-26,3:00pm,Mossley,Stalybridge Celtic,2.75,3.75,2.10
+2025-12-26_Bootle_Runcorn_Linnets,2025-12-26,3:00pm,Bootle,Runcorn Linnets,Boot,Draw,Runc
+2025-12-26_Trafford_Avro,2025-12-26,3:00pm,Trafford,Avro,Traf,Draw,Avro
+2025-12-26_Bury_Clitheroe,2025-12-26,3:00pm,Bury,Clitheroe,Bury,Draw,Clit
+2025-12-26_Atherton_Collieries_Wythenshawe_Town,2025-12-26,3:00pm,Atherton Collieries,Wythenshawe Town,Athe,Draw,Wyth
+2025-12-26_Sporting_Khalsa_Darlaston_Town,2025-12-26,3:00pm,Sporting Khalsa,Darlaston Town,Spor,Draw,Darl
+2025-12-26_Witton_Albion_Nantwich_Town,2025-12-26,3:00pm,Witton Albion,Nantwich Town,Witt,Draw,Nant
+2025-12-26_Angola_Zimbabwe,2025-12-26,12:30pm,Angola,Zimbabwe,1.72,3.75,4.90
+2025-12-26_Egypt_South_Africa,2025-12-26,3:00pm,Egypt,South Africa,1.75,3.60,4.80
+2025-12-26_Zambia_Comoros,2025-12-26,5:30pm,Zambia,Comoros,1.83,3.65,4.30
+2025-12-26_Morocco_Mali,2025-12-26,8:00pm,Morocco,Mali,1.42,4.30,9.00
+2025-12-26_Modena_Monza,2025-12-26,4:15pm,Modena,Monza,2.40,2.90,3.25

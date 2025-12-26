@@ -1,0 +1,41 @@
+[
+    {
+        "id": "2025-12-26_Bolton_Wanderers_Rotherham_United",
+        "championnat": "EFL League One",
+        "heure_match": "3:00pm",
+        "minute": "Pas commencé",
+        "home": "Bolton Wanderers",
+        "away": "Rotherham United",
+        "score": "0-0",
+        "forme": "N/A",
+        "cote_1": "1.38",
+        "cote_2": "6.40",
+        "last_update": "09:45:53"
+    },
+    {
+        "id": "2025-12-26_Salford_City_Harrogate_Town",
+        "championnat": "EFL League Two",
+        "heure_match": "3:00pm",
+        "minute": "Pas commencé",
+        "home": "Salford City",
+        "away": "Harrogate Town",
+        "score": "0-0",
+        "forme": "N/A",
+        "cote_1": "1.38",
+        "cote_2": "6.40",
+        "last_update": "09:45:53"
+    },
+    {
+        "id": "2025-12-26_Morocco_Mali",
+        "championnat": "Africa Cup of Nations",
+        "heure_match": "8:00pm",
+        "minute": "Pas commencé",
+        "home": "Morocco",
+        "away": "Mali",
+        "score": "0-0",
+        "forme": "N/A",
+        "cote_1": "1.42",
+        "cote_2": "9.00",
+        "last_update": "09:45:54"
+    }
+]

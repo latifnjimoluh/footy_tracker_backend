@@ -1,0 +1,12 @@
+requests
+beautifulsoup4
+lxml
+html5lib
+selenium
+playwright
+fake-useragent
+python-dotenv
+pandas
+aiohttp
+tqdm
+loguru
