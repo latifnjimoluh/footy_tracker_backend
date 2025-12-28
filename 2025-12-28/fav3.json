@@ -1,0 +1,515 @@
+[
+    {
+        "match_id": "1520007",
+        "country": "Italie",
+        "league": "Serie A",
+        "home": "Milan AC",
+        "away": "Hellas Vérone",
+        "start_time": "12:30",
+        "original_teams": "Milan AC vs Hellas Vérone",
+        "link": "https://www.livescore.com/fr/football/italie/serie-a/ac-milan-vs-hellas-verona/1520007/",
+        "collected_at": "07:24:59",
+        "odds_betpawa": {
+            "1": "1.35",
+            "X": "5.00",
+            "2": "8.75"
+        },
+        "betpawa_id": "31493530",
+        "betpawa_league_id": "Non trouvé",
+        "betpawa_league_name": "Football / Italie / Serie A"
+    },
+    {
+        "match_id": "1520005",
+        "country": "Italie",
+        "league": "Serie A",
+        "home": "US Cremonese",
+        "away": "SSC Naples",
+        "start_time": "15:00",
+        "original_teams": "US Cremonese vs SSC Naples",
+        "link": "https://www.livescore.com/fr/football/italie/serie-a/cremonese-vs-napoli/1520005/",
+        "collected_at": "07:24:59",
+        "odds_betpawa": {
+            "1": "6.50",
+            "X": "3.95",
+            "2": "1.56"
+        },
+        "betpawa_id": "31560905",
+        "betpawa_league_id": "Non trouvé",
+        "betpawa_league_name": "Football / Italie / Serie A"
+    },
+    {
+        "match_id": "1551643",
+        "country": "Portugal",
+        "league": "Primeira Liga",
+        "home": "Sporting CP",
+        "away": "Rio Ave",
+        "start_time": "21:30",
+        "original_teams": "Sporting CP vs Rio Ave",
+        "link": "https://www.livescore.com/fr/football/portugal/primeira-liga/sporting-cp-vs-rio-ave/1551643/",
+        "collected_at": "07:25:01",
+        "odds_betpawa": {
+            "1": "1.10",
+            "X": "9.25",
+            "2": "21.00"
+        },
+        "betpawa_id": "31843990",
+        "betpawa_league_id": "Non trouvé",
+        "betpawa_league_name": "Football / Portugal / Liga Portugal"
+    },
+    {
+        "match_id": "1652159",
+        "country": "Australie",
+        "league": "Ligue A",
+        "home": "Melbourne City",
+        "away": "Perth Glory",
+        "start_time": "09:00",
+        "original_teams": "Melbourne City vs Perth Glory",
+        "link": "https://www.livescore.com/fr/football/australie/a-league/melbourne-city-fc-vs-perth-glory/1652159/",
+        "collected_at": "07:25:01",
+        "odds_betpawa": {
+            "1": "1.08",
+            "X": "7.75",
+            "2": "33.00"
+        },
+        "betpawa_id": "31844001",
+        "betpawa_league_id": "Non trouvé",
+        "betpawa_league_name": "Football / Australie / W-League"
+    },
+    {
+        "match_id": "1652367",
+        "country": "Australie",
+        "league": "A-League féminine",
+        "home": "Melbourne City",
+        "away": "Perth Glory",
+        "start_time": "06:15",
+        "original_teams": "Melbourne City vs Perth Glory",
+        "link": "https://www.livescore.com/fr/football/australie/w-league/melbourne-city-fc-w-vs-perth-glory-w/1652367/",
+        "collected_at": "06:11:27",
+        "odds_betpawa": {
+            "1": "1.07",
+            "X": "7.75",
+            "2": "40.00"
+        },
+        "betpawa_id": "31844001",
+        "betpawa_league_id": "Non trouvé",
+        "betpawa_league_name": "Football / Australie / W-League"
+    },
+    {
+        "match_id": "1676207",
+        "country": "Bahreïn",
+        "league": "Premier League",
+        "home": "Al Khalidiyah",
+        "away": "AL Budaiya",
+        "start_time": "17:00",
+        "original_teams": "Al Khalidiyah vs AL Budaiya",
+        "link": "https://www.livescore.com/fr/football/bahrein/premier-league/al-khalidiyah-vs-budaiya/1676207/",
+        "collected_at": "07:25:01",
+        "odds_betpawa": {
+            "1": "1.39",
+            "X": "4.60",
+            "2": "7.00"
+        },
+        "betpawa_id": "31903689",
+        "betpawa_league_id": "Non trouvé",
+        "betpawa_league_name": "Football / Bahreïn / Premier League"
+    },
+    {
+        "match_id": "1676223",
+        "country": "Bahreïn",
+        "league": "Premier League",
+        "home": "Al-Muharraq SC",
+        "away": "Al-Najma Manama",
+        "start_time": "17:00",
+        "original_teams": "Al-Muharraq SC vs Al-Najma Manama",
+        "link": "https://www.livescore.com/fr/football/bahrein/premier-league/muharraq-vs-al-najma/1676223/",
+        "collected_at": "07:25:01",
+        "odds_betpawa": {
+            "1": "1.27",
+            "X": "5.50",
+            "2": "9.00"
+        },
+        "betpawa_id": "31933881",
+        "betpawa_league_id": "Non trouvé",
+        "betpawa_league_name": "Football / Bahreïn / Premier League"
+    },
+    {
+        "match_id": "1637417",
+        "country": "Cambodge",
+        "league": "Premier League 25/26",
+        "home": "Angkor Tiger",
+        "away": "Kirivong Soksen Chey",
+        "start_time": "12:00",
+        "original_teams": "Angkor Tiger vs Kirivong Soksen Chey",
+        "link": "https://www.livescore.com/fr/football/cambodge/c-league/angkor-tiger-fc-vs-kirivong-soksen-chey/1637417/",
+        "collected_at": "07:25:01",
+        "odds_betpawa": {
+            "1": "1.46",
+            "X": "4.65",
+            "2": "5.25"
+        },
+        "betpawa_id": "31903603",
+        "betpawa_league_id": "Non trouvé",
+        "betpawa_league_name": "Football / Cambodge / Cambodian Premier League"
+    },
+    {
+        "match_id": "1637418",
+        "country": "Cambodge",
+        "league": "Premier League 25/26",
+        "home": "FC Nagaworld",
+        "away": "Isi Dangkor Senchey FC",
+        "start_time": "12:00",
+        "original_teams": "FC Nagaworld vs Isi Dangkor Senchey FC",
+        "link": "https://www.livescore.com/fr/football/cambodge/c-league/nagaworld-fc-vs-isi-dangkor-senchey-fc/1637418/",
+        "collected_at": "07:25:01",
+        "odds_betpawa": {
+            "1": "1.37",
+            "X": "4.80",
+            "2": "6.50"
+        },
+        "betpawa_id": "31903595",
+        "betpawa_league_id": "Non trouvé",
+        "betpawa_league_name": "Football / Cambodge / Cambodian Premier League"
+    },
+    {
+        "match_id": "1706064",
+        "country": "Égypte",
+        "league": "Cup",
+        "home": "Zamalek SC",
+        "away": "Baladiyyat AL Mehalla",
+        "start_time": "13:30",
+        "original_teams": "Zamalek SC vs Baladiyyat AL Mehalla",
+        "link": "https://www.livescore.com/fr/football/egypte/cup/el-zamalek-vs-baladiyyat-al-mehalla/1706064/",
+        "collected_at": "07:25:01",
+        "odds_betpawa": {
+            "1": "1.20",
+            "X": "5.75",
+            "2": "11.50"
+        },
+        "betpawa_id": "31930389",
+        "betpawa_league_id": "Non trouvé",
+        "betpawa_league_name": "Football / Égypte / Egypt Cup"
+    },
+    {
+        "match_id": "1700417",
+        "country": "Indonésie",
+        "league": "Championship 25/26, Group B",
+        "home": "PSS Sleman",
+        "away": "Persipal (Babel United)",
+        "start_time": "13:00",
+        "original_teams": "PSS Sleman vs Persipal (Babel United)",
+        "link": "https://www.livescore.com/fr/football/indonesie/liga-2-relegation-round-group-x/pss-sleman-vs-persipal-fc/1700417/",
+        "collected_at": "07:25:03",
+        "odds_betpawa": {
+            "1": "1.11",
+            "X": "7.00",
+            "2": "18.50"
+        },
+        "betpawa_id": "31903694",
+        "betpawa_league_id": "Non trouvé",
+        "betpawa_league_name": "Football / Indonésie / Liga 2"
+    },
+    {
+        "match_id": "1700395",
+        "country": "Israël",
+        "league": "U19 Premier League",
+        "home": "Hapoel Raanana",
+        "away": "Maccabi Herzliya",
+        "start_time": "16:00",
+        "original_teams": "Hapoel Raanana vs Maccabi Herzliya",
+        "link": "https://www.livescore.com/fr/football/israel/u19-premier-league/hapoel-raanana-vs-maccabi-herzliya/1700395/",
+        "collected_at": "07:25:03",
+        "odds_betpawa": {
+            "1": "1.47",
+            "X": "4.75",
+            "2": "4.75"
+        },
+        "betpawa_id": "31899400",
+        "betpawa_league_id": "Non trouvé",
+        "betpawa_league_name": "Football / Israël / U19 Premier Division 1"
+    },
+    {
+        "match_id": "1712647",
+        "country": "Jamaïque",
+        "league": "Premier League",
+        "home": "Spanish Town Police",
+        "away": "Treasure Beach FC",
+        "start_time": "22:00",
+        "original_teams": "Spanish Town Police vs Treasure Beach FC",
+        "link": "https://www.livescore.com/fr/football/jamaique/premier-league/spanish-town-police-vs-treasure-beach/1712647/",
+        "collected_at": "07:25:03",
+        "odds_betpawa": {
+            "1": "4.80",
+            "X": "4.00",
+            "2": "1.55"
+        },
+        "betpawa_id": "32149061",
+        "betpawa_league_id": "Non trouvé",
+        "betpawa_league_name": "Football / Jamaica / Premier League"
+    },
+    {
+        "match_id": "1643170",
+        "country": "Koweït",
+        "league": "Premier League",
+        "home": "AL Tadhamon",
+        "away": "Al Arabi",
+        "start_time": "14:05",
+        "original_teams": "AL Tadhamon vs Al Arabi",
+        "link": "https://www.livescore.com/fr/football/koweit/premier-league/al-tadhamon-vs-al-arabi/1643170/",
+        "collected_at": "07:25:03",
+        "odds_betpawa": {
+            "1": "11.50",
+            "X": "5.75",
+            "2": "1.21"
+        },
+        "betpawa_id": "31844026",
+        "betpawa_league_id": "Non trouvé",
+        "betpawa_league_name": "Football / Koweït / Premier League"
+    },
+    {
+        "match_id": "1699032",
+        "country": "Premier League 25/26",
+        "league": "NPFL",
+        "home": "Niger Tornadoes",
+        "away": "Barau",
+        "start_time": "16:00",
+        "original_teams": "Niger Tornadoes vs Barau",
+        "link": "https://www.livescore.com/fr/football/nigeria/npfl/niger-tornadoes-vs-barau/1699032/",
+        "collected_at": "07:25:05",
+        "odds_betpawa": {
+            "1": "1.47",
+            "X": "3.55",
+            "2": "6.25"
+        },
+        "betpawa_id": "31883630",
+        "betpawa_league_id": "Non trouvé",
+        "betpawa_league_name": "Football / Nigeria / NPFL"
+    },
+    {
+        "match_id": "1699031",
+        "country": "Premier League 25/26",
+        "league": "NPFL",
+        "home": "Ikorodu City",
+        "away": "Remo Stars",
+        "start_time": "18:00",
+        "original_teams": "Ikorodu City vs Remo Stars",
+        "link": "https://www.livescore.com/fr/football/nigeria/npfl/ikorodu-city-vs-remo-stars/1699031/",
+        "collected_at": "07:25:05",
+        "odds_betpawa": {
+            "1": "1.49",
+            "X": "3.50",
+            "2": "6.00"
+        },
+        "betpawa_id": "31908261",
+        "betpawa_league_id": "Non trouvé",
+        "betpawa_league_name": "Football / Nigeria / NPFL"
+    },
+    {
+        "match_id": "1570654",
+        "country": "Turquie",
+        "league": "1re Ligue",
+        "home": "Ankara Keciorengucu",
+        "away": "Umraniyespor",
+        "start_time": "11:30",
+        "original_teams": "Ankara Keciorengucu vs Umraniyespor",
+        "link": "https://www.livescore.com/fr/football/turquie/1st-lig/keciorengucu-vs-umraniyespor/1570654/",
+        "collected_at": "07:25:07",
+        "odds_betpawa": {
+            "1": "1.38",
+            "X": "4.65",
+            "2": "7.00"
+        },
+        "betpawa_id": "30319084",
+        "betpawa_league_id": "Non trouvé",
+        "betpawa_league_name": "Football / Turquie / 1. Lig"
+    },
+    {
+        "match_id": "1570651",
+        "country": "Turquie",
+        "league": "1re Ligue",
+        "home": "Serik Belediyespor",
+        "away": "Boluspor",
+        "start_time": "11:30",
+        "original_teams": "Serik Belediyespor vs Boluspor",
+        "link": "https://www.livescore.com/fr/football/turquie/1st-lig/serik-belediyespor-vs-boluspor/1570651/",
+        "collected_at": "07:25:07",
+        "odds_betpawa": {
+            "1": "5.50",
+            "X": "4.05",
+            "2": "1.54"
+        },
+        "betpawa_id": "30319085",
+        "betpawa_league_id": "Non trouvé",
+        "betpawa_league_name": "Football / Turquie / 1. Lig"
+    },
+    {
+        "match_id": "1571017",
+        "country": "Turquie",
+        "league": "2. Lig - Groupe blanc",
+        "home": "24Erzincanspor",
+        "away": "Elazigspor",
+        "start_time": "13:00",
+        "original_teams": "24Erzincanspor vs Elazigspor",
+        "link": "https://www.livescore.com/fr/football/turquie/2nd-lig-white-group/24-erzincanspor-vs-elazigspor/1571017/",
+        "collected_at": "07:25:09",
+        "odds_betpawa": {
+            "1": "4.60",
+            "X": "3.95",
+            "2": "1.59"
+        },
+        "betpawa_id": "31843997",
+        "betpawa_league_id": "Non trouvé",
+        "betpawa_league_name": "Football / Turquie / 2. Lig"
+    },
+    {
+        "match_id": "1571023",
+        "country": "Turquie",
+        "league": "2. Lig - Groupe blanc",
+        "home": "Inegolspor",
+        "away": "Altinordu FK",
+        "start_time": "13:00",
+        "original_teams": "Inegolspor vs Altinordu FK",
+        "link": "https://www.livescore.com/fr/football/turquie/2nd-lig-white-group/inegolspor-vs-altinordu/1571023/",
+        "collected_at": "07:25:09",
+        "odds_betpawa": {
+            "1": "1.33",
+            "X": "4.50",
+            "2": "8.25"
+        },
+        "betpawa_id": "31903616",
+        "betpawa_league_id": "Non trouvé",
+        "betpawa_league_name": "Football / Turquie / 2. Lig"
+    },
+    {
+        "match_id": "1687859",
+        "country": "Émirats Arabes Unis",
+        "league": "Pro League",
+        "home": "Al Wahda (EAU)",
+        "away": "Khor Fakkan Club",
+        "start_time": "13:50",
+        "original_teams": "Al Wahda (EAU) vs Khor Fakkan Club",
+        "link": "https://www.livescore.com/fr/football/emirats-arabes-unis/uae-league/al-wahda-vs-khorfakkan/1687859/",
+        "collected_at": "07:25:09",
+        "odds_betpawa": {
+            "1": "1.41",
+            "X": "4.70",
+            "2": "6.25"
+        },
+        "betpawa_id": "31289149",
+        "betpawa_league_id": "Non trouvé",
+        "betpawa_league_name": "Football / Emirats arabes unis / Ligue du Golfe arabique"
+    },
+    {
+        "match_id": "1700402",
+        "country": "Turquie",
+        "league": "Super Lig, Women 2025/2026",
+        "home": "Fatih Vatan Spor",
+        "away": "1207 Antalyaspor Kadin FK",
+        "start_time": "11:00",
+        "original_teams": "Fatih Vatan Spor vs 1207 Antalyaspor Kadin FK",
+        "link": "https://www.livescore.com/fr/football/turquie/super-lig-women-2025-2026/fatih-vatan-spor-vs-1207-antalyaspor-kadin-fk/1700402/",
+        "collected_at": "07:25:09",
+        "odds_betpawa": {
+            "1": "8.25",
+            "X": "5.75",
+            "2": "1.24"
+        },
+        "betpawa_id": "31903674",
+        "betpawa_league_id": "Non trouvé",
+        "betpawa_league_name": "Football / Turquie / Super Lig, Women"
+    },
+    {
+        "match_id": "1700407",
+        "country": "Turquie",
+        "league": "Super Lig, Women 2025/2026",
+        "home": "Prolift Giresun Sanayspor",
+        "away": "Trabzonspor AS",
+        "start_time": "11:00",
+        "original_teams": "Prolift Giresun Sanayspor vs Trabzonspor AS",
+        "link": "https://www.livescore.com/fr/football/turquie/super-lig-women-2025-2026/prolift-giresun-sanayspor-vs-trabzonspor-as/1700407/",
+        "collected_at": "07:25:09",
+        "odds_betpawa": {
+            "1": "24.00",
+            "X": "9.00",
+            "2": "1.06"
+        },
+        "betpawa_id": "31903653",
+        "betpawa_league_id": "Non trouvé",
+        "betpawa_league_name": "Football / Turquie / Super Lig, Women"
+    },
+    {
+        "match_id": "1700403",
+        "country": "Turquie",
+        "league": "Super Lig, Women 2025/2026",
+        "home": "Cekmekoy Bilgidoga Sportif",
+        "away": "Besiktas",
+        "start_time": "12:00",
+        "original_teams": "Cekmekoy Bilgidoga Sportif vs Besiktas",
+        "link": "https://www.livescore.com/fr/football/turquie/super-lig-women-2025-2026/cekmekoy-bilgidoga-sportif-vs-besiktas-w/1700403/",
+        "collected_at": "07:25:09",
+        "odds_betpawa": {
+            "1": "14.00",
+            "X": "7.25",
+            "2": "1.12"
+        },
+        "betpawa_id": "31903618",
+        "betpawa_league_id": "Non trouvé",
+        "betpawa_league_name": "Football / Turquie / Super Lig, Women"
+    },
+    {
+        "match_id": "1700406",
+        "country": "Turquie",
+        "league": "Super Lig, Women 2025/2026",
+        "home": "Fomget Genclick Ve Spor",
+        "away": "Hakkarigucu Spor",
+        "start_time": "11:00",
+        "original_teams": "Fomget Genclick Ve Spor vs Hakkarigucu Spor",
+        "link": "https://www.livescore.com/fr/football/turquie/super-lig-women-2025-2026/fomget-genclik-ve-spor-w-vs-hakkarigucu-spor/1700406/",
+        "collected_at": "07:25:09",
+        "odds_betpawa": {
+            "1": "1.16",
+            "X": "6.50",
+            "2": "11.00"
+        },
+        "betpawa_id": "31903666",
+        "betpawa_league_id": "Non trouvé",
+        "betpawa_league_name": "Football / Turquie / Super Lig, Women"
+    },
+    {
+        "match_id": "1700404",
+        "country": "Turquie",
+        "league": "Super Lig, Women 2025/2026",
+        "home": "Galatasaray Istanbul",
+        "away": "Amed Sportif Faaliyetler",
+        "start_time": "12:00",
+        "original_teams": "Galatasaray Istanbul vs Amed Sportif Faaliyetler",
+        "link": "https://www.livescore.com/fr/football/turquie/super-lig-women-2025-2026/galatasaray-w-vs-amed-sportif-faaliyetler/1700404/",
+        "collected_at": "07:25:09",
+        "odds_betpawa": {
+            "1": "1.29",
+            "X": "5.00",
+            "2": "8.00"
+        },
+        "betpawa_id": "31903631",
+        "betpawa_league_id": "Non trouvé",
+        "betpawa_league_name": "Football / Turquie / Super Lig, Women"
+    },
+    {
+        "match_id": "1700408",
+        "country": "Turquie",
+        "league": "Super Lig, Women 2025/2026",
+        "home": "Unye Kadin SK",
+        "away": "Fenerbahce Istanbul",
+        "start_time": "12:00",
+        "original_teams": "Unye Kadin SK vs Fenerbahce Istanbul",
+        "link": "https://www.livescore.com/fr/football/turquie/super-lig-women-2025-2026/unye-kadin-sk-vs-fenerbahce-istanbul/1700408/",
+        "collected_at": "07:25:09",
+        "odds_betpawa": {
+            "1": "16.00",
+            "X": "10.00",
+            "2": "1.07"
+        },
+        "betpawa_id": "31903612",
+        "betpawa_league_id": "Non trouvé",
+        "betpawa_league_name": "Football / Turquie / Super Lig, Women"
+    }
+]

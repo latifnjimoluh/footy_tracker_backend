@@ -1,0 +1,919 @@
+{
+  "teams": [
+    {
+      "nom_1xbet": "Sunderland",
+      "nom_livescore": "Sunderland AFC"
+    },
+    {
+      "nom_1xbet": "Leeds United",
+      "nom_livescore": "Leeds"
+    },
+    {
+      "nom_1xbet": "Crystal Palace FC",
+      "nom_livescore": "Crystal Palace FC"
+    },
+    {
+      "nom_1xbet": "Tottenham Hotspur FC",
+      "nom_livescore": "Tottenham Hotspur FC"
+    },
+    {
+      "nom_1xbet": "Milan",
+      "nom_livescore": "Milan AC"
+    },
+    {
+      "nom_1xbet": "Hellas Verona",
+      "nom_livescore": "Hellas Vérone"
+    },
+    {
+      "nom_1xbet": "Cremonese",
+      "nom_livescore": "US Cremonese"
+    },
+    {
+      "nom_1xbet": "SSC Naples",
+      "nom_livescore": "SSC Naples"
+    },
+    {
+      "nom_1xbet": "Bologna1909",
+      "nom_livescore": "Bologna FC"
+    },
+    {
+      "nom_1xbet": "Sassuolo Calcio",
+      "nom_livescore": "Sassuolo"
+    },
+    {
+      "nom_1xbet": "Atalanta",
+      "nom_livescore": "Atalanta Bergame"
+    },
+    {
+      "nom_1xbet": "Inter Milan",
+      "nom_livescore": "Inter Milan"
+    },
+    {
+      "nom_1xbet": "Guinée Equatoriale",
+      "nom_livescore": "Guinée Equatoriale"
+    },
+    {
+      "nom_1xbet": "Soudan",
+      "nom_livescore": "Soudan"
+    },
+    {
+      "nom_1xbet": "Algérie",
+      "nom_livescore": "Algérie"
+    },
+    {
+      "nom_1xbet": "Burkina Faso",
+      "nom_livescore": "Burkina Faso"
+    },
+    {
+      "nom_1xbet": "Gabon",
+      "nom_livescore": "Gabon"
+    },
+    {
+      "nom_1xbet": "Mozambique",
+      "nom_livescore": "Mozambique"
+    },
+    {
+      "nom_1xbet": "Côte d'Ivoire",
+      "nom_livescore": "Côte d´Ivoire"
+    },
+    {
+      "nom_1xbet": "Cameroun",
+      "nom_livescore": "Cameroun"
+    },
+    {
+      "nom_1xbet": "Angkor Tiger",
+      "nom_livescore": "Angkor Tiger"
+    },
+    {
+      "nom_1xbet": "Kirivong Sok Sen Chey",
+      "nom_livescore": "Kirivong Soksen Chey"
+    },
+    {
+      "nom_1xbet": "Naga World",
+      "nom_livescore": "FC Nagaworld"
+    },
+    {
+      "nom_1xbet": "Dangkor Senchey",
+      "nom_livescore": "Isi Dangkor Senchey FC"
+    },
+    {
+      "nom_1xbet": "Visakha",
+      "nom_livescore": "FC Visakha"
+    },
+    {
+      "nom_1xbet": "Kompong Dewa",
+      "nom_livescore": "National Police Commissary"
+    },
+    {
+      "nom_1xbet": "Al-Wahda Abu Dhabi",
+      "nom_livescore": "Al Wahda (EAU)"
+    },
+    {
+      "nom_1xbet": "Khor Fakkan",
+      "nom_livescore": "Khor Fakkan Club"
+    },
+    {
+      "nom_1xbet": "Dibba Al-Fujairah",
+      "nom_livescore": "Dibba Club"
+    },
+    {
+      "nom_1xbet": "Al Wasl",
+      "nom_livescore": "Al-Wasl FC"
+    },
+    {
+      "nom_1xbet": "Al Nasr Dubai",
+      "nom_livescore": "Al-Nasr Dubai CSC"
+    },
+    {
+      "nom_1xbet": "Al Ain",
+      "nom_livescore": "Al Ain"
+    },
+    {
+      "nom_1xbet": "Basake Holy Stars",
+      "nom_livescore": "Basake Holy Stars"
+    },
+    {
+      "nom_1xbet": "Hohoe United",
+      "nom_livescore": "Hohoe United"
+    },
+    {
+      "nom_1xbet": "Berekum Chelsea",
+      "nom_livescore": "Chelsea"
+    },
+    {
+      "nom_1xbet": "Eleven Wonders",
+      "nom_livescore": "Eleven Wonders FC"
+    },
+    {
+      "nom_1xbet": "Bibiani Gold Stars",
+      "nom_livescore": "Bibiani Gold Stars FC"
+    },
+    {
+      "nom_1xbet": "Dreams",
+      "nom_livescore": "Dreams FC"
+    },
+    {
+      "nom_1xbet": "Swedru All Blacks",
+      "nom_livescore": "All Blacks"
+    },
+    {
+      "nom_1xbet": "Karela",
+      "nom_livescore": "Karela United FC"
+    },
+    {
+      "nom_1xbet": "Young Apostles",
+      "nom_livescore": "Young Apostles FC"
+    },
+    {
+      "nom_1xbet": "Aduana Stars",
+      "nom_livescore": "Aduana Stars"
+    },
+    {
+      "nom_1xbet": "Asante Kotoko",
+      "nom_livescore": "Asante Kotoko"
+    },
+    {
+      "nom_1xbet": "Bechem United",
+      "nom_livescore": "Bechem United"
+    },
+    {
+      "nom_1xbet": "Marathon",
+      "nom_livescore": "CD Marathon"
+    },
+    {
+      "nom_1xbet": "Olancho",
+      "nom_livescore": "Olancho FC"
+    },
+    {
+      "nom_1xbet": "Al Tadamon Farwaniya",
+      "nom_livescore": "AL Tadhamon"
+    },
+    {
+      "nom_1xbet": "Al-Arabi Kuwait",
+      "nom_livescore": "Al Arabi"
+    },
+    {
+      "nom_1xbet": "Koweït SC",
+      "nom_livescore": "Koweït SC"
+    },
+    {
+      "nom_1xbet": "Al Fahaheel",
+      "nom_livescore": "Al Fehayheel"
+    },
+    {
+      "nom_1xbet": "Racing Beirut",
+      "nom_livescore": "Racing Beyrouth"
+    },
+    {
+      "nom_1xbet": "Al Riyadi Al Abassiya",
+      "nom_livescore": "Reyady Abaseya"
+    },
+    {
+      "nom_1xbet": "Selangor",
+      "nom_livescore": "Selangor FA"
+    },
+    {
+      "nom_1xbet": "Melaka FC",
+      "nom_livescore": "Melaka FC"
+    },
+    {
+      "nom_1xbet": "Mali Coura",
+      "nom_livescore": "FC Mali Coura"
+    },
+    {
+      "nom_1xbet": "Afrique Football Elite",
+      "nom_livescore": "Afrique Football Elite"
+    },
+    {
+      "nom_1xbet": "USFAS Bamako",
+      "nom_livescore": "Usfas Bamako"
+    },
+    {
+      "nom_1xbet": "Korofina",
+      "nom_livescore": "AS Korofina"
+    },
+    {
+      "nom_1xbet": "ASN Nigelec",
+      "nom_livescore": "Nigelec"
+    },
+    {
+      "nom_1xbet": "Urana",
+      "nom_livescore": "Urana"
+    },
+    {
+      "nom_1xbet": "AS UAM",
+      "nom_livescore": "AS UAM"
+    },
+    {
+      "nom_1xbet": "Espoir Zinder",
+      "nom_livescore": "Espoir"
+    },
+    {
+      "nom_1xbet": "Enyimba International",
+      "nom_livescore": "Enyimba FC"
+    },
+    {
+      "nom_1xbet": "Shooting Stars",
+      "nom_livescore": "Shooting Stars"
+    },
+    {
+      "nom_1xbet": "Kun Khalifat",
+      "nom_livescore": "Kun Khalifat"
+    },
+    {
+      "nom_1xbet": "Katsina United",
+      "nom_livescore": "Katsina United FC"
+    },
+    {
+      "nom_1xbet": "Niger Tornadoes",
+      "nom_livescore": "Niger Tornadoes"
+    },
+    {
+      "nom_1xbet": "Barau",
+      "nom_livescore": "Barau"
+    },
+    {
+      "nom_1xbet": "Plateau United",
+      "nom_livescore": "Plateau United"
+    },
+    {
+      "nom_1xbet": "Abia Warriors",
+      "nom_livescore": "Abia Warriors"
+    },
+    {
+      "nom_1xbet": "Rivers United",
+      "nom_livescore": "Rivers United"
+    },
+    {
+      "nom_1xbet": "Enugu Rangers",
+      "nom_livescore": "Enugu Rangers"
+    },
+    {
+      "nom_1xbet": "Warri Wolves",
+      "nom_livescore": "Warri Wolves"
+    },
+    {
+      "nom_1xbet": "Wikki Tourists FC",
+      "nom_livescore": "Wikki Tourists FC"
+    },
+    {
+      "nom_1xbet": "Ikorodu City",
+      "nom_livescore": "Ikorodu City"
+    },
+    {
+      "nom_1xbet": "Remo Stars",
+      "nom_livescore": "Remo Stars"
+    },
+    {
+      "nom_1xbet": "Bahla Club",
+      "nom_livescore": "Bahla Club"
+    },
+    {
+      "nom_1xbet": "Sur Club",
+      "nom_livescore": "Sur Club"
+    },
+    {
+      "nom_1xbet": "Al-Shabab Barka",
+      "nom_livescore": "Al-Shabab Barka"
+    },
+    {
+      "nom_1xbet": "Dhofar",
+      "nom_livescore": "Dhofar"
+    },
+    {
+      "nom_1xbet": "Banque nationale d'Égypte",
+      "nom_livescore": "National Bank of Egypt SC"
+    },
+    {
+      "nom_1xbet": "ENPPI",
+      "nom_livescore": "ENPPI Club"
+    },
+    {
+      "nom_1xbet": "Haras El Hodoud",
+      "nom_livescore": "Haras El Hodoud"
+    },
+    {
+      "nom_1xbet": "Smouha",
+      "nom_livescore": "Smouha SC"
+    },
+    {
+      "nom_1xbet": "Zamalek",
+      "nom_livescore": "Zamalek SC"
+    },
+    {
+      "nom_1xbet": "Baladiyet El Mahallah",
+      "nom_livescore": "Baladiyyat AL Mehalla"
+    },
+    {
+      "nom_1xbet": "Al-Duhail",
+      "nom_livescore": "Al-Duhail"
+    },
+    {
+      "nom_1xbet": "Qatar SC",
+      "nom_livescore": "Qatar SC"
+    },
+    {
+      "nom_1xbet": "Al-Sailiya",
+      "nom_livescore": "Al-Sailiya"
+    },
+    {
+      "nom_1xbet": "Al-Wakrah",
+      "nom_livescore": "Al-Wakrah"
+    },
+    {
+      "nom_1xbet": "Al-Arabi Doha",
+      "nom_livescore": "Al-Arabi Doha"
+    },
+    {
+      "nom_1xbet": "AlRayyan",
+      "nom_livescore": "Al Rayyan"
+    },
+    {
+      "nom_1xbet": "Al Shamal",
+      "nom_livescore": "Al Shamal"
+    },
+    {
+      "nom_1xbet": "AlSadd",
+      "nom_livescore": "Al Sadd"
+    },
+    {
+      "nom_1xbet": "Ankara Keciorengucu",
+      "nom_livescore": "Ankara Keciorengucu"
+    },
+    {
+      "nom_1xbet": "Umraniyespor",
+      "nom_livescore": "Umraniyespor"
+    },
+    {
+      "nom_1xbet": "Serik Belediyespor",
+      "nom_livescore": "Serik Belediyespor"
+    },
+    {
+      "nom_1xbet": "Boluspor",
+      "nom_livescore": "Boluspor"
+    },
+    {
+      "nom_1xbet": "Buyuksehir Belediye Erzurumspor",
+      "nom_livescore": "Buyuksehir Belediye Erzurumspor"
+    },
+    {
+      "nom_1xbet": "Corum FK",
+      "nom_livescore": "Corum FK"
+    },
+    {
+      "nom_1xbet": "Amed Sportif Faaliyetler",
+      "nom_livescore": "Amed Sportif Faaliyetler"
+    },
+    {
+      "nom_1xbet": "Igdir FK",
+      "nom_livescore": "Igdir FK"
+    },
+    {
+      "nom_1xbet": "Batu Ketema",
+      "nom_livescore": "Batu Ketema"
+    },
+    {
+      "nom_1xbet": "Yeka",
+      "nom_livescore": "Yeka"
+    },
+    {
+      "nom_1xbet": "Menge Belashangul",
+      "nom_livescore": "Menge Belashangul"
+    },
+    {
+      "nom_1xbet": "Addis Ketema",
+      "nom_livescore": "Addis Ketema"
+    },
+    {
+      "nom_1xbet": "Bayelsa United FC",
+      "nom_livescore": "Bayelsa United FC"
+    },
+    {
+      "nom_1xbet": "El-Kanemi Warriors",
+      "nom_livescore": "El-Kanemi Warriors"
+    },
+    {
+      "nom_1xbet": "Kano Pillars",
+      "nom_livescore": "Kano Pillars"
+    },
+    {
+      "nom_1xbet": "Nasarawa United",
+      "nom_livescore": "Nasarawa United"
+    },
+    {
+      "nom_1xbet": "Brikama United",
+      "nom_livescore": "Brikama United"
+    },
+    {
+      "nom_1xbet": "Gambia Ports Authority",
+      "nom_livescore": "Gambia Ports Authority"
+    },
+    {
+      "nom_1xbet": "San Carlos FC",
+      "nom_livescore": "San Carlos FC"
+    },
+    {
+      "nom_1xbet": "AD Cofutpa",
+      "nom_livescore": "AD Cofutpa"
+    },
+    {
+      "nom_1xbet": "Malut United",
+      "nom_livescore": "Malut United"
+    },
+    {
+      "nom_1xbet": "Borneo Samarinda",
+      "nom_livescore": "Borneo Samarinda"
+    },
+    {
+      "nom_1xbet": "Persebaya Surabaya",
+      "nom_livescore": "Persebaya Surabaya"
+    },
+    {
+      "nom_1xbet": "Persijap",
+      "nom_livescore": "Persijap"
+    },
+    {
+      "nom_1xbet": "AL Qous Club",
+      "nom_livescore": "AL Qous Club"
+    },
+    {
+      "nom_1xbet": "Arar",
+      "nom_livescore": "Arar"
+    },
+    {
+      "nom_1xbet": "AS Camberene",
+      "nom_livescore": "AS Camberene"
+    },
+    {
+      "nom_1xbet": "Guédiawaye FC",
+      "nom_livescore": "Guédiawaye FC"
+    },
+    {
+      "nom_1xbet": "AS Dakar Sacre Coeur",
+      "nom_livescore": "AS Dakar Sacre Coeur"
+    },
+    {
+      "nom_1xbet": "Sonacos",
+      "nom_livescore": "Sonacos"
+    },
+    {
+      "nom_1xbet": "Teungueth",
+      "nom_livescore": "Teungueth"
+    },
+    {
+      "nom_1xbet": "ASC Linguère",
+      "nom_livescore": "ASC Linguère"
+    },
+    {
+      "nom_1xbet": "ASC Jaraaf",
+      "nom_livescore": "ASC Jaraaf"
+    },
+    {
+      "nom_1xbet": "Ajel de Rufisque",
+      "nom_livescore": "Ajel de Rufisque"
+    },
+    {
+      "nom_1xbet": "Walidaan Dkr",
+      "nom_livescore": "Walidaan Dkr"
+    },
+    {
+      "nom_1xbet": "US Gorée",
+      "nom_livescore": "US Gorée"
+    },
+    {
+      "nom_1xbet": "Casa Sport",
+      "nom_livescore": "Casa Sport"
+    },
+    {
+      "nom_1xbet": "African Sports Club",
+      "nom_livescore": "African Sports Club"
+    },
+    {
+      "nom_1xbet": "Mbuni FC",
+      "nom_livescore": "Mbuni FC"
+    },
+    {
+      "nom_1xbet": "Kagera Sugar",
+      "nom_livescore": "Kagera Sugar"
+    },
+    {
+      "nom_1xbet": "Songea United",
+      "nom_livescore": "Songea United"
+    },
+    {
+      "nom_1xbet": "Tma FC",
+      "nom_livescore": "Tma FC"
+    },
+    {
+      "nom_1xbet": "Polisi Tanzania FC",
+      "nom_livescore": "Polisi Tanzania FC"
+    }
+  ],
+  "leagues": [
+    {
+      "nom_1xbet": "Championnat de Hong Kong. Division 2",
+      "nom_livescore": "Premier League"
+    },
+    {
+      "nom_1xbet": "England Premier League",
+      "nom_livescore": "Premier League"
+    },
+    {
+      "nom_1xbet": "Italy Serie A",
+      "nom_livescore": "Serie A"
+    },
+    {
+      "nom_1xbet": "Africa Cup of Nations",
+      "nom_livescore": "Coupe d'Afrique des nations 2025"
+    },
+    {
+      "nom_1xbet": "Portugal Primeira Liga",
+      "nom_livescore": "Primeira Liga"
+    },
+    {
+      "nom_1xbet": "UAE Pro League",
+      "nom_livescore": "Pro League"
+    },
+    {
+      "nom_1xbet": "Bangladesh Championship Division 1",
+      "nom_livescore": "Division 1"
+    },
+    {
+      "nom_1xbet": "Cambodia Metfone C-League",
+      "nom_livescore": "Premier League 25/26"
+    },
+    {
+      "nom_1xbet": "Ghana Premier League",
+      "nom_livescore": "Premier League"
+    },
+    {
+      "nom_1xbet": "Honduras Liga Nacional",
+      "nom_livescore": "Liga Nacional"
+    },
+    {
+      "nom_1xbet": "Kuwait Premier League",
+      "nom_livescore": "Premier League"
+    },
+    {
+      "nom_1xbet": "Mali Premiere Division",
+      "nom_livescore": "Ligue 1 25/26"
+    },
+    {
+      "nom_1xbet": "Niger Championship",
+      "nom_livescore": "Super Ligue"
+    },
+    {
+      "nom_1xbet": "Nigeria Premier League",
+      "nom_livescore": "Premier League 25/26"
+    },
+    {
+      "nom_1xbet": "Oman Sultan Qaboos Cup",
+      "nom_livescore": "Cup"
+    },
+    {
+      "nom_1xbet": "Egypt Cup",
+      "nom_livescore": "Cup"
+    },
+    {
+      "nom_1xbet": "Qatar Championship",
+      "nom_livescore": "Pro League"
+    },
+    {
+      "nom_1xbet": "Turkey TFF 1. Lig",
+      "nom_livescore": "1re Ligue"
+    },
+    {
+      "nom_1xbet": "Turkey TFF 2. Lig",
+      "nom_livescore": "2. Lig - Groupe blanc"
+    },
+    {
+      "nom_1xbet": "Malaysia Super League",
+      "nom_livescore": "Super League"
+    },
+    {
+      "nom_1xbet": "Malaysia Liga A1",
+      "nom_livescore": "Liga A1 25/26"
+    },
+    {
+      "nom_1xbet": "Indonesia Super League",
+      "nom_livescore": "Super Coupe"
+    },
+    {
+      "nom_1xbet": "Thailand League Cup",
+      "nom_livescore": "League Cup"
+    },
+    {
+      "nom_1xbet": "Ethiopia Higher League",
+      "nom_livescore": "Ligue majeure"
+    },
+    {
+      "nom_1xbet": "Bahrain Premier League",
+      "nom_livescore": "Première Ligue"
+    },
+    {
+      "nom_1xbet": "Eswatini Premier League",
+      "nom_livescore": "Premier League"
+    },
+    {
+      "nom_1xbet": "Gambian Championship 1st Division",
+      "nom_livescore": "1ère Division"
+    },
+    {
+      "nom_1xbet": "Benin League 1",
+      "nom_livescore": "Ligue 1"
+    },
+    {
+      "nom_1xbet": "Sierra Leone Premier League",
+      "nom_livescore": "Premier League"
+    },
+    {
+      "nom_1xbet": "Togo Championnat National",
+      "nom_livescore": "Championnat National"
+    },
+    {
+      "nom_1xbet": "Mauritania Championnat D1",
+      "nom_livescore": "Championnat D1"
+    },
+    {
+      "nom_1xbet": "Rwanda National League",
+      "nom_livescore": "Ligue Nationale"
+    },
+    {
+      "nom_1xbet": "Jamaica National Premier League",
+      "nom_livescore": "Première Ligue"
+    },
+    {
+      "nom_1xbet": "Jordan Shield Cup",
+      "nom_livescore": "Shield Cup"
+    },
+    {
+      "nom_1xbet": "Lebanon Premier League",
+      "nom_livescore": "Premier League 25/26"
+    },
+    {
+      "nom_1xbet": "Mapinduzi Cup",
+      "nom_livescore": "Mapinduzi Cup"
+    },
+    {
+      "nom_1xbet": "Malawi Cup",
+      "nom_livescore": "Cup"
+    },
+    {
+      "nom_1xbet": "Tanzania Championship League",
+      "nom_livescore": "Championship League"
+    },
+    {
+      "nom_1xbet": "Albania Super Cup",
+      "nom_livescore": "Supercoupe"
+    },
+    {
+      "nom_1xbet": "Guangdong Hong Kong Cup",
+      "nom_livescore": "Coupe de Guangdong - Hong Kong"
+    },
+    {
+      "nom_1xbet": "Costa Rica Liga de Ascenso Playoffs",
+      "nom_livescore": "Liga de Ascenso: Playoffs"
+    },
+    {
+      "nom_1xbet": "Guatemala Liga Nacional Playoff",
+      "nom_livescore": "Liga Nacional - Apertura - Phase Finale"
+    },
+    {
+      "nom_1xbet": "Honduras Liga Nacional Playoff",
+      "nom_livescore": "Liga Nacional: Apertura Playoff"
+    },
+    {
+      "nom_1xbet": "Saudi Arabia Second Division Group B",
+      "nom_livescore": "Second Division: Group B"
+    },
+    {
+      "nom_1xbet": "Senegal Ligue 1",
+      "nom_livescore": "Ligue 1 25/26"
+    }
+  ],
+  "countries": [
+    {
+      "nom_1xbet": "England",
+      "nom_livescore": "Angleterre"
+    },
+    {
+      "nom_1xbet": "Italy",
+      "nom_livescore": "Italie"
+    },
+    {
+      "nom_1xbet": "Saudi Arabia",
+      "nom_livescore": "Arabie saoudite"
+    },
+    {
+      "nom_1xbet": "UAE",
+      "nom_livescore": "Émirats Arabes Unis"
+    },
+    {
+      "nom_1xbet": "Egypt",
+      "nom_livescore": "Égypte"
+    },
+    {
+      "nom_1xbet": "International",
+      "nom_livescore": "CAN"
+    },
+    {
+      "nom_1xbet": "Portugal",
+      "nom_livescore": "Portugal"
+    },
+    {
+      "nom_1xbet": "Bangladesh",
+      "nom_livescore": "Bangladesh"
+    },
+    {
+      "nom_1xbet": "Cambodia",
+      "nom_livescore": "Cambodge"
+    },
+    {
+      "nom_1xbet": "Ghana",
+      "nom_livescore": "Ghana"
+    },
+    {
+      "nom_1xbet": "Honduras",
+      "nom_livescore": "Honduras"
+    },
+    {
+      "nom_1xbet": "Kuwait",
+      "nom_livescore": "Koweït"
+    },
+    {
+      "nom_1xbet": "Mali",
+      "nom_livescore": "Mali"
+    },
+    {
+      "nom_1xbet": "Niger",
+      "nom_livescore": "Niger"
+    },
+    {
+      "nom_1xbet": "Nigeria",
+      "nom_livescore": "Nigeria"
+    },
+    {
+      "nom_1xbet": "Oman",
+      "nom_livescore": "Oman"
+    },
+    {
+      "nom_1xbet": "Qatar",
+      "nom_livescore": "Qatar"
+    },
+    {
+      "nom_1xbet": "Turkey",
+      "nom_livescore": "Turquie"
+    },
+    {
+      "nom_1xbet": "Malaysia",
+      "nom_livescore": "Malaisie"
+    },
+    {
+      "nom_1xbet": "Indonesia",
+      "nom_livescore": "Indonésie"
+    },
+    {
+      "nom_1xbet": "Thailand",
+      "nom_livescore": "Thaïlande"
+    },
+    {
+      "nom_1xbet": "Ethiopia",
+      "nom_livescore": "Éthiopie"
+    },
+    {
+      "nom_1xbet": "Bahrain",
+      "nom_livescore": "Bahreïn"
+    },
+    {
+      "nom_1xbet": "Eswatini",
+      "nom_livescore": "Eswatini"
+    },
+    {
+      "nom_1xbet": "Gambia",
+      "nom_livescore": "Gambie"
+    },
+    {
+      "nom_1xbet": "Benin",
+      "nom_livescore": "Bénin"
+    },
+    {
+      "nom_1xbet": "Sierra Leone",
+      "nom_livescore": "Sierra Leone"
+    },
+    {
+      "nom_1xbet": "Togo",
+      "nom_livescore": "Togo"
+    },
+    {
+      "nom_1xbet": "Mauritania",
+      "nom_livescore": "Mauritanie"
+    },
+    {
+      "nom_1xbet": "Rwanda",
+      "nom_livescore": "Rwanda"
+    },
+    {
+      "nom_1xbet": "Jamaica",
+      "nom_livescore": "Jamaïque"
+    },
+    {
+      "nom_1xbet": "Jordan",
+      "nom_livescore": "Jordanie"
+    },
+    {
+      "nom_1xbet": "Lebanon",
+      "nom_livescore": "Liban"
+    },
+    {
+      "nom_1xbet": "Tanzania",
+      "nom_livescore": "Tanzanie"
+    },
+    {
+      "nom_1xbet": "Malawi",
+      "nom_livescore": "Malawi"
+    },
+    {
+      "nom_1xbet": "Albania",
+      "nom_livescore": "Albanie"
+    },
+    {
+      "nom_1xbet": "Hong Kong",
+      "nom_livescore": "Hong Kong"
+    },
+    {
+      "nom_1xbet": "Mozambique",
+      "nom_livescore": "Mozambique"
+    },
+    {
+      "nom_1xbet": "Senegal",
+      "nom_livescore": "Sénégal"
+    },
+    {
+      "nom_1xbet": "Costa Rica",
+      "nom_livescore": "Costa Rica"
+    },
+    {
+      "nom_1xbet": "Guatemala",
+      "nom_livescore": "Guatemala"
+    }
+  ],
+  "metadata": {
+    "version": "1.0",
+    "generated_at": "2024-12-28T08:07:32Z",
+    "total_teams_mapped": 135,
+    "total_leagues_mapped": 45,
+    "total_countries_mapped": 42,
+    "description": "Fichier de correspondance entre les noms utilisés sur Livescore et 1xbet",
+    "structure": {
+      "teams": "Liste des équipes avec nom_1xbet et nom_livescore",
+      "leagues": "Liste des ligues/championnats avec nom_1xbet et nom_livescore",
+      "countries": "Liste des pays avec nom_1xbet et nom_livescore"
+    },
+    "usage_example": {
+      "description": "Comment trouver une correspondance",
+      "exemple_equipe": "Pour trouver 'Milan AC' sur Livescore à partir de '1xbet Milan', chercher dans teams où nom_1xbet='Milan' => nom_livescore='Milan AC'",
+      "exemple_ligue": "Pour trouver 'Serie A' sur Livescore à partir de '1xbet Italy Serie A', chercher dans leagues où nom_1xbet='Italy Serie A' => nom_livescore='Serie A'",
+      "exemple_pays": "Pour trouver 'Angleterre' sur Livescore à partir de '1xbet England', chercher dans countries où nom_1xbet='England' => nom_livescore='Angleterre'"
+    }
+  }
+}

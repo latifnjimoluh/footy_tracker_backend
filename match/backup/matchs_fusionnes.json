@@ -1,0 +1,597 @@
+[
+    {
+        "common_id": "1528969_292041732",
+        "start_time": "15:00",
+        "league_livescore": "Premier League",
+        "league_1xbet": "Championnat de Hong Kong. Division 2",
+        "teams": {
+            "home": "Sunderland AFC",
+            "away": "Leeds"
+        },
+        "odds": {
+            "1": "2.835",
+            "X": "3.19",
+            "2": "2.865"
+        },
+        "url_1xbet": "https://1xbet.cm/fr/line/football/88637-england-premier-league/292041732-sunderland-leeds-united",
+        "method": "Dictionary"
+    },
+    {
+        "common_id": "1520007_292164100",
+        "start_time": "12:30",
+        "league_livescore": "Serie A",
+        "league_1xbet": "Championnat de Hong Kong. Division 2",
+        "teams": {
+            "home": "Milan AC",
+            "away": "Hellas Vérone"
+        },
+        "odds": {
+            "1": "1.414",
+            "X": "4.88",
+            "2": "9.65"
+        },
+        "url_1xbet": "https://1xbet.cm/fr/line/football/110163-italy-serie-a/292164100-milan-hellas-verona",
+        "method": "Dictionary"
+    },
+    {
+        "common_id": "1520005_292164099",
+        "start_time": "15:00",
+        "league_livescore": "Serie A",
+        "league_1xbet": "Championnat de Hong Kong. Division 2",
+        "teams": {
+            "home": "US Cremonese",
+            "away": "SSC Naples"
+        },
+        "odds": {
+            "1": "6.49",
+            "X": "3.99",
+            "2": "1.637"
+        },
+        "url_1xbet": "https://1xbet.cm/fr/line/football/110163-italy-serie-a/292164099-cremonese-napoli",
+        "method": "Dictionary"
+    },
+    {
+        "common_id": "1520003_292164795",
+        "start_time": "18:00",
+        "league_livescore": "Serie A",
+        "league_1xbet": "Championnat de Hong Kong. Division 2",
+        "teams": {
+            "home": "Bologna FC",
+            "away": "Sassuolo"
+        },
+        "odds": {
+            "1": "1.934",
+            "X": "3.56",
+            "2": "4.6"
+        },
+        "url_1xbet": "https://1xbet.cm/fr/line/football/110163-italy-serie-a/292164795-bologna-1909-sassuolo-calcio",
+        "method": "Dictionary"
+    },
+    {
+        "common_id": "1520014_292164790",
+        "start_time": "20:45",
+        "league_livescore": "Serie A",
+        "league_1xbet": "Championnat de Hong Kong. Division 2",
+        "teams": {
+            "home": "Atalanta Bergame",
+            "away": "Inter Milan"
+        },
+        "odds": {
+            "1": "3.76",
+            "X": "3.64",
+            "2": "2.106"
+        },
+        "url_1xbet": "https://1xbet.cm/fr/line/football/110163-italy-serie-a/292164790-atalanta-internazionale-milano",
+        "method": "Dictionary"
+    },
+    {
+        "common_id": "1448957_292584402",
+        "start_time": "16:00",
+        "league_livescore": "Coupe d'Afrique des nations 2025",
+        "league_1xbet": "Championnat de Hong Kong. Division 2",
+        "teams": {
+            "home": "Guinée Equatoriale",
+            "away": "Soudan"
+        },
+        "odds": {
+            "1": "2.429",
+            "X": "2.954",
+            "2": "3.7"
+        },
+        "url_1xbet": "https://1xbet.cm/fr/line/football/21317-africa-cup-of-nations/292584402-equatorial-guinea-sudan",
+        "method": "Dictionary"
+    },
+    {
+        "common_id": "1448956_292627044",
+        "start_time": "18:30",
+        "league_livescore": "Coupe d'Afrique des nations 2025",
+        "league_1xbet": "Championnat de Hong Kong. Division 2",
+        "teams": {
+            "home": "Algérie",
+            "away": "Burkina Faso"
+        },
+        "odds": {
+            "1": "1.871",
+            "X": "3.445",
+            "2": "5.09"
+        },
+        "url_1xbet": "https://1xbet.cm/fr/line/football/21317-africa-cup-of-nations/292627044-algeria-burkina-faso",
+        "method": "Dictionary"
+    },
+    {
+        "common_id": "1448963_292584367",
+        "start_time": "13:30",
+        "league_livescore": "Coupe d'Afrique des nations 2025",
+        "league_1xbet": "Championnat de Hong Kong. Division 2",
+        "teams": {
+            "home": "Gabon",
+            "away": "Mozambique"
+        },
+        "odds": {
+            "1": "1.952",
+            "X": "3.4",
+            "2": "4.67"
+        },
+        "url_1xbet": "https://1xbet.cm/fr/line/football/21317-africa-cup-of-nations/292584367-gabon-mozambique",
+        "method": "Dictionary"
+    },
+    {
+        "common_id": "1448962_292627042",
+        "start_time": "21:00",
+        "league_livescore": "Coupe d'Afrique des nations 2025",
+        "league_1xbet": "Championnat de Hong Kong. Division 2",
+        "teams": {
+            "home": "Côte d´Ivoire",
+            "away": "Cameroun"
+        },
+        "odds": {
+            "1": "2.236",
+            "X": "2.908",
+            "2": "4.355"
+        },
+        "url_1xbet": "https://1xbet.cm/fr/line/football/21317-africa-cup-of-nations/292627042-ivory-coast-cameroon",
+        "method": "Dictionary"
+    },
+    {
+        "common_id": "1637417_293945736",
+        "start_time": "12:00",
+        "league_livescore": "Premier League 25/26",
+        "league_1xbet": "Championnat du Cambodge",
+        "teams": {
+            "home": "Angkor Tiger",
+            "away": "Kirivong Soksen Chey"
+        },
+        "odds": {
+            "1": "1.44",
+            "X": "4.45",
+            "2": "5.49"
+        },
+        "url_1xbet": "https://1xbet.cm/fr/line/football/303133-cambodia-metfone-c-league/293945736-angkor-tiger-kirivong-sok-sen-chey",
+        "method": "Dictionary"
+    },
+    {
+        "common_id": "1637418_293953240",
+        "start_time": "12:00",
+        "league_livescore": "Premier League 25/26",
+        "league_1xbet": "Championnat du Cambodge",
+        "teams": {
+            "home": "FC Nagaworld",
+            "away": "Isi Dangkor Senchey FC"
+        },
+        "odds": {
+            "1": "1.36",
+            "X": "4.5",
+            "2": "6.93"
+        },
+        "url_1xbet": "https://1xbet.cm/fr/line/football/303133-cambodia-metfone-c-league/293953240-naga-world-dangkor-senchey",
+        "method": "Dictionary"
+    },
+    {
+        "common_id": "1637419_293946529",
+        "start_time": "12:00",
+        "league_livescore": "Premier League 25/26",
+        "league_1xbet": "Championnat du Cambodge",
+        "teams": {
+            "home": "FC Visakha",
+            "away": "National Police Commissary"
+        },
+        "odds": {
+            "1": "1.79",
+            "X": "3.6",
+            "2": "3.77"
+        },
+        "url_1xbet": "https://1xbet.cm/fr/line/football/303133-cambodia-metfone-c-league/293946529-visakha-kompong-dewa",
+        "method": "Dictionary"
+    },
+    {
+        "common_id": "1706063_293952480",
+        "start_time": "13:30",
+        "league_livescore": "Cup",
+        "league_1xbet": "Coupe d'Égypte",
+        "teams": {
+            "home": "Haras El Hodoud",
+            "away": "Smouha SC"
+        },
+        "odds": {
+            "1": "3.465",
+            "X": "2.71",
+            "2": "2.25"
+        },
+        "url_1xbet": "https://1xbet.cm/fr/line/football/148731-egypt-cup/293952480-haras-el-hodoud-smouha",
+        "method": "Dictionary"
+    },
+    {
+        "common_id": "1706065_293952477",
+        "start_time": "13:30",
+        "league_livescore": "Cup",
+        "league_1xbet": "Coupe d'Égypte",
+        "teams": {
+            "home": "National Bank of Egypt SC",
+            "away": "ENPPI Club"
+        },
+        "odds": {
+            "1": "2.04",
+            "X": "2.99",
+            "2": "3.62"
+        },
+        "url_1xbet": "https://1xbet.cm/fr/line/football/148731-egypt-cup/293952477-national-bank-of-egypt-enppi",
+        "method": "Dictionary"
+    },
+    {
+        "common_id": "1706064_293964504",
+        "start_time": "13:30",
+        "league_livescore": "Cup",
+        "league_1xbet": "Coupe d'Égypte",
+        "teams": {
+            "home": "Zamalek SC",
+            "away": "Baladiyyat AL Mehalla"
+        },
+        "odds": {
+            "1": "1.204",
+            "X": "5.15",
+            "2": "12.9"
+        },
+        "url_1xbet": "https://1xbet.cm/fr/line/football/148731-egypt-cup/293964504-zamalek-baladiyet-el-mahallah",
+        "method": "Dictionary"
+    },
+    {
+        "common_id": "1617994_293974302",
+        "start_time": "16:00",
+        "league_livescore": "Premier League",
+        "league_1xbet": "Championnat du Ghana. Glo Première Ligue",
+        "teams": {
+            "home": "All Blacks",
+            "away": "Karela United FC"
+        },
+        "odds": {
+            "1": "1.71",
+            "X": "3.125",
+            "2": "5.11"
+        },
+        "url_1xbet": "https://1xbet.cm/fr/line/football/27371-ghana-premier-league/293974302-swedru-all-blacks-karela",
+        "method": "Dictionary"
+    },
+    {
+        "common_id": "1617992_294119413",
+        "start_time": "16:00",
+        "league_livescore": "Premier League",
+        "league_1xbet": "Championnat du Ghana. Glo Première Ligue",
+        "teams": {
+            "home": "Basake Holy Stars",
+            "away": "Hohoe United"
+        },
+        "odds": {
+            "1": "1.73",
+            "X": "3.02",
+            "2": "5.22"
+        },
+        "url_1xbet": "https://1xbet.cm/fr/line/football/27371-ghana-premier-league/294119413-basake-holy-stars-hohoe-united",
+        "method": "Dictionary"
+    },
+    {
+        "common_id": "1617988_293973671",
+        "start_time": "16:00",
+        "league_livescore": "Premier League",
+        "league_1xbet": "Championnat du Ghana. Glo Première Ligue",
+        "teams": {
+            "home": "Bibiani Gold Stars FC",
+            "away": "Dreams FC"
+        },
+        "odds": {
+            "1": "1.5",
+            "X": "3.34",
+            "2": "7.36"
+        },
+        "url_1xbet": "https://1xbet.cm/fr/line/football/27371-ghana-premier-league/293973671-bibiani-gold-stars-dreams",
+        "method": "Dictionary"
+    },
+    {
+        "common_id": "1617990_293962510",
+        "start_time": "16:00",
+        "league_livescore": "Premier League",
+        "league_1xbet": "Championnat du Ghana. Glo Première Ligue",
+        "teams": {
+            "home": "Chelsea",
+            "away": "Eleven Wonders FC"
+        },
+        "odds": {
+            "1": "1.34",
+            "X": "3.8",
+            "2": "10.8"
+        },
+        "url_1xbet": "https://1xbet.cm/fr/line/football/27371-ghana-premier-league/293962510-berekum-chelsea-eleven-wonders",
+        "method": "Dictionary"
+    },
+    {
+        "common_id": "1617993_294119414",
+        "start_time": "16:00",
+        "league_livescore": "Premier League",
+        "league_1xbet": "Championnat du Ghana. Glo Première Ligue",
+        "teams": {
+            "home": "Young Apostles FC",
+            "away": "Aduana Stars"
+        },
+        "odds": {
+            "1": "2.29",
+            "X": "2.74",
+            "2": "3.33"
+        },
+        "url_1xbet": "https://1xbet.cm/fr/line/football/27371-ghana-premier-league/294119414-young-apostles-aduana-stars",
+        "method": "Dictionary"
+    },
+    {
+        "common_id": "1617989_293962507",
+        "start_time": "16:30",
+        "league_livescore": "Premier League",
+        "league_1xbet": "Championnat du Ghana. Glo Première Ligue",
+        "teams": {
+            "home": "Asante Kotoko",
+            "away": "Bechem United"
+        },
+        "odds": {
+            "1": "1.34",
+            "X": "3.88",
+            "2": "10.2"
+        },
+        "url_1xbet": "https://1xbet.cm/fr/line/football/27371-ghana-premier-league/293962507-asante-kotoko-bechem-united",
+        "method": "Dictionary"
+    },
+    {
+        "common_id": "1643170_293864744",
+        "start_time": "14:05",
+        "league_livescore": "Premier League",
+        "league_1xbet": "Championnat du Koweït",
+        "teams": {
+            "home": "AL Tadhamon",
+            "away": "Al Arabi"
+        },
+        "odds": {
+            "1": "11.6",
+            "X": "5.1",
+            "2": "1.22"
+        },
+        "url_1xbet": "https://1xbet.cm/fr/line/football/14003-kuwait-premier-league/293864744-al-tadamun-al-arabi-kuwait",
+        "method": "Dictionary"
+    },
+    {
+        "common_id": "1643175_293879723",
+        "start_time": "16:45",
+        "league_livescore": "Premier League",
+        "league_1xbet": "Championnat du Koweït",
+        "teams": {
+            "home": "Koweït SC",
+            "away": "Al Fehayheel"
+        },
+        "odds": {
+            "1": "1.24",
+            "X": "5.05",
+            "2": "10.2"
+        },
+        "url_1xbet": "https://1xbet.cm/fr/line/football/14003-kuwait-premier-league/293879723-al-kuwait-sc-al-fahaheel",
+        "method": "Dictionary"
+    },
+    {
+        "common_id": "1699977_293814910",
+        "start_time": "13:00",
+        "league_livescore": "Premier League 25/26",
+        "league_1xbet": "Liban. Premier League",
+        "teams": {
+            "home": "Racing Beyrouth",
+            "away": "Reyady Abaseya"
+        },
+        "odds": {
+            "1": "7.05",
+            "X": "3.92",
+            "2": "1.42"
+        },
+        "url_1xbet": "https://1xbet.cm/fr/line/football/2908998-lebanon-premier-league/293814910-racing-beirut-al-riyadi-al-abassiya",
+        "method": "Dictionary"
+    },
+    {
+        "common_id": "1711132_293891836",
+        "start_time": "17:00",
+        "league_livescore": "Ligue 1 25/26",
+        "league_1xbet": "Championnat du Mali. Première Division",
+        "teams": {
+            "home": "FC Mali Coura",
+            "away": "Afrique Football Elite"
+        },
+        "odds": {
+            "1": "4.36",
+            "X": "2.79",
+            "2": "1.95"
+        },
+        "url_1xbet": "https://1xbet.cm/fr/line/football/596117-mali-premiere-division/293891836-mali-coura-afrique-football-elite",
+        "method": "Dictionary"
+    },
+    {
+        "common_id": "1711133_293879720",
+        "start_time": "17:00",
+        "league_livescore": "Ligue 1 25/26",
+        "league_1xbet": "Championnat du Mali. Première Division",
+        "teams": {
+            "home": "Usfas Bamako",
+            "away": "AS Korofina"
+        },
+        "odds": {
+            "1": "2.63",
+            "X": "2.63",
+            "2": "2.84"
+        },
+        "url_1xbet": "https://1xbet.cm/fr/line/football/596117-mali-premiere-division/293879720-usfas-bamako-korofina",
+        "method": "Dictionary"
+    },
+    {
+        "common_id": "1699035_294011083",
+        "start_time": "16:00",
+        "league_livescore": "NPFL",
+        "league_1xbet": "Nigeria. Premier League",
+        "teams": {
+            "home": "Enyimba FC",
+            "away": "Shooting Stars"
+        },
+        "odds": {
+            "1": "1.71",
+            "X": "3.22",
+            "2": "4.85"
+        },
+        "url_1xbet": "https://1xbet.cm/fr/line/football/611201-nigeria-premier-league/294011083-enyimba-international-shooting-stars",
+        "method": "Dictionary"
+    },
+    {
+        "common_id": "1699034_294011967",
+        "start_time": "16:00",
+        "league_livescore": "NPFL",
+        "league_1xbet": "Nigeria. Premier League",
+        "teams": {
+            "home": "Kun Khalifat",
+            "away": "Katsina United FC"
+        },
+        "odds": {
+            "1": "1.76",
+            "X": "3.06",
+            "2": "4.86"
+        },
+        "url_1xbet": "https://1xbet.cm/fr/line/football/611201-nigeria-premier-league/294011967-kun-khalifat-katsina-united",
+        "method": "Dictionary"
+    },
+    {
+        "common_id": "1699032_294028662",
+        "start_time": "16:00",
+        "league_livescore": "NPFL",
+        "league_1xbet": "Nigeria. Premier League",
+        "teams": {
+            "home": "Niger Tornadoes",
+            "away": "Barau"
+        },
+        "odds": {
+            "1": "1.49",
+            "X": "3.4",
+            "2": "7.35"
+        },
+        "url_1xbet": "https://1xbet.cm/fr/line/football/611201-nigeria-premier-league/294028662-niger-tornadoes-barau",
+        "method": "Dictionary"
+    },
+    {
+        "common_id": "1699031_294011407",
+        "start_time": "18:00",
+        "league_livescore": "NPFL",
+        "league_1xbet": "Nigeria. Premier League",
+        "teams": {
+            "home": "Ikorodu City",
+            "away": "Remo Stars"
+        },
+        "odds": {
+            "1": "1.47",
+            "X": "3.44",
+            "2": "7.65"
+        },
+        "url_1xbet": "https://1xbet.cm/fr/line/football/611201-nigeria-premier-league/294011407-ikorodu-city-remo-stars",
+        "method": "Dictionary"
+    },
+    {
+        "common_id": "1571027_293478232",
+        "start_time": "11:00",
+        "league_livescore": "2. Lig - Groupe blanc",
+        "league_1xbet": "Championnat de Hong Kong. Division 2",
+        "teams": {
+            "home": "Iskenderun FK",
+            "away": "MKE Ankaragucu"
+        },
+        "odds": {
+            "1": "2.865",
+            "X": "2.96",
+            "2": "2.41"
+        },
+        "url_1xbet": "https://1xbet.cm/fr/line/football/59553-turkey-tff-2-lig/293478232-skenderun-fk-mke-ankaragucu",
+        "method": "Similarity"
+    },
+    {
+        "common_id": "1687859_294022378",
+        "start_time": "13:50",
+        "league_livescore": "Pro League",
+        "league_1xbet": "Championnat de Hong Kong. Division 2",
+        "teams": {
+            "home": "Al Wahda (EAU)",
+            "away": "Khor Fakkan Club"
+        },
+        "odds": {
+            "1": "1.39",
+            "X": "4.4",
+            "2": "6.53"
+        },
+        "url_1xbet": "https://1xbet.cm/fr/line/football/108685-uae-pro-league/294022378-al-wahda-abu-dhabi-khor-fakkan",
+        "method": "Dictionary"
+    },
+    {
+        "common_id": "1687861_294022377",
+        "start_time": "13:50",
+        "league_livescore": "Pro League",
+        "league_1xbet": "Championnat de Hong Kong. Division 2",
+        "teams": {
+            "home": "Dibba Club",
+            "away": "Al-Wasl FC"
+        },
+        "odds": {
+            "1": "7.55",
+            "X": "4.65",
+            "2": "1.33"
+        },
+        "url_1xbet": "https://1xbet.cm/fr/line/football/108685-uae-pro-league/294022377-dibba-al-fujairah-al-wasl",
+        "method": "Dictionary"
+    },
+    {
+        "common_id": "1687860_294022376",
+        "start_time": "16:45",
+        "league_livescore": "Pro League",
+        "league_1xbet": "Championnat de Hong Kong. Division 2",
+        "teams": {
+            "home": "Al-Nasr Dubai CSC",
+            "away": "Al Ain"
+        },
+        "odds": {
+            "1": "3.945",
+            "X": "3.64",
+            "2": "1.75"
+        },
+        "url_1xbet": "https://1xbet.cm/fr/line/football/108685-uae-pro-league/294022376-al-nasr-dubai-al-ain",
+        "method": "Dictionary"
+    },
+    {
+        "common_id": "1704775_292760818",
+        "start_time": "22:00",
+        "league_livescore": "Liga Nacional: Apertura Playoff Group B",
+        "league_1xbet": "Championnat du Honduras",
+        "teams": {
+            "home": "CD Marathon",
+            "away": "Olancho FC"
+        },
+        "odds": {
+            "1": "1.48",
+            "X": "3.88",
+            "2": "5.93"
+        },
+        "url_1xbet": "https://1xbet.cm/fr/line/football/84603-honduras-liga-nacional/292760818-marathon-olancho",
+        "method": "Dictionary"
+    }
+]

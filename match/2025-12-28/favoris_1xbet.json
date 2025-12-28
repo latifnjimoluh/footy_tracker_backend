@@ -1,0 +1,818 @@
+[
+    {
+        "id": "293877842",
+        "league": "Championnat de Hong Kong. Division 2",
+        "home": "Seoul Phoenix",
+        "away": "Kedah",
+        "date": "28/12",
+        "time": "09:45",
+        "odds": {
+            "1": "35",
+            "X": "14",
+            "2": "1.02"
+        },
+        "url": "/fr/line/football/2717183-malaysia-liga-a1/293877842-seoul-phoenix-kedah",
+        "best_odd": 1.02,
+        "fav_team": "Kedah",
+        "status": "FINISHED"
+    },
+    {
+        "id": "293879377",
+        "league": "Championnat de Hong Kong. Division 2",
+        "home": "Silver Stars",
+        "away": "Chinland",
+        "date": "28/12",
+        "time": "10:00",
+        "odds": {
+            "1": "23",
+            "X": "12",
+            "2": "1.062"
+        },
+        "url": "/fr/line/football/1861996-myanmar-league-2/293879377-silver-stars-chinland",
+        "best_odd": 1.062,
+        "fav_team": "Chinland",
+        "status": "FINISHED"
+    },
+    {
+        "id": "293474585",
+        "league": "Championnat de Hong Kong. Division 2",
+        "home": "Kepez",
+        "away": "Batman Petrolspor",
+        "date": "28/12",
+        "time": "11:00",
+        "odds": {
+            "1": "18.5",
+            "X": "6.1",
+            "2": "1.116"
+        },
+        "url": "/fr/line/football/59553-turkey-tff-2-lig/293474585-kepez-batman-petrolspor",
+        "best_odd": 1.116,
+        "fav_team": "Batman Petrolspor",
+        "status": "FINISHED"
+    },
+    {
+        "id": "294045825",
+        "league": "Championnat de Hong Kong. Division 2",
+        "home": "Bakirkoy Kadin (Women)",
+        "away": "Soma Zaferspor (Femmes)",
+        "date": "28/12",
+        "time": "10:00",
+        "odds": {
+            "1": "1.146",
+            "X": "5.7",
+            "2": "15.5"
+        },
+        "url": "/fr/line/football/2474649-turkey-tff-1-lig-women/294045825-bakirkoy-kadin-women-soma-zaferspor-women",
+        "best_odd": 1.146,
+        "fav_team": "Bakirkoy Kadin (Women)",
+        "status": "FINISHED"
+    },
+    {
+        "id": "293964504",
+        "league": "Coupe d'Égypte",
+        "home": "Zamalek",
+        "away": "Baladiyet El Mahallah",
+        "date": "28/12",
+        "time": "13:30",
+        "odds": {
+            "1": "1.204",
+            "X": "5.15",
+            "2": "12.9"
+        },
+        "url": "/fr/line/football/148731-egypt-cup/293964504-zamalek-baladiyet-el-mahallah",
+        "best_odd": 1.204,
+        "fav_team": "Zamalek",
+        "status": "LIVE"
+    },
+    {
+        "id": "294087378",
+        "league": "Championnat de Hong Kong. Division 2",
+        "home": "Fomget GSK (femmes)",
+        "away": "Hakkarigucu (femmes)",
+        "date": "28/12",
+        "time": "11:00",
+        "odds": {
+            "1": "1.206",
+            "X": "5.9",
+            "2": "9.7"
+        },
+        "url": "/fr/line/football/27413-turkish-superleague-women/294087378-fomget-gsk-women-hakkarigucu-spor-kulubu-women",
+        "best_odd": 1.206,
+        "fav_team": "Fomget GSK (femmes)",
+        "status": "FINISHED"
+    },
+    {
+        "id": "293864744",
+        "league": "Championnat du Koweït",
+        "home": "Al Tadamon Farwaniya",
+        "away": "Al-Arabi Kuwait",
+        "date": "28/12",
+        "time": "14:05",
+        "odds": {
+            "1": "11.6",
+            "X": "5.1",
+            "2": "1.22"
+        },
+        "url": "/fr/line/football/14003-kuwait-premier-league/293864744-al-tadamun-al-arabi-kuwait",
+        "best_odd": 1.22,
+        "fav_team": "Al-Arabi Kuwait",
+        "status": "UPCOMING"
+    },
+    {
+        "id": "294093632",
+        "league": "Championnat de Hong Kong. Division 2",
+        "home": "Fatih Vatan Spor (Femmes)",
+        "away": "1207 Antalyaspor (Femmes)",
+        "date": "28/12",
+        "time": "11:00",
+        "odds": {
+            "1": "9.2",
+            "X": "5.35",
+            "2": "1.24"
+        },
+        "url": "/fr/line/football/27413-turkish-superleague-women/294093632-fatih-vatan-spor-women-1207-antalyaspor-women",
+        "best_odd": 1.24,
+        "fav_team": "1207 Antalyaspor (Femmes)",
+        "status": "FINISHED"
+    },
+    {
+        "id": "293879723",
+        "league": "Championnat du Koweït",
+        "home": "Koweït SC",
+        "away": "Al Fahaheel",
+        "date": "28/12",
+        "time": "16:45",
+        "odds": {
+            "1": "1.24",
+            "X": "5.05",
+            "2": "10.2"
+        },
+        "url": "/fr/line/football/14003-kuwait-premier-league/293879723-al-kuwait-sc-al-fahaheel",
+        "best_odd": 1.24,
+        "fav_team": "Koweït SC",
+        "status": "UPCOMING"
+    },
+    {
+        "id": "293695234",
+        "league": "Championnat de Bahreïn. Première Ligue",
+        "home": "Al-Muharraq",
+        "away": "Al-Najma Manama",
+        "date": "28/12",
+        "time": "17:00",
+        "odds": {
+            "1": "1.27",
+            "X": "4.75",
+            "2": "9.65"
+        },
+        "url": "/fr/line/football/58655-bahrain-premier-league/293695234-al-muharraq-al-najma-manama",
+        "best_odd": 1.27,
+        "fav_team": "Al-Muharraq",
+        "status": "UPCOMING"
+    },
+    {
+        "id": "293888723",
+        "league": "Championnat de Hong Kong. Division 2",
+        "home": "YREO (Femmes)",
+        "away": "Shan United (Femmes)",
+        "date": "28/12",
+        "time": "10:00",
+        "odds": {
+            "1": "8.45",
+            "X": "4.95",
+            "2": "1.28"
+        },
+        "url": "/fr/line/football/1842772-myanmar-championship-women/293888723-yreo-women-shan-united-women",
+        "best_odd": 1.28,
+        "fav_team": "Shan United (Femmes)",
+        "status": "FINISHED"
+    },
+    {
+        "id": "293461905",
+        "league": "Championnat de Hong Kong. Division 2",
+        "home": "Erbaaspor",
+        "away": "Beyoglu Yeni Carsi",
+        "date": "28/12",
+        "time": "11:00",
+        "odds": {
+            "1": "8.05",
+            "X": "4.55",
+            "2": "1.32"
+        },
+        "url": "/fr/line/football/59553-turkey-tff-2-lig/293461905-erbaaspor-beyoglu-yeni-carsi",
+        "best_odd": 1.32,
+        "fav_team": "Beyoglu Yeni Carsi",
+        "status": "FINISHED"
+    },
+    {
+        "id": "294022377",
+        "league": "Championnat de Hong Kong. Division 2",
+        "home": "Dibba Al-Fujairah",
+        "away": "Al Wasl",
+        "date": "28/12",
+        "time": "13:50",
+        "odds": {
+            "1": "7.55",
+            "X": "4.65",
+            "2": "1.33"
+        },
+        "url": "/fr/line/football/108685-uae-pro-league/294022377-dibba-al-fujairah-al-wasl",
+        "best_odd": 1.33,
+        "fav_team": "Al Wasl",
+        "status": "UPCOMING"
+    },
+    {
+        "id": "294022377",
+        "league": "Championnat des Émirats arabes unis. Ligue Pro",
+        "home": "Dibba Al-Fujairah",
+        "away": "Al Wasl",
+        "date": "28/12",
+        "time": "13:50",
+        "odds": {
+            "1": "7.55",
+            "X": "4.65",
+            "2": "1.33"
+        },
+        "url": "/fr/line/football/108685-uae-pro-league/294022377-dibba-al-fujairah-al-wasl",
+        "best_odd": 1.33,
+        "fav_team": "Al Wasl",
+        "status": "UPCOMING"
+    },
+    {
+        "id": "293189353",
+        "league": "Championnat d'Eswatini. Premier League",
+        "home": "Sisonkhe",
+        "away": "Nsingizini Hotspurs",
+        "date": "28/12",
+        "time": "14:00",
+        "odds": {
+            "1": "6.67",
+            "X": "4.64",
+            "2": "1.34"
+        },
+        "url": "/fr/line/football/2940725-eswatini-premier-league/293189353-sisonkhe-nsingizini-hotspurs",
+        "best_odd": 1.34,
+        "fav_team": "Nsingizini Hotspurs",
+        "status": "UPCOMING"
+    },
+    {
+        "id": "293962510",
+        "league": "Championnat du Ghana. Glo Première Ligue",
+        "home": "Berekum Chelsea",
+        "away": "Eleven Wonders",
+        "date": "28/12",
+        "time": "16:00",
+        "odds": {
+            "1": "1.34",
+            "X": "3.8",
+            "2": "10.8"
+        },
+        "url": "/fr/line/football/27371-ghana-premier-league/293962510-berekum-chelsea-eleven-wonders",
+        "best_odd": 1.34,
+        "fav_team": "Berekum Chelsea",
+        "status": "UPCOMING"
+    },
+    {
+        "id": "293962507",
+        "league": "Championnat du Ghana. Glo Première Ligue",
+        "home": "Asante Kotoko",
+        "away": "Bechem United",
+        "date": "28/12",
+        "time": "16:30",
+        "odds": {
+            "1": "1.34",
+            "X": "3.88",
+            "2": "10.2"
+        },
+        "url": "/fr/line/football/27371-ghana-premier-league/293962507-asante-kotoko-bechem-united",
+        "best_odd": 1.34,
+        "fav_team": "Asante Kotoko",
+        "status": "UPCOMING"
+    },
+    {
+        "id": "293953240",
+        "league": "Championnat du Cambodge",
+        "home": "Naga World",
+        "away": "Dangkor Senchey",
+        "date": "28/12",
+        "time": "12:00",
+        "odds": {
+            "1": "1.36",
+            "X": "4.5",
+            "2": "6.93"
+        },
+        "url": "/fr/line/football/303133-cambodia-metfone-c-league/293953240-naga-world-dangkor-senchey",
+        "best_odd": 1.36,
+        "fav_team": "Naga World",
+        "status": "FINISHED"
+    },
+    {
+        "id": "294014636",
+        "league": "Thaïlande. Coupe de la Ligue",
+        "home": "Pattaya United",
+        "away": "Bangkok United",
+        "date": "28/12",
+        "time": "12:00",
+        "odds": {
+            "1": "7.31",
+            "X": "4.35",
+            "2": "1.36"
+        },
+        "url": "/fr/line/football/2638810-thailand-league-cup/294014636-pattaya-united-bangkok-united",
+        "best_odd": 1.36,
+        "fav_team": "Bangkok United",
+        "status": "FINISHED"
+    },
+    {
+        "id": "294022378",
+        "league": "Championnat de Hong Kong. Division 2",
+        "home": "Al-Wahda Abu Dhabi",
+        "away": "Khor Fakkan",
+        "date": "28/12",
+        "time": "13:50",
+        "odds": {
+            "1": "1.39",
+            "X": "4.4",
+            "2": "6.53"
+        },
+        "url": "/fr/line/football/108685-uae-pro-league/294022378-al-wahda-abu-dhabi-khor-fakkan",
+        "best_odd": 1.39,
+        "fav_team": "Al-Wahda Abu Dhabi",
+        "status": "UPCOMING"
+    },
+    {
+        "id": "293725890",
+        "league": "Championnat de Niger",
+        "home": "ASN Nigelec",
+        "away": "Urana",
+        "date": "28/12",
+        "time": "16:00",
+        "odds": {
+            "1": "1.39",
+            "X": "3.9",
+            "2": "7.95"
+        },
+        "url": "/fr/line/football/2185017-niger-championship/293725890-asn-nigelec-urana",
+        "best_odd": 1.39,
+        "fav_team": "ASN Nigelec",
+        "status": "UPCOMING"
+    },
+    {
+        "id": "294022378",
+        "league": "Championnat des Émirats arabes unis. Ligue Pro",
+        "home": "Al-Wahda Abu Dhabi",
+        "away": "Khor Fakkan",
+        "date": "28/12",
+        "time": "13:50",
+        "odds": {
+            "1": "1.39",
+            "X": "4.4",
+            "2": "6.53"
+        },
+        "url": "/fr/line/football/108685-uae-pro-league/294022378-al-wahda-abu-dhabi-khor-fakkan",
+        "best_odd": 1.39,
+        "fav_team": "Al-Wahda Abu Dhabi",
+        "status": "UPCOMING"
+    },
+    {
+        "id": "294138730",
+        "league": "Championnat de Bahreïn. Première Ligue",
+        "home": "Al Khalidiya",
+        "away": "Budaiya",
+        "date": "29/12",
+        "time": "17:00",
+        "odds": {
+            "1": "1.4",
+            "X": "4.2",
+            "2": "6.72"
+        },
+        "url": "/fr/line/football/58655-bahrain-premier-league/294138730-al-khalidiya-budaiya",
+        "best_odd": 1.4,
+        "fav_team": "Al Khalidiya",
+        "status": "UPCOMING"
+    },
+    {
+        "id": "294139037",
+        "league": "Championnat du Qatar",
+        "home": "Al-Duhail",
+        "away": "Qatar SC",
+        "date": "28/12",
+        "time": "15:30",
+        "odds": {
+            "1": "1.41",
+            "X": "4.6",
+            "2": "5.79"
+        },
+        "url": "/fr/line/football/47513-qatar-championship/294139037-al-duhail-qatar-sc",
+        "best_odd": 1.41,
+        "fav_team": "Al-Duhail",
+        "status": "UPCOMING"
+    },
+    {
+        "id": "292164100",
+        "league": "Championnat de Hong Kong. Division 2",
+        "home": "Milan",
+        "away": "Hellas Verona",
+        "date": "28/12",
+        "time": "12:30",
+        "odds": {
+            "1": "1.414",
+            "X": "4.88",
+            "2": "9.65"
+        },
+        "url": "/fr/line/football/110163-italy-serie-a/292164100-milan-hellas-verona",
+        "best_odd": 1.414,
+        "fav_team": "Milan",
+        "status": "FINISHED"
+    },
+    {
+        "id": "293881670",
+        "league": "Jamaique. Première Ligue",
+        "home": "Waterhouse",
+        "away": "Molynes United",
+        "date": "29/12",
+        "time": "00:30",
+        "odds": {
+            "1": "1.42",
+            "X": "3.9",
+            "2": "7.11"
+        },
+        "url": "/fr/line/football/118745-jamaica-national-premier-league/293881670-waterhouse-molynes-united",
+        "best_odd": 1.42,
+        "fav_team": "Waterhouse",
+        "status": "UPCOMING"
+    },
+    {
+        "id": "293814910",
+        "league": "Liban. Premier League",
+        "home": "Racing Beirut",
+        "away": "Al Riyadi Al Abassiya",
+        "date": "28/12",
+        "time": "13:00",
+        "odds": {
+            "1": "7.05",
+            "X": "3.92",
+            "2": "1.42"
+        },
+        "url": "/fr/line/football/2908998-lebanon-premier-league/293814910-racing-beirut-al-riyadi-al-abassiya",
+        "best_odd": 1.42,
+        "fav_team": "Al Riyadi Al Abassiya",
+        "status": "LIVE"
+    },
+    {
+        "id": "294021421",
+        "league": "Thaïlande. Coupe de la Ligue",
+        "home": "Pattani F.C.",
+        "away": "Ratchaburi",
+        "date": "28/12",
+        "time": "13:00",
+        "odds": {
+            "1": "6.29",
+            "X": "4.2",
+            "2": "1.42"
+        },
+        "url": "/fr/line/football/2638810-thailand-league-cup/294021421-pattani-ratchaburi",
+        "best_odd": 1.42,
+        "fav_team": "Ratchaburi",
+        "status": "FINISHED"
+    },
+    {
+        "id": "293924603",
+        "league": "Championnat des Émirats arabes unis. Ligue Pro",
+        "home": "Al Ain",
+        "away": "Al Sharjah",
+        "date": "02/01",
+        "time": "16:45",
+        "odds": {
+            "1": "1.43",
+            "X": "4.25",
+            "2": "6.06"
+        },
+        "url": "/fr/line/football/108685-uae-pro-league/293924603-al-ain-al-sharjah",
+        "best_odd": 1.43,
+        "fav_team": "Al Ain",
+        "status": "UPCOMING"
+    },
+    {
+        "id": "293945736",
+        "league": "Championnat du Cambodge",
+        "home": "Angkor Tiger",
+        "away": "Kirivong Sok Sen Chey",
+        "date": "28/12",
+        "time": "12:00",
+        "odds": {
+            "1": "1.44",
+            "X": "4.45",
+            "2": "5.49"
+        },
+        "url": "/fr/line/football/303133-cambodia-metfone-c-league/293945736-angkor-tiger-kirivong-sok-sen-chey",
+        "best_odd": 1.44,
+        "fav_team": "Angkor Tiger",
+        "status": "FINISHED"
+    },
+    {
+        "id": "294017171",
+        "league": "Championnat de Hong Kong. Division 2",
+        "home": "Samut Sakhon City",
+        "away": "Prachuap",
+        "date": "28/12",
+        "time": "11:00",
+        "odds": {
+            "1": "5.76",
+            "X": "4.2",
+            "2": "1.45"
+        },
+        "url": "/fr/line/football/2638810-thailand-league-cup/294017171-samut-sakhon-city-prachuap",
+        "best_odd": 1.45,
+        "fav_team": "Prachuap",
+        "status": "FINISHED"
+    },
+    {
+        "id": "293787806",
+        "league": "Coupe de Guangdong - Hong Kong",
+        "home": "Hong Kong",
+        "away": "Guangdong Province",
+        "date": "28/12",
+        "time": "13:00",
+        "odds": {
+            "1": "1.45",
+            "X": "4.25",
+            "2": "5.74"
+        },
+        "url": "/fr/line/football/1400051-guangdong-hong-kong-cup/293787806-hong-kong-guangdong-province",
+        "best_odd": 1.45,
+        "fav_team": "Hong Kong",
+        "status": "FINISHED"
+    },
+    {
+        "id": "294017171",
+        "league": "Thaïlande. Coupe de la Ligue",
+        "home": "Samut Sakhon City",
+        "away": "Prachuap",
+        "date": "28/12",
+        "time": "11:00",
+        "odds": {
+            "1": "5.76",
+            "X": "4.2",
+            "2": "1.45"
+        },
+        "url": "/fr/line/football/2638810-thailand-league-cup/294017171-samut-sakhon-city-prachuap",
+        "best_odd": 1.45,
+        "fav_team": "Prachuap",
+        "status": "FINISHED"
+    },
+    {
+        "id": "294018705",
+        "league": "Thaïlande. Coupe de la Ligue",
+        "home": "Chainat",
+        "away": "Port",
+        "date": "28/12",
+        "time": "12:30",
+        "odds": {
+            "1": "6.3",
+            "X": "3.94",
+            "2": "1.45"
+        },
+        "url": "/fr/line/football/2638810-thailand-league-cup/294018705-chai-nat-port",
+        "best_odd": 1.45,
+        "fav_team": "Port",
+        "status": "LIVE"
+    },
+    {
+        "id": "294021423",
+        "league": "Championnat de Hong Kong. Division 2",
+        "home": "Customs United",
+        "away": "Sukhothai",
+        "date": "28/12",
+        "time": "11:00",
+        "odds": {
+            "1": "6.14",
+            "X": "3.94",
+            "2": "1.46"
+        },
+        "url": "/fr/line/football/2638810-thailand-league-cup/294021423-customs-united-sukhothai",
+        "best_odd": 1.46,
+        "fav_team": "Sukhothai",
+        "status": "FINISHED"
+    },
+    {
+        "id": "294021423",
+        "league": "Thaïlande. Coupe de la Ligue",
+        "home": "Customs United",
+        "away": "Sukhothai",
+        "date": "28/12",
+        "time": "11:00",
+        "odds": {
+            "1": "6.14",
+            "X": "3.94",
+            "2": "1.46"
+        },
+        "url": "/fr/line/football/2638810-thailand-league-cup/294021423-customs-united-sukhothai",
+        "best_odd": 1.46,
+        "fav_team": "Sukhothai",
+        "status": "FINISHED"
+    },
+    {
+        "id": "294025309",
+        "league": "Championnat de Bangladesh. Division 1",
+        "home": "Nobabpur Krira Chakra",
+        "away": "T&T Club",
+        "date": "28/12",
+        "time": "09:30",
+        "odds": {
+            "1": "1.47",
+            "X": "3.97",
+            "2": "5.6"
+        },
+        "url": "/fr/line/football/1362815-bangladesh-championship-division-1/294025309-nobabpur-krira-chakra-tt-club",
+        "best_odd": 1.47,
+        "fav_team": "Nobabpur Krira Chakra",
+        "status": "FINISHED"
+    },
+    {
+        "id": "294025309",
+        "league": "Championnat de Hong Kong. Division 2",
+        "home": "Nobabpur Krira Chakra",
+        "away": "T&T Club",
+        "date": "28/12",
+        "time": "09:30",
+        "odds": {
+            "1": "1.47",
+            "X": "3.97",
+            "2": "5.6"
+        },
+        "url": "/fr/line/football/1362815-bangladesh-championship-division-1/294025309-nobabpur-krira-chakra-tt-club",
+        "best_odd": 1.47,
+        "fav_team": "Nobabpur Krira Chakra",
+        "status": "FINISHED"
+    },
+    {
+        "id": "294011407",
+        "league": "Nigeria. Premier League",
+        "home": "Ikorodu City",
+        "away": "Remo Stars",
+        "date": "28/12",
+        "time": "18:00",
+        "odds": {
+            "1": "1.47",
+            "X": "3.44",
+            "2": "7.65"
+        },
+        "url": "/fr/line/football/611201-nigeria-premier-league/294011407-ikorodu-city-remo-stars",
+        "best_odd": 1.47,
+        "fav_team": "Ikorodu City",
+        "status": "UPCOMING"
+    },
+    {
+        "id": "292760818",
+        "league": "Championnat du Honduras",
+        "home": "Marathon",
+        "away": "Olancho",
+        "date": "28/12",
+        "time": "22:00",
+        "odds": {
+            "1": "1.48",
+            "X": "3.88",
+            "2": "5.93"
+        },
+        "url": "/fr/line/football/84603-honduras-liga-nacional/292760818-marathon-olancho",
+        "best_odd": 1.48,
+        "fav_team": "Marathon",
+        "status": "UPCOMING"
+    },
+    {
+        "id": "293880053",
+        "league": "Championnat du Togo",
+        "home": "ASKO Kara",
+        "away": "Espoir Tsevie",
+        "date": "28/12",
+        "time": "16:00",
+        "odds": {
+            "1": "1.49",
+            "X": "3.26",
+            "2": "8.1"
+        },
+        "url": "/fr/line/football/828549-togo-championnat-national/293880053-asko-kara-espoir-tsevie",
+        "best_odd": 1.49,
+        "fav_team": "ASKO Kara",
+        "status": "UPCOMING"
+    },
+    {
+        "id": "294028662",
+        "league": "Nigeria. Premier League",
+        "home": "Niger Tornadoes",
+        "away": "Barau",
+        "date": "28/12",
+        "time": "16:00",
+        "odds": {
+            "1": "1.49",
+            "X": "3.4",
+            "2": "7.35"
+        },
+        "url": "/fr/line/football/611201-nigeria-premier-league/294028662-niger-tornadoes-barau",
+        "best_odd": 1.49,
+        "fav_team": "Niger Tornadoes",
+        "status": "UPCOMING"
+    },
+    {
+        "id": "293973671",
+        "league": "Championnat du Ghana. Glo Première Ligue",
+        "home": "Bibiani Gold Stars",
+        "away": "Dreams FC",
+        "date": "28/12",
+        "time": "16:00",
+        "odds": {
+            "1": "1.5",
+            "X": "3.34",
+            "2": "7.36"
+        },
+        "url": "/fr/line/football/27371-ghana-premier-league/293973671-bibiani-gold-stars-dreams",
+        "best_odd": 1.5,
+        "fav_team": "Bibiani Gold Stars",
+        "status": "UPCOMING"
+    },
+    {
+        "id": "293880503",
+        "league": "Mapinduzi Cup",
+        "home": "Azam",
+        "away": "Uganda Revenue Authority",
+        "date": "28/12",
+        "time": "18:15",
+        "odds": {
+            "1": "1.53",
+            "X": "3.44",
+            "2": "6.36"
+        },
+        "url": "/fr/line/football/1698265-mapinduzi-cup/293880503-azam-uganda-revenue-authority",
+        "best_odd": 1.53,
+        "fav_team": "Azam",
+        "status": "UPCOMING"
+    },
+    {
+        "id": "293949213",
+        "league": "Jamaique. Première Ligue",
+        "home": "Spanish Town Police",
+        "away": "Treasure Beach",
+        "date": "28/12",
+        "time": "22:00",
+        "odds": {
+            "1": "4.92",
+            "X": "3.94",
+            "2": "1.553"
+        },
+        "url": "/fr/line/football/118745-jamaica-national-premier-league/293949213-spanish-town-police-treasure-beach",
+        "best_odd": 1.553,
+        "fav_team": "Treasure Beach",
+        "status": "UPCOMING"
+    },
+    {
+        "id": "293984568",
+        "league": "Mauritanie. Championnat D1",
+        "home": "AS Douanes Nouakchott",
+        "away": "Kaedi",
+        "date": "28/12",
+        "time": "17:00",
+        "odds": {
+            "1": "1.59",
+            "X": "3.64",
+            "2": "5.08"
+        },
+        "url": "/fr/line/football/656519-mauritania-championnat-d1/293984568-as-douanes-nouakchott-kaedi",
+        "best_odd": 1.59,
+        "fav_team": "AS Douanes Nouakchott",
+        "status": "UPCOMING"
+    },
+    {
+        "id": "294021424",
+        "league": "Championnat de Hong Kong. Division 2",
+        "home": "Satun",
+        "away": "Lamphun Warrior",
+        "date": "28/12",
+        "time": "10:00",
+        "odds": {
+            "1": "5.55",
+            "X": "3.38",
+            "2": "1.6"
+        },
+        "url": "/fr/line/football/2638810-thailand-league-cup/294021424-satun-lamphun-warrior",
+        "best_odd": 1.6,
+        "fav_team": "Lamphun Warrior",
+        "status": "FINISHED"
+    },
+    {
+        "id": "294021424",
+        "league": "Thaïlande. Coupe de la Ligue",
+        "home": "Satun",
+        "away": "Lamphun Warrior",
+        "date": "28/12",
+        "time": "10:00",
+        "odds": {
+            "1": "5.55",
+            "X": "3.38",
+            "2": "1.6"
+        },
+        "url": "/fr/line/football/2638810-thailand-league-cup/294021424-satun-lamphun-warrior",
+        "best_odd": 1.6,
+        "fav_team": "Lamphun Warrior",
+        "status": "FINISHED"
+    }
+]

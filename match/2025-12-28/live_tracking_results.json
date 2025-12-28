@@ -1,0 +1,18 @@
+[
+    {
+        "id": "293964504",
+        "teams": "Zamalek vs Baladiyet El Mahallah",
+        "status": "NOT_READY",
+        "timestamp": "2025-12-28T13:43:47.163292",
+        "score": {
+            "home": 0,
+            "away": 0
+        },
+        "half_time_score": {
+            "home": null,
+            "away": null
+        },
+        "game_time": "00:00",
+        "data": {}
+    }
+]
