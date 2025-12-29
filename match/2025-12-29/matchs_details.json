@@ -1,0 +1,1178 @@
+[
+    {
+        "id": "293330489",
+        "league": "Coupe d'Afrique des nations5",
+        "home": "Angola",
+        "away": "Égypte",
+        "date": "29/12",
+        "time": "17:00",
+        "odds": {
+            "1": "3.015",
+            "X": "3.015",
+            "2": "2.8"
+        },
+        "url": "/fr/line/football/21317-africa-cup-of-nations/293330489-angola-egypt"
+    },
+    {
+        "id": "293330485",
+        "league": "Coupe d'Afrique des nations5",
+        "home": "Zimbabwe",
+        "away": "Afrique du Sud",
+        "date": "29/12",
+        "time": "17:00",
+        "odds": {
+            "1": "5.67",
+            "X": "3.595",
+            "2": "1.766"
+        },
+        "url": "/fr/line/football/21317-africa-cup-of-nations/293330485-zimbabwe-south-africa"
+    },
+    {
+        "id": "293341872",
+        "league": "Coupe d'Afrique des nations5",
+        "home": "Archipel des Comores",
+        "away": "Mali",
+        "date": "29/12",
+        "time": "20:00",
+        "odds": {
+            "1": "7.55",
+            "X": "4.075",
+            "2": "1.555"
+        },
+        "url": "/fr/line/football/21317-africa-cup-of-nations/293341872-comoro-islands-mali"
+    },
+    {
+        "id": "293341874",
+        "league": "Coupe d'Afrique des nations5",
+        "home": "Zambie",
+        "away": "Maroc",
+        "date": "29/12",
+        "time": "20:00",
+        "odds": {
+            "1": "18",
+            "X": "6.55",
+            "2": "1.231"
+        },
+        "url": "/fr/line/football/21317-africa-cup-of-nations/293341874-zambia-morocco"
+    },
+    {
+        "id": "292164794",
+        "league": "Italie. Série A1",
+        "home": "Roma",
+        "away": "Genoa",
+        "date": "29/12",
+        "time": "20:45",
+        "odds": {
+            "1": "1.709",
+            "X": "3.7",
+            "2": "6.25"
+        },
+        "url": "/fr/line/football/110163-italy-serie-a/292164794-roma-genoa"
+    },
+    {
+        "id": "293363061",
+        "league": "Portugal. Première Ligue1",
+        "home": "Porto",
+        "away": "Aves",
+        "date": "29/12",
+        "time": "21:15",
+        "odds": {
+            "1": "1.117",
+            "X": "10.8",
+            "2": "23"
+        },
+        "url": "/fr/line/football/118663-portugal-primeira-liga/293363061-porto-aves"
+    },
+    {
+        "id": "293091872",
+        "league": "Australie. A League1",
+        "home": "Melbourne Victory",
+        "away": "Wellington Phoenix",
+        "date": "29/12",
+        "time": "09:00",
+        "odds": {
+            "1": "1.614",
+            "X": "4.395",
+            "2": "5.27"
+        },
+        "url": "/fr/line/football/2905446-australia-a-league/293091872-melbourne-victory-wellington-phoenix"
+    },
+    {
+        "id": "294227103",
+        "league": "Algeria. Regional League U202",
+        "home": "MSP Batna U20",
+        "away": "US Berhoum U20",
+        "date": "29/12",
+        "time": "10:00",
+        "odds": {
+            "1": "1.929",
+            "X": "4",
+            "2": "2.961"
+        },
+        "url": "/fr/line/football/2946065-algeria-regional-league-u20/294227103-msp-batna-u20-us-berhoum-u20"
+    },
+    {
+        "id": "294227105",
+        "league": "Algeria. Regional League U202",
+        "home": "ES Bouakal U20",
+        "away": "AB Barika U20",
+        "date": "29/12",
+        "time": "12:30",
+        "odds": {
+            "1": "2.02",
+            "X": "4",
+            "2": "2.801"
+        },
+        "url": "/fr/line/football/2946065-algeria-regional-league-u20/294227105-es-bouakal-u20-ab-barika-u20"
+    },
+    {
+        "id": "293610672",
+        "league": "Algérie. Ligue 14",
+        "home": "ES Mostaganem",
+        "away": "Ben Aknoun",
+        "date": "29/12",
+        "time": "14:00",
+        "odds": {
+            "1": "2.09",
+            "X": "2.84",
+            "2": "3.725"
+        },
+        "url": "/fr/line/football/28645-algeria-ligue-1/293610672-es-mostaganem-ben-aknoun"
+    },
+    {
+        "id": "293610670",
+        "league": "Algérie. Ligue 14",
+        "home": "Oran",
+        "away": "CR Belouizdad",
+        "date": "29/12",
+        "time": "17:00",
+        "odds": {
+            "1": "2.41",
+            "X": "2.64",
+            "2": "3.275"
+        },
+        "url": "/fr/line/football/28645-algeria-ligue-1/293610670-oran-cr-belouizdad"
+    },
+    {
+        "id": "293610673",
+        "league": "Algérie. Ligue 14",
+        "home": "MC Alger",
+        "away": "ES Sétif",
+        "date": "29/12",
+        "time": "19:30",
+        "odds": {
+            "1": "1.54",
+            "X": "3.22",
+            "2": "7.21"
+        },
+        "url": "/fr/line/football/28645-algeria-ligue-1/293610673-mc-alger-es-setif"
+    },
+    {
+        "id": "294160576",
+        "league": "Birmanie. Première Ligue1",
+        "home": "Rakhine United",
+        "away": "Ayeyawady United",
+        "date": "29/12",
+        "time": "10:30",
+        "odds": {
+            "1": "3.63",
+            "X": "3.54",
+            "2": "1.84"
+        },
+        "url": "/fr/line/football/181251-myanmar-premier-league/294160576-rakhine-united-ayeyawady-united"
+    },
+    {
+        "id": "294160615",
+        "league": "Championnat  de Birmanie. Femmes1",
+        "home": "Young Lionesses (Femmes)",
+        "away": "Yangon United (Femmes)",
+        "date": "29/12",
+        "time": "10:00",
+        "odds": {
+            "1": "-",
+            "X": "-",
+            "2": "-"
+        },
+        "url": "/fr/line/football/1842772-myanmar-championship-women/294160615-young-lionesses-women-yangon-united-women"
+    },
+    {
+        "id": "294147005",
+        "league": "Championnat de Birmanie. Ligue 21",
+        "home": "Glory Goal",
+        "away": "Université de Myanmar",
+        "date": "29/12",
+        "time": "10:00",
+        "odds": {
+            "1": "2.4",
+            "X": "3.7",
+            "2": "2.35"
+        },
+        "url": "/fr/line/football/1861996-myanmar-league-2/294147005-glory-goal-myanmar-university"
+    },
+    {
+        "id": "294155098",
+        "league": "Chamionnat de Gambie. 1ère Division2",
+        "home": "Bombada",
+        "away": "Real de Banjul",
+        "date": "29/12",
+        "time": "17:00",
+        "odds": {
+            "1": "3.03",
+            "X": "2.86",
+            "2": "2.37"
+        },
+        "url": "/fr/line/football/1692256-gambian-championship-1st-division/294155098-bombada-real-de-banjul"
+    },
+    {
+        "id": "293913575",
+        "league": "Championnat d'Arabie saoudite de football4",
+        "home": "Al-Khaleej",
+        "away": "Al-Fateh Al-Ahsa",
+        "date": "29/12",
+        "time": "15:35",
+        "odds": {
+            "1": "2.18",
+            "X": "3.5",
+            "2": "2.813"
+        },
+        "url": "/fr/line/football/16819-saudi-arabia-saudi-professional-league/293913575-al-khaleej-al-fateh-al-ahsa"
+    },
+    {
+        "id": "293770462",
+        "league": "Championnat d'Arabie saoudite de football4",
+        "home": "Al-Riyadh SC",
+        "away": "Al-Hazm Rass",
+        "date": "29/12",
+        "time": "18:30",
+        "odds": {
+            "1": "2.51",
+            "X": "3.125",
+            "2": "2.56"
+        },
+        "url": "/fr/line/football/16819-saudi-arabia-saudi-professional-league/293770462-al-riyadh-sc-al-hazm-rass"
+    },
+    {
+        "id": "293897253",
+        "league": "Championnat d'Arabie saoudite de football4",
+        "home": "Al-Taawon",
+        "away": "Al-Najma Unaizah",
+        "date": "29/12",
+        "time": "18:30",
+        "odds": {
+            "1": "1.4",
+            "X": "4.2",
+            "2": "6.8"
+        },
+        "url": "/fr/line/football/16819-saudi-arabia-saudi-professional-league/293897253-al-taawon-al-najma-unaizah"
+    },
+    {
+        "id": "294154179",
+        "league": "Championnat d'Egypte. Deuxième Ligue B1",
+        "home": "Faiyum",
+        "away": "Telephonat Bani Sweif",
+        "date": "29/12",
+        "time": "13:30",
+        "odds": {
+            "1": "2.49",
+            "X": "2.77",
+            "2": "2.95"
+        },
+        "url": "/fr/line/football/2614189-egypt-second-division-b/294154179-faiyum-telephonat-bani-sweif"
+    },
+    {
+        "id": "294169499",
+        "league": "Championnat d'Irlande du Nord. Reserve League3",
+        "home": "Cliftonville II",
+        "away": "Portadown II",
+        "date": "29/12",
+        "time": "20:45",
+        "odds": {
+            "1": "1.67",
+            "X": "4.4",
+            "2": "3.65"
+        },
+        "url": "/fr/line/football/22355-northern-ireland-reserve-league/294169499-cliftonville-ii-portadown-ii"
+    },
+    {
+        "id": "294175825",
+        "league": "Championnat d'Irlande du Nord. Reserve League3",
+        "home": "Larne II",
+        "away": "Glenavon II",
+        "date": "29/12",
+        "time": "20:45",
+        "odds": {
+            "1": "1.28",
+            "X": "5.25",
+            "2": "7.7"
+        },
+        "url": "/fr/line/football/22355-northern-ireland-reserve-league/294175825-larne-ii-glenavon-ii"
+    },
+    {
+        "id": "294179027",
+        "league": "Championnat d'Irlande du Nord. Reserve League3",
+        "home": "Linfield II",
+        "away": "Coleraine II",
+        "date": "29/12",
+        "time": "20:45",
+        "odds": {
+            "1": "1.31",
+            "X": "5.3",
+            "2": "6.69"
+        },
+        "url": "/fr/line/football/22355-northern-ireland-reserve-league/294179027-linfield-ii-coleraine-ii"
+    },
+    {
+        "id": "294188583",
+        "league": "Championnat d'Israël. Division 2 U191",
+        "home": "Ironi Tiberias (19)",
+        "away": "Hapoel Beit She'an (19)",
+        "date": "29/12",
+        "time": "13:30",
+        "odds": {
+            "1": "1.29",
+            "X": "5.05",
+            "2": "7.8"
+        },
+        "url": "/fr/line/football/1696986-israel-division-2-u19/294188583-ironi-tiberias-u19-hapoel-beit-shean-u19"
+    },
+    {
+        "id": "294180472",
+        "league": "Championnat d'Israël. Femmes4",
+        "home": "Maccabi Panthers Ashdod (Femmes)",
+        "away": "Nir Ramat Hasharon (Women)",
+        "date": "29/12",
+        "time": "17:30",
+        "odds": {
+            "1": "1.55",
+            "X": "4.05",
+            "2": "4.765"
+        },
+        "url": "/fr/line/football/134535-israel-championship-women/294180472-maccabi-panthers-ashdod-women-nir-ramat-hasharon-women"
+    },
+    {
+        "id": "294180463",
+        "league": "Championnat d'Israël. Femmes4",
+        "home": "Kiryat Gat (Femmes)",
+        "away": "Hapoel Ra'anana (Femmes)",
+        "date": "29/12",
+        "time": "17:35",
+        "odds": {
+            "1": "1.085",
+            "X": "7.7",
+            "2": "16"
+        },
+        "url": "/fr/line/football/134535-israel-championship-women/294180463-kiryat-gat-women-hapoel-raanana-women"
+    },
+    {
+        "id": "294180464",
+        "league": "Championnat d'Israël. Femmes4",
+        "home": "Maccabi Kishronot Hadera (Femmes)",
+        "away": "Maccabi ACA (Women)",
+        "date": "29/12",
+        "time": "17:40",
+        "odds": {
+            "1": "2.25",
+            "X": "3.48",
+            "2": "2.62"
+        },
+        "url": "/fr/line/football/134535-israel-championship-women/294180464-maccabi-kishronot-hadera-women-maccabi-aca-women"
+    },
+    {
+        "id": "294180469",
+        "league": "Championnat d'Israël. Femmes4",
+        "home": "Hapoel Jerusalem (Femmes)",
+        "away": "Maccabi Holon (Femmes)",
+        "date": "29/12",
+        "time": "17:45",
+        "odds": {
+            "1": "1.134",
+            "X": "6.25",
+            "2": "14"
+        },
+        "url": "/fr/line/football/134535-israel-championship-women/294180469-hapoel-jerusalem-women-maccabi-holon-women"
+    },
+    {
+        "id": "294154638",
+        "league": "Championnat d'Éthiopie.4",
+        "home": "Fasil Kenema",
+        "away": "Ethio Electric",
+        "date": "29/12",
+        "time": "11:00",
+        "odds": {
+            "1": "3.155",
+            "X": "2.57",
+            "2": "2.53"
+        },
+        "url": "/fr/line/football/590333-ethiopia-premier-league/294154638-fasil-kenema-ethio-electric"
+    },
+    {
+        "id": "293608546",
+        "league": "Championnat d'Éthiopie.4",
+        "home": "Wolaitta Dicha",
+        "away": "Arba Minch",
+        "date": "29/12",
+        "time": "13:00",
+        "odds": {
+            "1": "2.36",
+            "X": "2.62",
+            "2": "3.385"
+        },
+        "url": "/fr/line/football/590333-ethiopia-premier-league/293608546-wolaitta-dicha-arba-minch"
+    },
+    {
+        "id": "294159320",
+        "league": "Championnat d'Éthiopie.4",
+        "home": "Welwalo Adigrat",
+        "away": "Bahir Dar Kenema",
+        "date": "29/12",
+        "time": "14:00",
+        "odds": {
+            "1": "4.06",
+            "X": "2.94",
+            "2": "1.94"
+        },
+        "url": "/fr/line/football/590333-ethiopia-premier-league/294159320-welwalo-adigrat-bahir-dar-kenema"
+    },
+    {
+        "id": "293624089",
+        "league": "Championnat d'Éthiopie.4",
+        "home": "Mekelle 70 Enderta",
+        "away": "Saint-George Addis Abeba",
+        "date": "29/12",
+        "time": "16:00",
+        "odds": {
+            "1": "2.875",
+            "X": "2.66",
+            "2": "2.57"
+        },
+        "url": "/fr/line/football/590333-ethiopia-premier-league/293624089-mekelle-70-enderta-saint-george-addis-abeba"
+    },
+    {
+        "id": "294137525",
+        "league": "Championnat d'Éthiopie. Ligue majeure2",
+        "home": "Nib",
+        "away": "Shashemene City",
+        "date": "29/12",
+        "time": "08:00",
+        "odds": {
+            "1": "2.29",
+            "X": "2.8",
+            "2": "3.255"
+        },
+        "url": "/fr/line/football/2532431-ethiopia-higher-league/294137525-nib-shashemene-city"
+    },
+    {
+        "id": "294158555",
+        "league": "Championnat d'Éthiopie. Ligue majeure2",
+        "home": "Nifas Silk Lafto Sub City",
+        "away": "Sululta Ketema",
+        "date": "29/12",
+        "time": "13:30",
+        "odds": {
+            "1": "2.55",
+            "X": "2.97",
+            "2": "2.6"
+        },
+        "url": "/fr/line/football/2532431-ethiopia-higher-league/294158555-nifas-silk-lafto-sub-city-sululta-ketema"
+    },
+    {
+        "id": "294138730",
+        "league": "Championnat de Bahreïn. Première Ligue1",
+        "home": "Al Khalidiya",
+        "away": "Budaiya",
+        "date": "29/12",
+        "time": "17:00",
+        "odds": {
+            "1": "1.295",
+            "X": "4.75",
+            "2": "8.45"
+        },
+        "url": "/fr/line/football/58655-bahrain-premier-league/294138730-al-khalidiya-budaiya"
+    },
+    {
+        "id": "294199248",
+        "league": "Championnat de Bangladesh. Division 12",
+        "home": "East End Club",
+        "away": "Aramabagh Academy",
+        "date": "29/12",
+        "time": "05:00",
+        "odds": {
+            "1": "1.67",
+            "X": "3.61",
+            "2": "4.245"
+        },
+        "url": "/fr/line/football/1362815-bangladesh-championship-division-1/294199248-east-end-club-aramabagh-academy"
+    },
+    {
+        "id": "294199249",
+        "league": "Championnat de Bangladesh. Division 12",
+        "home": "Basabo Tourn Shangha",
+        "away": "Siddique Bazar Dhaka JSC",
+        "date": "29/12",
+        "time": "07:15",
+        "odds": {
+            "1": "1.2",
+            "X": "5.84",
+            "2": "9.55"
+        },
+        "url": "/fr/line/football/1362815-bangladesh-championship-division-1/294199249-basabo-tourn-shangha-siddique-bazar-dhaka-jsc"
+    },
+    {
+        "id": "294220703",
+        "league": "Championnat de Sierra Leone de football1",
+        "home": "East End Lions",
+        "away": "Wilberforce Strikers",
+        "date": "29/12",
+        "time": "17:15",
+        "odds": {
+            "1": "2.918",
+            "X": "3.2",
+            "2": "2.2"
+        },
+        "url": "/fr/line/football/831037-sierra-leone-premier-league/294220703-east-end-lions-wilberforce-strikers"
+    },
+    {
+        "id": "294168248",
+        "league": "Championnat des Émirats Arabes Unis U233",
+        "home": "Al Ain U23",
+        "away": "Al Nasr Dubai U23",
+        "date": "29/12",
+        "time": "13:50",
+        "odds": {
+            "1": "2.1",
+            "X": "3.4",
+            "2": "3.02"
+        },
+        "url": "/fr/line/football/2748693-uae-championship-u23/294168248-al-ain-u23-al-nasr-dubai-u23"
+    },
+    {
+        "id": "294169801",
+        "league": "Championnat des Émirats Arabes Unis U233",
+        "home": "Al Wasl U23",
+        "away": "Dibba Al-Fujairah U23",
+        "date": "29/12",
+        "time": "13:50",
+        "odds": {
+            "1": "1.76",
+            "X": "3.6",
+            "2": "3.91"
+        },
+        "url": "/fr/line/football/2748693-uae-championship-u23/294169801-al-wasl-u23-dibba-al-fujairah-u23"
+    },
+    {
+        "id": "294200044",
+        "league": "Championnat des Émirats Arabes Unis U233",
+        "home": "Khor Fakkan U23",
+        "away": "Al-Wahda Abu Dhabi U23",
+        "date": "29/12",
+        "time": "13:50",
+        "odds": {
+            "1": "2.17",
+            "X": "3.34",
+            "2": "2.934"
+        },
+        "url": "/fr/line/football/2748693-uae-championship-u23/294200044-khor-fakkan-u23-al-wahda-abu-dhabi-u23"
+    },
+    {
+        "id": "294233093",
+        "league": "Championnat des Émirats arabes unis U195",
+        "home": "Al Dhaid U19",
+        "away": "Al Ittihad Kalba U19",
+        "date": "29/12",
+        "time": "13:45",
+        "odds": {
+            "1": "1.24",
+            "X": "5.75",
+            "2": "8.2"
+        },
+        "url": "/fr/line/football/28203-uae-championship-u19/294233093-al-dhaid-u19-al-ittihad-kalba-u19"
+    },
+    {
+        "id": "294233100",
+        "league": "Championnat des Émirats arabes unis U195",
+        "home": "Fujairah U19",
+        "away": "Al Ain II U19",
+        "date": "29/12",
+        "time": "13:45",
+        "odds": {
+            "1": "6.1",
+            "X": "5.4",
+            "2": "1.33"
+        },
+        "url": "/fr/line/football/28203-uae-championship-u19/294233100-fujairah-u19-al-ain-ii-u19"
+    },
+    {
+        "id": "294233099",
+        "league": "Championnat des Émirats arabes unis U195",
+        "home": "Al Ahli U19",
+        "away": "Al Wasl U19",
+        "date": "29/12",
+        "time": "13:50",
+        "odds": {
+            "1": "3.58",
+            "X": "3.94",
+            "2": "1.76"
+        },
+        "url": "/fr/line/football/28203-uae-championship-u19/294233099-al-ahli-dubai-u19-al-wasl-u19"
+    },
+    {
+        "id": "294233091",
+        "league": "Championnat des Émirats arabes unis U195",
+        "home": "Al-Wahda Abu Dhabi U19",
+        "away": "Gulf United U19",
+        "date": "29/12",
+        "time": "13:55",
+        "odds": {
+            "1": "1.03",
+            "X": "17",
+            "2": "29"
+        },
+        "url": "/fr/line/football/28203-uae-championship-u19/294233091-al-wahda-abu-dhabi-u19-gulf-united-u19"
+    },
+    {
+        "id": "294233092",
+        "league": "Championnat des Émirats arabes unis U195",
+        "home": "Baniyas U19",
+        "away": "Al Sharjah U19",
+        "date": "29/12",
+        "time": "13:55",
+        "odds": {
+            "1": "1.87",
+            "X": "4.2",
+            "2": "3.13"
+        },
+        "url": "/fr/line/football/28203-uae-championship-u19/294233092-baniyas-u19-al-sharjah-u19"
+    },
+    {
+        "id": "294161412",
+        "league": "Championnat des Émirats arabes unis. Ligue Pro2",
+        "home": "Al Ittihad Kalba",
+        "away": "Al Jazira Abu Dhabi",
+        "date": "29/12",
+        "time": "13:50",
+        "odds": {
+            "1": "4.265",
+            "X": "3.72",
+            "2": "1.68"
+        },
+        "url": "/fr/line/football/108685-uae-pro-league/294161412-al-ittihad-kalba-al-jazira-abu-dhabi"
+    },
+    {
+        "id": "294159501",
+        "league": "Championnat des Émirats arabes unis. Ligue Pro2",
+        "home": "Al Dhafra",
+        "away": "Baniyas",
+        "date": "29/12",
+        "time": "16:45",
+        "odds": {
+            "1": "2.31",
+            "X": "3.44",
+            "2": "2.59"
+        },
+        "url": "/fr/line/football/108685-uae-pro-league/294159501-al-dhafra-baniyas"
+    },
+    {
+        "id": "294178900",
+        "league": "Championnat du Ghana. Division 11",
+        "home": "Ghana Police",
+        "away": "Eleven Wise",
+        "date": "29/12",
+        "time": "16:00",
+        "odds": {
+            "1": "2.56",
+            "X": "2.96",
+            "2": "2.6"
+        },
+        "url": "/fr/line/football/1436987-ghana-division-1/294178900-ghana-police-eleven-wise"
+    },
+    {
+        "id": "293209442",
+        "league": "Championnat du Qatar2",
+        "home": "Al Shamal",
+        "away": "AlSadd",
+        "date": "29/12",
+        "time": "15:30",
+        "odds": {
+            "1": "3.615",
+            "X": "3.98",
+            "2": "1.75"
+        },
+        "url": "/fr/line/football/47513-qatar-championship/293209442-al-shamal-al-sadd"
+    },
+    {
+        "id": "293226064",
+        "league": "Championnat du Qatar2",
+        "home": "Al Ahli Doha",
+        "away": "UmmSalal",
+        "date": "29/12",
+        "time": "17:30",
+        "odds": {
+            "1": "1.91",
+            "X": "3.72",
+            "2": "3.255"
+        },
+        "url": "/fr/line/football/47513-qatar-championship/293226064-al-ahli-doha-umm-salal"
+    },
+    {
+        "id": "294178901",
+        "league": "Championnat du Viêt Nam U198",
+        "home": "PVF-CAND U19",
+        "away": "Tre Phu Dong U19",
+        "date": "29/12",
+        "time": "08:30",
+        "odds": {
+            "1": "-",
+            "X": "-",
+            "2": "-"
+        },
+        "url": "/fr/line/football/933453-vietnam-championship-u19/294178901-pvf-cand-u19-tre-phu-dong-u19"
+    },
+    {
+        "id": "294183818",
+        "league": "Championnat du Viêt Nam U198",
+        "home": "Viettel II U19",
+        "away": "Ha Noi T&T U19",
+        "date": "29/12",
+        "time": "08:30",
+        "odds": {
+            "1": "-",
+            "X": "-",
+            "2": "-"
+        },
+        "url": "/fr/line/football/933453-vietnam-championship-u19/294183818-viettel-ii-u19-ha-noi-tt-u19"
+    },
+    {
+        "id": "294184044",
+        "league": "Championnat du Viêt Nam U198",
+        "home": "Cong an TP HCM U19",
+        "away": "Dong Nai U19",
+        "date": "29/12",
+        "time": "09:00",
+        "odds": {
+            "1": "1.18",
+            "X": "5.75",
+            "2": "12.6"
+        },
+        "url": "/fr/line/football/933453-vietnam-championship-u19/294184044-cong-an-tp-hcm-u19-dong-nai-u19"
+    },
+    {
+        "id": "294183815",
+        "league": "Championnat du Viêt Nam U198",
+        "home": "Dao Ha U19",
+        "away": "Ninh Binh U19",
+        "date": "29/12",
+        "time": "09:00",
+        "odds": {
+            "1": "6.16",
+            "X": "5.05",
+            "2": "1.35"
+        },
+        "url": "/fr/line/football/933453-vietnam-championship-u19/294183815-dao-ha-u19-ninh-binh-u19"
+    },
+    {
+        "id": "294184046",
+        "league": "Championnat du Viêt Nam U198",
+        "home": "Dong Thap U19",
+        "away": "Phuoc Binh Dong Nai U19",
+        "date": "29/12",
+        "time": "09:00",
+        "odds": {
+            "1": "-",
+            "X": "-",
+            "2": "-"
+        },
+        "url": "/fr/line/football/933453-vietnam-championship-u19/294184046-dong-thap-u19-phuoc-binh-dong-nai-u19"
+    },
+    {
+        "id": "294186519",
+        "league": "Championnat du Viêt Nam U198",
+        "home": "Ho Chi Minh-Ville U19",
+        "away": "Dak Lak U19",
+        "date": "29/12",
+        "time": "09:00",
+        "odds": {
+            "1": "1.55",
+            "X": "3.94",
+            "2": "4.965"
+        },
+        "url": "/fr/line/football/933453-vietnam-championship-u19/294186519-ho-chi-minh-city-u19-dak-lak-u19"
+    },
+    {
+        "id": "294184229",
+        "league": "Championnat du Viêt Nam U198",
+        "home": "Hoang Anh Gia Lai U19",
+        "away": "Song Lam Nghe An U19",
+        "date": "29/12",
+        "time": "09:00",
+        "odds": {
+            "1": "3.73",
+            "X": "3.68",
+            "2": "1.78"
+        },
+        "url": "/fr/line/football/933453-vietnam-championship-u19/294184229-hoang-anh-gia-lai-u19-song-lam-nghe-an-u19"
+    },
+    {
+        "id": "294184040",
+        "league": "Championnat du Viêt Nam U198",
+        "home": "Khanh Hoa U19",
+        "away": "SHB Da Nang U19",
+        "date": "29/12",
+        "time": "09:00",
+        "odds": {
+            "1": "-",
+            "X": "-",
+            "2": "-"
+        },
+        "url": "/fr/line/football/933453-vietnam-championship-u19/294184040-khanh-hoa-u19-shb-da-nang-u19"
+    },
+    {
+        "id": "294151392",
+        "league": "Coupe d'Oman2",
+        "home": "Al-Musannah",
+        "away": "Al Nahda Al Buraimi",
+        "date": "29/12",
+        "time": "13:50",
+        "odds": {
+            "1": "5.21",
+            "X": "3.18",
+            "2": "1.68"
+        },
+        "url": "/fr/line/football/129591-sultan-qaboos-cup/294151392-al-musannah-al-nahda-al-buraimi"
+    },
+    {
+        "id": "294151393",
+        "league": "Coupe d'Oman2",
+        "home": "Al-Seeb Sports Club",
+        "away": "Jalan",
+        "date": "29/12",
+        "time": "16:50",
+        "odds": {
+            "1": "1.04",
+            "X": "13",
+            "2": "65"
+        },
+        "url": "/fr/line/football/129591-sultan-qaboos-cup/294151393-al-seeb-sports-club-jalan"
+    },
+    {
+        "id": "294219019",
+        "league": "Espagne. Championnat des jeunes2",
+        "home": "Mensajero U19",
+        "away": "Puertos de Las Palmas U19",
+        "date": "29/12",
+        "time": "14:30",
+        "odds": {
+            "1": "1.747",
+            "X": "3.65",
+            "2": "3.91"
+        },
+        "url": "/fr/line/football/20661-spain-youth-championship/294219019-mensajero-u19-puertos-de-las-palmas-u19"
+    },
+    {
+        "id": "294219018",
+        "league": "Espagne. Championnat des jeunes2",
+        "home": "Longuera Toscal U19",
+        "away": "AD Huracan U19",
+        "date": "29/12",
+        "time": "18:00",
+        "odds": {
+            "1": "2.4",
+            "X": "3.68",
+            "2": "2.36"
+        },
+        "url": "/fr/line/football/20661-spain-youth-championship/294219018-longuera-toscal-u19-ad-huracan-u19"
+    },
+    {
+        "id": "294160487",
+        "league": "Hong Kong. Premier League U221",
+        "home": "Kitchee U22",
+        "away": "Hong Kong Rangers U22",
+        "date": "29/12",
+        "time": "11:45",
+        "odds": {
+            "1": "2.14",
+            "X": "3.82",
+            "2": "2.689"
+        },
+        "url": "/fr/line/football/2765014-hong-kong-premier-league-u22/294160487-kitchee-u22-hong-kong-rangers-u22"
+    },
+    {
+        "id": "294180135",
+        "league": "Inde. Mumbai. Premier League1",
+        "home": "Mumbai City U19",
+        "away": "Sellebrity",
+        "date": "29/12",
+        "time": "10:30",
+        "odds": {
+            "1": "1.143",
+            "X": "7.5",
+            "2": "13"
+        },
+        "url": "/fr/line/football/2783103-india-mumbai-premier-league/294180135-mumbai-city-u19-sellebrity"
+    },
+    {
+        "id": "294179920",
+        "league": "Indonesia. Liga Nusantara2",
+        "home": "Perseden Denpasar",
+        "away": "Persiba Bantul",
+        "date": "29/12",
+        "time": "09:00",
+        "odds": {
+            "1": "1.89",
+            "X": "3.3",
+            "2": "3.715"
+        },
+        "url": "/fr/line/football/2796350-indonesia-liga-nusantara/294179920-perseden-denpasar-persiba-bantul"
+    },
+    {
+        "id": "294179921",
+        "league": "Indonesia. Liga Nusantara2",
+        "home": "Persitara Jakarta Utara",
+        "away": "Tri Brata Raflesia",
+        "date": "29/12",
+        "time": "09:00",
+        "odds": {
+            "1": "1.61",
+            "X": "3.44",
+            "2": "5.29"
+        },
+        "url": "/fr/line/football/2796350-indonesia-liga-nusantara/294179921-persitara-jakarta-utara-tri-brata-raflesia"
+    },
+    {
+        "id": "294181074",
+        "league": "Indonésie. Championship2",
+        "home": "Sumsel United",
+        "away": "Bekasi City",
+        "date": "29/12",
+        "time": "09:30",
+        "odds": {
+            "1": "2.03",
+            "X": "3.26",
+            "2": "3.31"
+        },
+        "url": "/fr/line/football/2903305-indonesia-championship/294181074-sumsel-united-bekasi-city"
+    },
+    {
+        "id": "294184525",
+        "league": "Indonésie. Ligue 41",
+        "home": "Bongoayu",
+        "away": "Helumo",
+        "date": "29/12",
+        "time": "08:00",
+        "odds": {
+            "1": "4.045",
+            "X": "4.75",
+            "2": "1.553"
+        },
+        "url": "/fr/line/football/2796379-indonesia-liga-4/294184525-bongoayu-helumo"
+    },
+    {
+        "id": "293308685",
+        "league": "Indonésie. Super Ligue4",
+        "home": "Bali United Pusam",
+        "away": "Dewa United",
+        "date": "29/12",
+        "time": "09:30",
+        "odds": {
+            "1": "2.33",
+            "X": "3.18",
+            "2": "2.798"
+        },
+        "url": "/fr/line/football/11249-indonesia-super-league/293308685-bali-united-pusam-dewa-united"
+    },
+    {
+        "id": "293462427",
+        "league": "Indonésie. Super Ligue4",
+        "home": "PSIMYogyakarta",
+        "away": "PSBS Biak Numfor",
+        "date": "29/12",
+        "time": "09:30",
+        "odds": {
+            "1": "1.108",
+            "X": "6.6",
+            "2": "17"
+        },
+        "url": "/fr/line/football/11249-indonesia-super-league/293462427-psim-yogyakarta-psbs-biak-numfor"
+    },
+    {
+        "id": "293334884",
+        "league": "Indonésie. Super Ligue4",
+        "home": "Perse Djakarta",
+        "away": "Bhayangkara",
+        "date": "29/12",
+        "time": "13:00",
+        "odds": {
+            "1": "1.39",
+            "X": "4.15",
+            "2": "7.09"
+        },
+        "url": "/fr/line/football/11249-indonesia-super-league/293334884-persija-jakarta-bhayangkara"
+    },
+    {
+        "id": "294202996",
+        "league": "Iran. Azadegan League1",
+        "home": "Havadar",
+        "away": "Shenavar Sazi Qeshm",
+        "date": "29/12",
+        "time": "12:30",
+        "odds": {
+            "1": "1.4",
+            "X": "3.59",
+            "2": "8.45"
+        },
+        "url": "/fr/line/football/54221-iran-azadegan-league/294202996-havadar-shenavar-sazi-qeshm"
+    },
+    {
+        "id": "294180423",
+        "league": "Jamaique. Première Ligue1",
+        "home": "Tivoli Gardens",
+        "away": "Chapelton Maroons",
+        "date": "29/12",
+        "time": "23:00",
+        "odds": {
+            "1": "1.81",
+            "X": "3.3",
+            "2": "4.065"
+        },
+        "url": "/fr/line/football/118745-jamaica-national-premier-league/294180423-tivoli-gardens-chapelton-maroons"
+    },
+    {
+        "id": "294180890",
+        "league": "Jordanie. Ligue de réserve3",
+        "home": "Al Wehdat II",
+        "away": "Al-Salt II",
+        "date": "29/12",
+        "time": "13:00",
+        "odds": {
+            "1": "1.54",
+            "X": "3.84",
+            "2": "5.22"
+        },
+        "url": "/fr/line/football/2888772-jordan-reserve-league/294180890-al-wehdat-ii-al-salt-ii"
+    },
+    {
+        "id": "294180887",
+        "league": "Jordanie. Ligue de réserve3",
+        "home": "Al-Hussein Irbid II",
+        "away": "Al-Baqa II",
+        "date": "29/12",
+        "time": "13:00",
+        "odds": {
+            "1": "1.115",
+            "X": "5.95",
+            "2": "21"
+        },
+        "url": "/fr/line/football/2888772-jordan-reserve-league/294180887-al-hussein-irbid-ii-al-baqa-ii"
+    },
+    {
+        "id": "294180888",
+        "league": "Jordanie. Ligue de réserve3",
+        "home": "Al-Jazeera Amman II",
+        "away": "Al Ramtha II",
+        "date": "29/12",
+        "time": "16:00",
+        "odds": {
+            "1": "1.085",
+            "X": "6.6",
+            "2": "25"
+        },
+        "url": "/fr/line/football/2888772-jordan-reserve-league/294180888-al-jazeera-amman-ii-al-ramtha-ii"
+    },
+    {
+        "id": "294150931",
+        "league": "Malaysia. Liga A11",
+        "home": "Selangor U23",
+        "away": "Perlis GSA",
+        "date": "29/12",
+        "time": "09:45",
+        "odds": {
+            "1": "1.078",
+            "X": "7.3",
+            "2": "20"
+        },
+        "url": "/fr/line/football/2717183-malaysia-liga-a1/294150931-selangor-u23-perlis-gsa"
+    },
+    {
+        "id": "294160486",
+        "league": "Mauritanie. Championnat D11",
+        "home": "Pompier",
+        "away": "SNIM",
+        "date": "29/12",
+        "time": "17:00",
+        "odds": {
+            "1": "1.48",
+            "X": "3.24",
+            "2": "8.55"
+        },
+        "url": "/fr/line/football/656519-mauritania-championnat-d1/294160486-pompier-snim"
+    },
+    {
+        "id": "294192236",
+        "league": "Rwanda. Ligue Nationale2",
+        "home": "Muhanga",
+        "away": "Al Merreikh Omdurman",
+        "date": "29/12",
+        "time": "14:00",
+        "odds": {
+            "1": "11.7",
+            "X": "3.78",
+            "2": "1.33"
+        },
+        "url": "/fr/line/football/901389-rwanda-national-league/294192236-muhanga-al-merrikh"
+    },
+    {
+        "id": "294188745",
+        "league": "Rwanda. Ligue Nationale2",
+        "home": "Al-Hilal Omdurman",
+        "away": "Association Sportive de Kigali",
+        "date": "29/12",
+        "time": "17:00",
+        "odds": {
+            "1": "1.5",
+            "X": "3.55",
+            "2": "6.53"
+        },
+        "url": "/fr/line/football/901389-rwanda-national-league/294188745-al-hilal-omdurman-association-sportive-de-kigali"
+    },
+    {
+        "id": "293735780",
+        "league": "Sénégal. Première Ligue2",
+        "home": "Ouakam",
+        "away": "Stade de Mbour",
+        "date": "29/12",
+        "time": "17:30",
+        "odds": {
+            "1": "2.76",
+            "X": "2.44",
+            "2": "2.94"
+        },
+        "url": "/fr/line/football/214107-senegal-premier-league/293735780-ouakam-stade-de-mbour"
+    },
+    {
+        "id": "293735779",
+        "league": "Sénégal. Première Ligue2",
+        "home": "Academie Generation Foot",
+        "away": "ASPikine",
+        "date": "29/12",
+        "time": "18:00",
+        "odds": {
+            "1": "3.03",
+            "X": "2.39",
+            "2": "2.66"
+        },
+        "url": "/fr/line/football/214107-senegal-premier-league/293735779-academie-generation-foot-as-pikine"
+    },
+    {
+        "id": "294177325",
+        "league": "Turquie. TFF 1. Ligue 11",
+        "home": "Adana Demirspor",
+        "away": "İstanbulspor",
+        "date": "29/12",
+        "time": "12:30",
+        "odds": {
+            "1": "25",
+            "X": "10.7",
+            "2": "1.024"
+        },
+        "url": "/fr/line/football/40017-turkey-tff-1-lig/294177325-adana-demirspor-stanbulspor"
+    }
+]

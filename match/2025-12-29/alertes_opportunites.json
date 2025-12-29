@@ -1,0 +1,32 @@
+[
+    {
+        "match": "Viettel II U19 Ha Noi T&T U19",
+        "timestamp": "2025-12-29T09:40:37.283124",
+        "opportunity": {
+            "score": 75,
+            "niveau": "🟠 ALERTE ORANGE",
+            "type": "FAVORI_PERDANT",
+            "raisons": [
+                "Kenkre (19) (V1) mené 0-2 (Cote init: 1.57)"
+            ],
+            "recommandation": "Écart important. Le favori va attaquer pour l'honneur.\n🔥 <b>👉 PARIER : Total Buts +0.5 ou But du Favori (si cote > 1.60)</b>",
+            "action_suggeree": "👉 PARIER : Total Buts +0.5 ou But du Favori (si cote > 1.60)",
+            "risque": "ÉLEVÉ"
+        }
+    },
+    {
+        "match": "Persitara Jakarta Utara  vs Tri Brata Raflesia",
+        "timestamp": "2025-12-29T09:40:58.796921",
+        "opportunity": {
+            "score": 75,
+            "niveau": "🟠 ALERTE ORANGE",
+            "type": "FAVORI_PERDANT",
+            "raisons": [
+                "Tri Brata Raflesia (V2) mené 3-1 (Cote init: 1.39)"
+            ],
+            "recommandation": "Écart important. Le favori va attaquer pour l'honneur.\n🔥 <b>👉 PARIER : Total Buts +0.5 ou But du Favori (si cote > 1.60)</b>",
+            "action_suggeree": "👉 PARIER : Total Buts +0.5 ou But du Favori (si cote > 1.60)",
+            "risque": "ÉLEVÉ"
+        }
+    }
+]

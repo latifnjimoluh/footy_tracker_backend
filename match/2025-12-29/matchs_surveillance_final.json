@@ -1,0 +1,3769 @@
+[
+    {
+        "id": "294199249",
+        "league": "Championnat de Bangladesh. Division 12",
+        "heure": "07:15",
+        "favori": "Basabo Tourn Shangha",
+        "pronostic": "V1",
+        "cote": 1.2,
+        "match_complet": "Basabo Tourn Shangha vs Siddique Bazar Dhaka JSC",
+        "url": "https://1xbet.cm/fr/line/football/1362815-bangladesh-championship-division-1/294199249-basabo-tourn-shangha-siddique-bazar-dhaka-jsc",
+        "status": "FINISHED",
+        "timestamp": "2025-12-29T08:52:41.503263",
+        "last_update": "08:52:41",
+        "score": "0-0",
+        "half_time_score": {
+            "home": null,
+            "away": null
+        },
+        "game_time": "00:00",
+        "stats": {},
+        "live_odds": {},
+        "probabilities": {},
+        "totals": {},
+        "opportunity": {}
+    },
+    {
+        "id": "294184525",
+        "league": "Indonésie. Ligue 41",
+        "heure": "08:00",
+        "favori": "Helumo",
+        "pronostic": "V2",
+        "cote": 1.553,
+        "match_complet": "Bongoayu vs Helumo",
+        "url": "https://1xbet.cm/fr/line/football/2796379-indonesia-liga-4/294184525-bongoayu-helumo",
+        "status": "LIVE",
+        "timestamp": "2025-12-29T08:53:42.359098",
+        "last_update": "08:53:42",
+        "score": "2-1",
+        "half_time_score": {
+            "home": null,
+            "away": null
+        },
+        "game_time": "45:00",
+        "stats": {
+            "Attaques": {
+                "home": "37",
+                "away": "42"
+            },
+            "Attaques dangereuses": {
+                "home": "13",
+                "away": "20"
+            },
+            "% de possession de balle": {
+                "home": "48",
+                "away": "52"
+            },
+            "Tirs cadrés": {
+                "home": "2",
+                "away": "2"
+            },
+            "Tirs non cadrés": {
+                "home": "1",
+                "away": "1"
+            },
+            "Corners": {
+                "home": "1",
+                "away": "3"
+            }
+        },
+        "live_odds": {
+            "V1": 1.73,
+            "V2": 4.11,
+            "X": 3.85,
+            "BTS_Oui": "N/A",
+            "BTS_Non": "N/A"
+        },
+        "probabilities": {},
+        "totals": {
+            "global": [
+                {
+                    "Seuil": 3.5,
+                    "Plus": 1.02,
+                    "Moins": 6.9
+                },
+                {
+                    "Seuil": 4,
+                    "Plus": 1.104,
+                    "Moins": 5.68
+                },
+                {
+                    "Seuil": 4.5,
+                    "Plus": 1.43,
+                    "Moins": 2.616
+                },
+                {
+                    "Seuil": 5,
+                    "Plus": 1.768,
+                    "Moins": 1.984
+                },
+                {
+                    "Seuil": 5.5,
+                    "Plus": 2.344,
+                    "Moins": 1.525
+                },
+                {
+                    "Seuil": 6,
+                    "Plus": 3.57,
+                    "Moins": 1.25
+                },
+                {
+                    "Seuil": 6.5,
+                    "Plus": 4.39,
+                    "Moins": 1.17
+                },
+                {
+                    "Seuil": 7,
+                    "Plus": 8.17,
+                    "Moins": 1.045
+                }
+            ],
+            "team_1": [
+                {
+                    "Seuil": 3,
+                    "Plus": 2.225,
+                    "Moins": 1.6
+                },
+                {
+                    "Seuil": 3.5,
+                    "Plus": 3.256,
+                    "Moins": 1.3
+                },
+                {
+                    "Seuil": 4,
+                    "Plus": 8.17,
+                    "Moins": 1.05
+                }
+            ],
+            "team_2": [
+                {
+                    "Seuil": 2,
+                    "Plus": 1.71,
+                    "Moins": 2.04
+                },
+                {
+                    "Seuil": 2.5,
+                    "Plus": 2.575,
+                    "Moins": 1.456
+                },
+                {
+                    "Seuil": 3,
+                    "Plus": 5.54,
+                    "Moins": 1.12
+                }
+            ]
+        },
+        "opportunity": {
+            "score": 0,
+            "niveau": "AUCUNE",
+            "type": null,
+            "raisons": [],
+            "recommandation": null,
+            "risque": "FAIBLE"
+        }
+    },
+    {
+        "id": "294184044",
+        "league": "Championnat du Viêt Nam U198",
+        "heure": "09:00",
+        "favori": "Cong an TP HCM U19",
+        "pronostic": "V1",
+        "cote": 1.18,
+        "match_complet": "Cong an TP HCM U19 vs Dong Nai U19",
+        "url": "https://1xbet.cm/fr/line/football/933453-vietnam-championship-u19/294184044-cong-an-tp-hcm-u19-dong-nai-u19",
+        "status": "UPCOMING",
+        "timestamp": "2025-12-29T08:54:19.688743",
+        "last_update": "08:54:19",
+        "score": "0-0",
+        "half_time_score": {
+            "home": null,
+            "away": null
+        },
+        "game_time": "00:00",
+        "stats": {},
+        "live_odds": {
+            "V1": 1.28,
+            "V2": 9.07,
+            "X": 5.29,
+            "BTS_Oui": 2.16,
+            "BTS_Non": 1.593
+        },
+        "probabilities": {
+            "P1": "72%",
+            "PX": "18%",
+            "P2": "10%"
+        },
+        "totals": {
+            "global": [
+                {
+                    "Seuil": 0.5,
+                    "Plus": 1.02,
+                    "Moins": 19
+                },
+                {
+                    "Seuil": 1.5,
+                    "Plus": 1.125,
+                    "Moins": 5
+                },
+                {
+                    "Seuil": 2,
+                    "Plus": 1.173,
+                    "Moins": 3.95
+                },
+                {
+                    "Seuil": 2.5,
+                    "Plus": 1.46,
+                    "Moins": 2.375
+                },
+                {
+                    "Seuil": 3,
+                    "Plus": 1.775,
+                    "Moins": 1.975
+                },
+                {
+                    "Seuil": 3.5,
+                    "Plus": 2.25,
+                    "Moins": 1.57
+                },
+                {
+                    "Seuil": 4,
+                    "Plus": 2.97,
+                    "Moins": 1.3
+                },
+                {
+                    "Seuil": 4.5,
+                    "Plus": 3.58,
+                    "Moins": 1.21
+                },
+                {
+                    "Seuil": 5,
+                    "Plus": 5.9,
+                    "Moins": 1.068
+                },
+                {
+                    "Seuil": 5.5,
+                    "Plus": 6.5,
+                    "Moins": 1.083
+                }
+            ],
+            "team_1": [
+                {
+                    "Seuil": 0.5,
+                    "Plus": 1.015,
+                    "Moins": 8.8
+                },
+                {
+                    "Seuil": 2,
+                    "Plus": 1.46,
+                    "Moins": 2.45
+                },
+                {
+                    "Seuil": 2.5,
+                    "Plus": 1.87,
+                    "Moins": 1.81
+                },
+                {
+                    "Seuil": 3,
+                    "Plus": 2.5,
+                    "Moins": 1.444
+                }
+            ],
+            "team_2": [
+                {
+                    "Seuil": 0.5,
+                    "Plus": 1.97,
+                    "Moins": 1.69
+                },
+                {
+                    "Seuil": 1,
+                    "Plus": 4.55,
+                    "Moins": 1.154
+                },
+                {
+                    "Seuil": 1.5,
+                    "Plus": 6.4,
+                    "Moins": 1.067
+                }
+            ]
+        },
+        "opportunity": {}
+    },
+    {
+        "id": "294183815",
+        "league": "Championnat du Viêt Nam U198",
+        "heure": "09:00",
+        "favori": "Ninh Binh U19",
+        "pronostic": "V2",
+        "cote": 1.35,
+        "match_complet": "Dao Ha U19 vs Ninh Binh U19",
+        "url": "https://1xbet.cm/fr/line/football/933453-vietnam-championship-u19/294183815-dao-ha-u19-ninh-binh-u19",
+        "status": "UPCOMING",
+        "timestamp": "2025-12-29T08:54:40.750557",
+        "last_update": "08:54:40",
+        "score": "0-0",
+        "half_time_score": {
+            "home": null,
+            "away": null
+        },
+        "game_time": "00:00",
+        "stats": {},
+        "live_odds": {
+            "V1": 8.55,
+            "V2": 1.26,
+            "X": 5.25,
+            "BTS_Oui": 1.37,
+            "BTS_Non": 2.777
+        },
+        "probabilities": {
+            "P1": "11%",
+            "PX": "17%",
+            "P2": "72%"
+        },
+        "totals": {
+            "global": [
+                {
+                    "Seuil": 1.5,
+                    "Plus": 1.05,
+                    "Moins": 10
+                },
+                {
+                    "Seuil": 2.5,
+                    "Plus": 1.2,
+                    "Moins": 4
+                },
+                {
+                    "Seuil": 3,
+                    "Plus": 1.23,
+                    "Moins": 3.42
+                },
+                {
+                    "Seuil": 3.5,
+                    "Plus": 1.47,
+                    "Moins": 2.35
+                },
+                {
+                    "Seuil": 4,
+                    "Plus": 1.7,
+                    "Moins": 1.94
+                },
+                {
+                    "Seuil": 4.5,
+                    "Plus": 2.12,
+                    "Moins": 1.63
+                },
+                {
+                    "Seuil": 5,
+                    "Plus": 2.7,
+                    "Moins": 1.36
+                },
+                {
+                    "Seuil": 5.5,
+                    "Plus": 3.14,
+                    "Moins": 1.27
+                },
+                {
+                    "Seuil": 6,
+                    "Plus": 4.85,
+                    "Moins": 1.113
+                }
+            ],
+            "team_1": [
+                {
+                    "Seuil": 0.5,
+                    "Plus": 1.32,
+                    "Moins": 2.92
+                },
+                {
+                    "Seuil": 1,
+                    "Plus": 1.75,
+                    "Moins": 1.94
+                },
+                {
+                    "Seuil": 1.5,
+                    "Plus": 2.68,
+                    "Moins": 1.39
+                },
+                {
+                    "Seuil": 2,
+                    "Plus": 5.55,
+                    "Moins": 1.082
+                }
+            ],
+            "team_2": [
+                {
+                    "Seuil": 2.5,
+                    "Plus": 1.56,
+                    "Moins": 2.22
+                },
+                {
+                    "Seuil": 3,
+                    "Plus": 1.909,
+                    "Moins": 1.78
+                },
+                {
+                    "Seuil": 3.5,
+                    "Plus": 2.375,
+                    "Moins": 1.49
+                }
+            ]
+        },
+        "opportunity": {}
+    },
+    {
+        "id": "294186519",
+        "league": "Championnat du Viêt Nam U198",
+        "heure": "09:00",
+        "favori": "Ho Chi Minh-Ville U19",
+        "pronostic": "V1",
+        "cote": 1.55,
+        "match_complet": "Ho Chi Minh-Ville U19 vs Dak Lak U19",
+        "url": "https://1xbet.cm/fr/line/football/933453-vietnam-championship-u19/294186519-ho-chi-minh-city-u19-dak-lak-u19",
+        "status": "UPCOMING",
+        "timestamp": "2025-12-29T08:55:02.853928",
+        "last_update": "08:55:02",
+        "score": "0-0",
+        "half_time_score": {
+            "home": null,
+            "away": null
+        },
+        "game_time": "00:00",
+        "stats": {},
+        "live_odds": {
+            "V1": 1.54,
+            "V2": 4.97,
+            "X": 3.98,
+            "BTS_Oui": 1.64,
+            "BTS_Non": 2.078
+        },
+        "probabilities": {
+            "P1": "59%",
+            "PX": "23%",
+            "P2": "18%"
+        },
+        "totals": {
+            "global": [
+                {
+                    "Seuil": 0.5,
+                    "Plus": 1.03,
+                    "Moins": 13
+                },
+                {
+                    "Seuil": 1.5,
+                    "Plus": 1.155,
+                    "Moins": 4.2
+                },
+                {
+                    "Seuil": 2,
+                    "Plus": 1.24,
+                    "Moins": 3.34
+                },
+                {
+                    "Seuil": 2.5,
+                    "Plus": 1.59,
+                    "Moins": 2.19
+                },
+                {
+                    "Seuil": 3,
+                    "Plus": 1.92,
+                    "Moins": 1.71
+                },
+                {
+                    "Seuil": 3.5,
+                    "Plus": 2.42,
+                    "Moins": 1.444
+                },
+                {
+                    "Seuil": 4,
+                    "Plus": 3.58,
+                    "Moins": 1.21
+                },
+                {
+                    "Seuil": 4.5,
+                    "Plus": 4.2,
+                    "Moins": 1.153
+                },
+                {
+                    "Seuil": 5.5,
+                    "Plus": 8.5,
+                    "Moins": 1.062
+                }
+            ],
+            "team_1": [
+                {
+                    "Seuil": 0.5,
+                    "Plus": 1.075,
+                    "Moins": 5.9
+                },
+                {
+                    "Seuil": 1.5,
+                    "Plus": 1.54,
+                    "Moins": 2.26
+                },
+                {
+                    "Seuil": 2,
+                    "Plus": 2.02,
+                    "Moins": 1.69
+                },
+                {
+                    "Seuil": 2.5,
+                    "Plus": 2.68,
+                    "Moins": 1.39
+                }
+            ],
+            "team_2": [
+                {
+                    "Seuil": 0.5,
+                    "Plus": 1.45,
+                    "Moins": 2.44
+                },
+                {
+                    "Seuil": 1,
+                    "Plus": 2.13,
+                    "Moins": 1.62
+                },
+                {
+                    "Seuil": 1.5,
+                    "Plus": 3.22,
+                    "Moins": 1.28
+                },
+                {
+                    "Seuil": 2,
+                    "Plus": 7,
+                    "Moins": 1.039
+                }
+            ]
+        },
+        "opportunity": {}
+    },
+    {
+        "id": "293462427",
+        "league": "Indonésie. Super Ligue4",
+        "heure": "09:30",
+        "favori": "PSIMYogyakarta",
+        "pronostic": "V1",
+        "cote": 1.108,
+        "match_complet": "PSIMYogyakarta vs PSBS Biak Numfor",
+        "url": "https://1xbet.cm/fr/line/football/11249-indonesia-super-league/293462427-psim-yogyakarta-psbs-biak-numfor",
+        "status": "UPCOMING",
+        "timestamp": "2025-12-29T08:55:26.672898",
+        "last_update": "08:55:26",
+        "score": "0-0",
+        "half_time_score": {
+            "home": null,
+            "away": null
+        },
+        "game_time": "00:00",
+        "stats": {},
+        "live_odds": {
+            "V1": 1.12,
+            "V2": 16,
+            "X": 6.35,
+            "BTS_Oui": 2.36,
+            "BTS_Non": 1.5
+        },
+        "probabilities": {},
+        "totals": {
+            "global": [
+                {
+                    "Seuil": 0.5,
+                    "Plus": 1.018,
+                    "Moins": 13.9
+                },
+                {
+                    "Seuil": 1,
+                    "Plus": 1.02,
+                    "Moins": 10
+                },
+                {
+                    "Seuil": 1.5,
+                    "Plus": 1.124,
+                    "Moins": 4.65
+                },
+                {
+                    "Seuil": 2,
+                    "Plus": 1.182,
+                    "Moins": 3.85
+                },
+                {
+                    "Seuil": 2.5,
+                    "Plus": 1.46,
+                    "Moins": 2.375
+                },
+                {
+                    "Seuil": 3,
+                    "Plus": 1.71,
+                    "Moins": 1.92
+                },
+                {
+                    "Seuil": 3.5,
+                    "Plus": 2.15,
+                    "Moins": 1.61
+                },
+                {
+                    "Seuil": 4,
+                    "Plus": 2.875,
+                    "Moins": 1.32
+                },
+                {
+                    "Seuil": 4.5,
+                    "Plus": 3.42,
+                    "Moins": 1.23
+                },
+                {
+                    "Seuil": 5,
+                    "Plus": 5.45,
+                    "Moins": 1.085
+                },
+                {
+                    "Seuil": 5.5,
+                    "Plus": 5.95,
+                    "Moins": 1.066
+                }
+            ],
+            "team_1": [
+                {
+                    "Seuil": 0.5,
+                    "Plus": 1.01,
+                    "Moins": 10.5
+                },
+                {
+                    "Seuil": 1.5,
+                    "Plus": 1.26,
+                    "Moins": 3.5
+                },
+                {
+                    "Seuil": 2.5,
+                    "Plus": 1.9,
+                    "Moins": 1.82
+                },
+                {
+                    "Seuil": 3.5,
+                    "Plus": 3.2,
+                    "Moins": 1.3
+                },
+                {
+                    "Seuil": 4.5,
+                    "Plus": 6.2,
+                    "Moins": 1.09
+                }
+            ],
+            "team_2": [
+                {
+                    "Seuil": 0.5,
+                    "Plus": 2.27,
+                    "Moins": 1.56
+                },
+                {
+                    "Seuil": 1,
+                    "Plus": 5.2,
+                    "Moins": 1.12
+                },
+                {
+                    "Seuil": 1.5,
+                    "Plus": 7.2,
+                    "Moins": 1.06
+                }
+            ]
+        },
+        "opportunity": {}
+    },
+    {
+        "id": "294150931",
+        "league": "Malaysia. Liga A11",
+        "heure": "09:45",
+        "favori": "Selangor U23",
+        "pronostic": "V1",
+        "cote": 1.078,
+        "match_complet": "Selangor U23 vs Perlis GSA",
+        "url": "https://1xbet.cm/fr/line/football/2717183-malaysia-liga-a1/294150931-selangor-u23-perlis-gsa",
+        "status": "UPCOMING",
+        "timestamp": "2025-12-29T08:56:00.688494",
+        "last_update": "08:56:00",
+        "score": "0-0",
+        "half_time_score": {
+            "home": null,
+            "away": null
+        },
+        "game_time": "00:00",
+        "stats": {},
+        "live_odds": {
+            "V1": 1.079,
+            "V2": 20,
+            "X": 7.3,
+            "BTS_Oui": 2.5,
+            "BTS_Non": 1.448
+        },
+        "probabilities": {
+            "P1": "83%",
+            "PX": "13%",
+            "P2": "4%"
+        },
+        "totals": {
+            "global": [
+                {
+                    "Seuil": 0.5,
+                    "Plus": 1.001,
+                    "Moins": 17
+                },
+                {
+                    "Seuil": 1.5,
+                    "Plus": 1.11,
+                    "Moins": 5.5
+                },
+                {
+                    "Seuil": 2,
+                    "Plus": 1.146,
+                    "Moins": 4.3
+                },
+                {
+                    "Seuil": 2.5,
+                    "Plus": 1.41,
+                    "Moins": 2.52
+                },
+                {
+                    "Seuil": 3,
+                    "Plus": 1.62,
+                    "Moins": 2.05
+                },
+                {
+                    "Seuil": 3.5,
+                    "Plus": 2.05,
+                    "Moins": 1.67
+                },
+                {
+                    "Seuil": 4,
+                    "Plus": 2.7,
+                    "Moins": 1.36
+                },
+                {
+                    "Seuil": 4.5,
+                    "Plus": 3.2,
+                    "Moins": 1.26
+                },
+                {
+                    "Seuil": 5,
+                    "Plus": 5.1,
+                    "Moins": 1.1
+                }
+            ],
+            "team_1": [
+                {
+                    "Seuil": 2,
+                    "Plus": 1.31,
+                    "Moins": 3.04
+                },
+                {
+                    "Seuil": 2.5,
+                    "Plus": 1.66,
+                    "Moins": 2.07
+                },
+                {
+                    "Seuil": 3,
+                    "Plus": 2.07,
+                    "Moins": 1.64
+                }
+            ],
+            "team_2": [
+                {
+                    "Seuil": 0.5,
+                    "Plus": 2.39,
+                    "Moins": 1.47
+                },
+                {
+                    "Seuil": 1,
+                    "Plus": 7.1,
+                    "Moins": 1.058
+                },
+                {
+                    "Seuil": 1.5,
+                    "Plus": 9.2,
+                    "Moins": 1.022
+                }
+            ]
+        },
+        "opportunity": {}
+    },
+    {
+        "id": "294180135",
+        "league": "Inde. Mumbai. Premier League1",
+        "heure": "10:30",
+        "favori": "Mumbai City U19",
+        "pronostic": "V1",
+        "cote": 1.143,
+        "match_complet": "Mumbai City U19 vs Sellebrity",
+        "url": "https://1xbet.cm/fr/line/football/2783103-india-mumbai-premier-league/294180135-mumbai-city-u19-sellebrity",
+        "status": "UPCOMING",
+        "timestamp": "2025-12-29T08:56:30.639265",
+        "last_update": "08:56:30",
+        "score": "0-0",
+        "half_time_score": {
+            "home": null,
+            "away": null
+        },
+        "game_time": "00:00",
+        "stats": {},
+        "live_odds": {
+            "V1": 1.143,
+            "V2": 13,
+            "X": 7.5,
+            "BTS_Oui": "N/A",
+            "BTS_Non": "N/A"
+        },
+        "probabilities": {
+            "P1": "81%",
+            "PX": "12%",
+            "P2": "7%"
+        },
+        "totals": {
+            "global": [
+                {
+                    "Seuil": 2.5,
+                    "Plus": 1.2,
+                    "Moins": 4.33
+                }
+            ],
+            "team_1": [],
+            "team_2": []
+        },
+        "opportunity": {}
+    },
+    {
+        "id": "294202996",
+        "league": "Iran. Azadegan League1",
+        "heure": "12:30",
+        "favori": "Havadar",
+        "pronostic": "V1",
+        "cote": 1.4,
+        "match_complet": "Havadar vs Shenavar Sazi Qeshm",
+        "url": "https://1xbet.cm/fr/line/football/54221-iran-azadegan-league/294202996-havadar-shenavar-sazi-qeshm",
+        "status": "NOT_READY",
+        "timestamp": "2025-12-29T08:57:15.339170",
+        "last_update": "08:57:15",
+        "score": "0-0",
+        "half_time_score": {
+            "home": null,
+            "away": null
+        },
+        "game_time": "00:00",
+        "stats": {},
+        "live_odds": {},
+        "probabilities": {},
+        "totals": {},
+        "opportunity": {}
+    },
+    {
+        "id": "294177325",
+        "league": "Turquie. TFF 1. Ligue 11",
+        "heure": "12:30",
+        "favori": "İstanbulspor",
+        "pronostic": "V2",
+        "cote": 1.024,
+        "match_complet": "Adana Demirspor vs İstanbulspor",
+        "url": "https://1xbet.cm/fr/line/football/40017-turkey-tff-1-lig/294177325-adana-demirspor-stanbulspor",
+        "status": "UPCOMING",
+        "timestamp": "2025-12-29T08:58:03.125369",
+        "last_update": "08:58:03",
+        "score": "0-0",
+        "half_time_score": {
+            "home": null,
+            "away": null
+        },
+        "game_time": "00:00",
+        "stats": {},
+        "live_odds": {
+            "V1": 19.5,
+            "V2": 1.047,
+            "X": 9.5,
+            "BTS_Oui": 1.78,
+            "BTS_Non": 1.909
+        },
+        "probabilities": {
+            "P1": "5%",
+            "PX": "9%",
+            "P2": "86%"
+        },
+        "totals": {
+            "global": [
+                {
+                    "Seuil": 1.5,
+                    "Plus": 1.03,
+                    "Moins": 15
+                },
+                {
+                    "Seuil": 2.5,
+                    "Plus": 1.123,
+                    "Moins": 4.65
+                },
+                {
+                    "Seuil": 3,
+                    "Plus": 1.164,
+                    "Moins": 4.05
+                },
+                {
+                    "Seuil": 3.5,
+                    "Plus": 1.37,
+                    "Moins": 2.66
+                },
+                {
+                    "Seuil": 4,
+                    "Plus": 1.52,
+                    "Moins": 2.24
+                },
+                {
+                    "Seuil": 4.5,
+                    "Plus": 1.86,
+                    "Moins": 1.84
+                },
+                {
+                    "Seuil": 5,
+                    "Plus": 2.24,
+                    "Moins": 1.52
+                },
+                {
+                    "Seuil": 5.5,
+                    "Plus": 2.625,
+                    "Moins": 1.38
+                },
+                {
+                    "Seuil": 6,
+                    "Plus": 3.58,
+                    "Moins": 1.21
+                },
+                {
+                    "Seuil": 6.5,
+                    "Plus": 4.1,
+                    "Moins": 1.16
+                },
+                {
+                    "Seuil": 7,
+                    "Plus": 6.15,
+                    "Moins": 1.06
+                },
+                {
+                    "Seuil": 7.5,
+                    "Plus": 7.1,
+                    "Moins": 1.06
+                }
+            ],
+            "team_1": [
+                {
+                    "Seuil": 0.5,
+                    "Plus": 1.75,
+                    "Moins": 1.95
+                },
+                {
+                    "Seuil": 1.5,
+                    "Plus": 4.6,
+                    "Moins": 1.16
+                }
+            ],
+            "team_2": [
+                {
+                    "Seuil": 1.5,
+                    "Plus": 1.07,
+                    "Moins": 6.9
+                },
+                {
+                    "Seuil": 2.5,
+                    "Plus": 1.28,
+                    "Moins": 3.35
+                },
+                {
+                    "Seuil": 3.5,
+                    "Plus": 1.7,
+                    "Moins": 2.02
+                },
+                {
+                    "Seuil": 4.5,
+                    "Plus": 2.55,
+                    "Moins": 1.45
+                },
+                {
+                    "Seuil": 5.5,
+                    "Plus": 4.15,
+                    "Moins": 1.19
+                },
+                {
+                    "Seuil": 6.5,
+                    "Plus": 7,
+                    "Moins": 1.07
+                }
+            ]
+        },
+        "opportunity": {}
+    },
+    {
+        "id": "293334884",
+        "league": "Indonésie. Super Ligue4",
+        "heure": "13:00",
+        "favori": "Perse Djakarta",
+        "pronostic": "V1",
+        "cote": 1.39,
+        "match_complet": "Perse Djakarta vs Bhayangkara",
+        "url": "https://1xbet.cm/fr/line/football/11249-indonesia-super-league/293334884-persija-jakarta-bhayangkara",
+        "status": "UPCOMING",
+        "timestamp": "2025-12-29T08:58:31.444755",
+        "last_update": "08:58:31",
+        "score": "0-0",
+        "half_time_score": {
+            "home": null,
+            "away": null
+        },
+        "game_time": "00:00",
+        "stats": {},
+        "live_odds": {
+            "V1": 1.37,
+            "V2": 7.5,
+            "X": 4.2,
+            "BTS_Oui": 1.97,
+            "BTS_Non": 1.716
+        },
+        "probabilities": {
+            "P1": "66%",
+            "PX": "22%",
+            "P2": "12%"
+        },
+        "totals": {
+            "global": [
+                {
+                    "Seuil": 0.5,
+                    "Plus": 1.002,
+                    "Moins": 9.3
+                },
+                {
+                    "Seuil": 1,
+                    "Plus": 1.017,
+                    "Moins": 8.2
+                },
+                {
+                    "Seuil": 1.5,
+                    "Plus": 1.22,
+                    "Moins": 3.5
+                },
+                {
+                    "Seuil": 2,
+                    "Plus": 1.35,
+                    "Moins": 2.74
+                },
+                {
+                    "Seuil": 2.5,
+                    "Plus": 1.77,
+                    "Moins": 1.92
+                },
+                {
+                    "Seuil": 3,
+                    "Plus": 2.26,
+                    "Moins": 1.51
+                },
+                {
+                    "Seuil": 3.5,
+                    "Plus": 2.83,
+                    "Moins": 1.33
+                },
+                {
+                    "Seuil": 4,
+                    "Plus": 4.5,
+                    "Moins": 1.134
+                },
+                {
+                    "Seuil": 4.5,
+                    "Plus": 5.1,
+                    "Moins": 1.099
+                },
+                {
+                    "Seuil": 5,
+                    "Plus": 8.8,
+                    "Moins": 1.008
+                },
+                {
+                    "Seuil": 5.5,
+                    "Plus": 12,
+                    "Moins": 1.04
+                }
+            ],
+            "team_1": [
+                {
+                    "Seuil": 0.5,
+                    "Plus": 1.07,
+                    "Moins": 6.9
+                },
+                {
+                    "Seuil": 1,
+                    "Plus": 1.15,
+                    "Moins": 4.8
+                },
+                {
+                    "Seuil": 1.5,
+                    "Plus": 1.55,
+                    "Moins": 2.3
+                },
+                {
+                    "Seuil": 2,
+                    "Plus": 1.95,
+                    "Moins": 1.75
+                },
+                {
+                    "Seuil": 2.5,
+                    "Plus": 2.5,
+                    "Moins": 1.45
+                },
+                {
+                    "Seuil": 3,
+                    "Plus": 4.3,
+                    "Moins": 1.18
+                },
+                {
+                    "Seuil": 3.5,
+                    "Plus": 5.1,
+                    "Moins": 1.13
+                }
+            ],
+            "team_2": [
+                {
+                    "Seuil": 0.5,
+                    "Plus": 1.85,
+                    "Moins": 1.85
+                },
+                {
+                    "Seuil": 1,
+                    "Plus": 3.4,
+                    "Moins": 1.27
+                },
+                {
+                    "Seuil": 1.5,
+                    "Plus": 4.8,
+                    "Moins": 1.15
+                }
+            ]
+        },
+        "opportunity": {}
+    },
+    {
+        "id": "294180890",
+        "league": "Jordanie. Ligue de réserve3",
+        "heure": "13:00",
+        "favori": "Al Wehdat II",
+        "pronostic": "V1",
+        "cote": 1.54,
+        "match_complet": "Al Wehdat II vs Al-Salt II",
+        "url": "https://1xbet.cm/fr/line/football/2888772-jordan-reserve-league/294180890-al-wehdat-ii-al-salt-ii",
+        "status": "UPCOMING",
+        "timestamp": "2025-12-29T08:58:56.868400",
+        "last_update": "08:58:56",
+        "score": "0-0",
+        "half_time_score": {
+            "home": null,
+            "away": null
+        },
+        "game_time": "00:00",
+        "stats": {},
+        "live_odds": {
+            "V1": 1.43,
+            "V2": 6.73,
+            "X": 3.94,
+            "BTS_Oui": 1.81,
+            "BTS_Non": 1.86
+        },
+        "probabilities": {
+            "P1": "63%",
+            "PX": "24%",
+            "P2": "13%"
+        },
+        "totals": {
+            "global": [
+                {
+                    "Seuil": 0.5,
+                    "Plus": 1.005,
+                    "Moins": 10.6
+                },
+                {
+                    "Seuil": 1,
+                    "Plus": 1.005,
+                    "Moins": 9
+                },
+                {
+                    "Seuil": 1.5,
+                    "Plus": 1.182,
+                    "Moins": 3.85
+                },
+                {
+                    "Seuil": 2,
+                    "Plus": 1.29,
+                    "Moins": 3.04
+                },
+                {
+                    "Seuil": 2.5,
+                    "Plus": 1.69,
+                    "Moins": 2.02
+                },
+                {
+                    "Seuil": 3,
+                    "Plus": 2.1,
+                    "Moins": 1.59
+                },
+                {
+                    "Seuil": 3.5,
+                    "Plus": 2.625,
+                    "Moins": 1.38
+                },
+                {
+                    "Seuil": 4,
+                    "Plus": 4.1,
+                    "Moins": 1.163
+                },
+                {
+                    "Seuil": 4.5,
+                    "Plus": 5,
+                    "Moins": 1.125
+                },
+                {
+                    "Seuil": 5.5,
+                    "Plus": 11,
+                    "Moins": 1.04
+                }
+            ],
+            "team_1": [
+                {
+                    "Seuil": 0.5,
+                    "Plus": 1.069,
+                    "Moins": 6.1
+                },
+                {
+                    "Seuil": 1.5,
+                    "Plus": 1.53,
+                    "Moins": 2.28
+                },
+                {
+                    "Seuil": 2,
+                    "Plus": 1.98,
+                    "Moins": 1.72
+                },
+                {
+                    "Seuil": 2.5,
+                    "Plus": 2.61,
+                    "Moins": 1.41
+                }
+            ],
+            "team_2": [
+                {
+                    "Seuil": 0.5,
+                    "Plus": 1.61,
+                    "Moins": 2.09
+                },
+                {
+                    "Seuil": 1,
+                    "Plus": 2.76,
+                    "Moins": 1.38
+                },
+                {
+                    "Seuil": 1.5,
+                    "Plus": 4.2,
+                    "Moins": 1.171
+                }
+            ]
+        },
+        "opportunity": {}
+    },
+    {
+        "id": "294180887",
+        "league": "Jordanie. Ligue de réserve3",
+        "heure": "13:00",
+        "favori": "Al-Hussein Irbid II",
+        "pronostic": "V1",
+        "cote": 1.115,
+        "match_complet": "Al-Hussein Irbid II vs Al-Baqa II",
+        "url": "https://1xbet.cm/fr/line/football/2888772-jordan-reserve-league/294180887-al-hussein-irbid-ii-al-baqa-ii",
+        "status": "UPCOMING",
+        "timestamp": "2025-12-29T08:59:21.684827",
+        "last_update": "08:59:21",
+        "score": "0-0",
+        "half_time_score": {
+            "home": null,
+            "away": null
+        },
+        "game_time": "00:00",
+        "stats": {},
+        "live_odds": {
+            "V1": 1.179,
+            "V2": 14.2,
+            "X": 5.5,
+            "BTS_Oui": 1.96,
+            "BTS_Non": 1.726
+        },
+        "probabilities": {
+            "P1": "77%",
+            "PX": "17%",
+            "P2": "6%"
+        },
+        "totals": {
+            "global": [
+                {
+                    "Seuil": 0.5,
+                    "Plus": 1.02,
+                    "Moins": 17
+                },
+                {
+                    "Seuil": 1.5,
+                    "Plus": 1.125,
+                    "Moins": 5.5
+                },
+                {
+                    "Seuil": 2,
+                    "Plus": 1.146,
+                    "Moins": 4.3
+                },
+                {
+                    "Seuil": 2.5,
+                    "Plus": 1.42,
+                    "Moins": 2.49
+                },
+                {
+                    "Seuil": 3,
+                    "Plus": 1.64,
+                    "Moins": 2.02
+                },
+                {
+                    "Seuil": 3.5,
+                    "Plus": 2.07,
+                    "Moins": 1.66
+                },
+                {
+                    "Seuil": 4,
+                    "Plus": 2.78,
+                    "Moins": 1.34
+                },
+                {
+                    "Seuil": 4.5,
+                    "Plus": 3.34,
+                    "Moins": 1.24
+                },
+                {
+                    "Seuil": 5,
+                    "Plus": 5.35,
+                    "Moins": 1.089
+                },
+                {
+                    "Seuil": 5.5,
+                    "Plus": 6,
+                    "Moins": 1.1
+                }
+            ],
+            "team_1": [
+                {
+                    "Seuil": 0.5,
+                    "Plus": 1.002,
+                    "Moins": 9.8
+                },
+                {
+                    "Seuil": 2,
+                    "Plus": 1.41,
+                    "Moins": 2.61
+                },
+                {
+                    "Seuil": 2.5,
+                    "Plus": 1.833,
+                    "Moins": 1.85
+                },
+                {
+                    "Seuil": 3,
+                    "Plus": 2.43,
+                    "Moins": 1.47
+                }
+            ],
+            "team_2": [
+                {
+                    "Seuil": 0.5,
+                    "Plus": 1.84,
+                    "Moins": 1.8
+                },
+                {
+                    "Seuil": 1,
+                    "Plus": 3.98,
+                    "Moins": 1.197
+                },
+                {
+                    "Seuil": 1.5,
+                    "Plus": 5.8,
+                    "Moins": 1.086
+                }
+            ]
+        },
+        "opportunity": {}
+    },
+    {
+        "id": "294188583",
+        "league": "Championnat d'Israël. Division 2 U191",
+        "heure": "13:30",
+        "favori": "Ironi Tiberias (19)",
+        "pronostic": "V1",
+        "cote": 1.29,
+        "match_complet": "Ironi Tiberias (19) vs Hapoel Beit She'an (19)",
+        "url": "https://1xbet.cm/fr/line/football/1696986-israel-division-2-u19/294188583-ironi-tiberias-u19-hapoel-beit-shean-u19",
+        "status": "UPCOMING",
+        "timestamp": "2025-12-29T08:59:43.075876",
+        "last_update": "08:59:43",
+        "score": "0-0",
+        "half_time_score": {
+            "home": null,
+            "away": null
+        },
+        "game_time": "00:00",
+        "stats": {},
+        "live_odds": {
+            "V1": 1.3,
+            "V2": 7.8,
+            "X": 4.9,
+            "BTS_Oui": 1.61,
+            "BTS_Non": 2.13
+        },
+        "probabilities": {
+            "P1": "70%",
+            "PX": "18%",
+            "P2": "12%"
+        },
+        "totals": {
+            "global": [
+                {
+                    "Seuil": 2,
+                    "Plus": 1.116,
+                    "Moins": 4.8
+                },
+                {
+                    "Seuil": 2.5,
+                    "Plus": 1.36,
+                    "Moins": 2.7
+                },
+                {
+                    "Seuil": 3,
+                    "Plus": 1.55,
+                    "Moins": 2.17
+                },
+                {
+                    "Seuil": 3.5,
+                    "Plus": 1.96,
+                    "Moins": 1.74
+                },
+                {
+                    "Seuil": 4,
+                    "Plus": 2.56,
+                    "Moins": 1.4
+                },
+                {
+                    "Seuil": 4.5,
+                    "Plus": 3.08,
+                    "Moins": 1.28
+                },
+                {
+                    "Seuil": 5,
+                    "Plus": 4.8,
+                    "Moins": 1.115
+                }
+            ],
+            "team_1": [
+                {
+                    "Seuil": 0.5,
+                    "Plus": 1.011,
+                    "Moins": 9.1
+                },
+                {
+                    "Seuil": 2,
+                    "Plus": 1.48,
+                    "Moins": 2.4
+                },
+                {
+                    "Seuil": 2.5,
+                    "Plus": 1.95,
+                    "Moins": 1.74
+                },
+                {
+                    "Seuil": 3,
+                    "Plus": 2.72,
+                    "Moins": 1.38
+                }
+            ],
+            "team_2": [
+                {
+                    "Seuil": 0.5,
+                    "Plus": 1.5,
+                    "Moins": 2.31
+                },
+                {
+                    "Seuil": 1,
+                    "Plus": 2.33,
+                    "Moins": 1.52
+                },
+                {
+                    "Seuil": 1.5,
+                    "Plus": 3.5,
+                    "Moins": 1.24
+                },
+                {
+                    "Seuil": 2,
+                    "Plus": 8.5,
+                    "Moins": 1.013
+                }
+            ]
+        },
+        "opportunity": {}
+    },
+    {
+        "id": "294233093",
+        "league": "Championnat des Émirats arabes unis U195",
+        "heure": "13:45",
+        "favori": "Al Dhaid U19",
+        "pronostic": "V1",
+        "cote": 1.24,
+        "match_complet": "Al Dhaid U19 vs Al Ittihad Kalba U19",
+        "url": "https://1xbet.cm/fr/line/football/28203-uae-championship-u19/294233093-al-dhaid-u19-al-ittihad-kalba-u19",
+        "status": "UPCOMING",
+        "timestamp": "2025-12-29T09:00:04.072232",
+        "last_update": "09:00:04",
+        "score": "0-0",
+        "half_time_score": {
+            "home": null,
+            "away": null
+        },
+        "game_time": "00:00",
+        "stats": {},
+        "live_odds": {
+            "V1": 1.25,
+            "V2": 7.85,
+            "X": 5.75,
+            "BTS_Oui": 1.46,
+            "BTS_Non": 2.464
+        },
+        "probabilities": {
+            "P1": "73%",
+            "PX": "15%",
+            "P2": "12%"
+        },
+        "totals": {
+            "global": [
+                {
+                    "Seuil": 1,
+                    "Plus": 1.01,
+                    "Moins": 14
+                },
+                {
+                    "Seuil": 1.5,
+                    "Plus": 1.05,
+                    "Moins": 10
+                },
+                {
+                    "Seuil": 2,
+                    "Plus": 1.07,
+                    "Moins": 7
+                },
+                {
+                    "Seuil": 2.5,
+                    "Plus": 1.182,
+                    "Moins": 4.2
+                },
+                {
+                    "Seuil": 3,
+                    "Plus": 1.25,
+                    "Moins": 3.28
+                },
+                {
+                    "Seuil": 3.5,
+                    "Plus": 1.49,
+                    "Moins": 2.3
+                },
+                {
+                    "Seuil": 4,
+                    "Plus": 1.727,
+                    "Moins": 1.9
+                },
+                {
+                    "Seuil": 4.5,
+                    "Plus": 2.13,
+                    "Moins": 1.62
+                },
+                {
+                    "Seuil": 5,
+                    "Plus": 2.7,
+                    "Moins": 1.36
+                },
+                {
+                    "Seuil": 5.5,
+                    "Plus": 3.2,
+                    "Moins": 1.26
+                },
+                {
+                    "Seuil": 6,
+                    "Plus": 4.8,
+                    "Moins": 1.115
+                }
+            ],
+            "team_1": [
+                {
+                    "Seuil": 1.5,
+                    "Plus": 1.18,
+                    "Moins": 4.3
+                },
+                {
+                    "Seuil": 2,
+                    "Plus": 1.25,
+                    "Moins": 3.65
+                },
+                {
+                    "Seuil": 2.5,
+                    "Plus": 1.5,
+                    "Moins": 2.4
+                },
+                {
+                    "Seuil": 3,
+                    "Plus": 1.8,
+                    "Moins": 1.9
+                },
+                {
+                    "Seuil": 3.5,
+                    "Plus": 2.3,
+                    "Moins": 1.55
+                },
+                {
+                    "Seuil": 4,
+                    "Plus": 3.3,
+                    "Moins": 1.3
+                },
+                {
+                    "Seuil": 4.5,
+                    "Plus": 3.9,
+                    "Moins": 1.2
+                }
+            ],
+            "team_2": [
+                {
+                    "Seuil": 0.5,
+                    "Plus": 1.4,
+                    "Moins": 2.75
+                },
+                {
+                    "Seuil": 1,
+                    "Plus": 2.05,
+                    "Moins": 1.68
+                },
+                {
+                    "Seuil": 1.5,
+                    "Plus": 3.05,
+                    "Moins": 1.33
+                },
+                {
+                    "Seuil": 2,
+                    "Plus": 6,
+                    "Moins": 1.09
+                },
+                {
+                    "Seuil": 2.5,
+                    "Plus": 7,
+                    "Moins": 1.07
+                }
+            ]
+        },
+        "opportunity": {}
+    },
+    {
+        "id": "294233100",
+        "league": "Championnat des Émirats arabes unis U195",
+        "heure": "13:45",
+        "favori": "Al Ain II U19",
+        "pronostic": "V2",
+        "cote": 1.33,
+        "match_complet": "Fujairah U19 vs Al Ain II U19",
+        "url": "https://1xbet.cm/fr/line/football/28203-uae-championship-u19/294233100-fujairah-u19-al-ain-ii-u19",
+        "status": "UPCOMING",
+        "timestamp": "2025-12-29T09:00:38.051240",
+        "last_update": "09:00:38",
+        "score": "0-0",
+        "half_time_score": {
+            "home": null,
+            "away": null
+        },
+        "game_time": "00:00",
+        "stats": {},
+        "live_odds": {
+            "V1": 8.6,
+            "V2": 1.22,
+            "X": 6.05,
+            "BTS_Oui": 1.78,
+            "BTS_Non": 1.892
+        },
+        "probabilities": {
+            "P1": "11%",
+            "PX": "15%",
+            "P2": "74%"
+        },
+        "totals": {
+            "global": [
+                {
+                    "Seuil": 2,
+                    "Plus": 1.099,
+                    "Moins": 5.1
+                },
+                {
+                    "Seuil": 2.5,
+                    "Plus": 1.32,
+                    "Moins": 2.875
+                },
+                {
+                    "Seuil": 3,
+                    "Plus": 1.47,
+                    "Moins": 2.35
+                },
+                {
+                    "Seuil": 3.5,
+                    "Plus": 1.85,
+                    "Moins": 1.85
+                },
+                {
+                    "Seuil": 4,
+                    "Plus": 2.3,
+                    "Moins": 1.49
+                },
+                {
+                    "Seuil": 4.5,
+                    "Plus": 2.74,
+                    "Moins": 1.35
+                },
+                {
+                    "Seuil": 5,
+                    "Plus": 4.1,
+                    "Moins": 1.163
+                }
+            ],
+            "team_1": [
+                {
+                    "Seuil": 0.5,
+                    "Plus": 1.66,
+                    "Moins": 2.01
+                },
+                {
+                    "Seuil": 1,
+                    "Plus": 2.84,
+                    "Moins": 1.36
+                },
+                {
+                    "Seuil": 1.5,
+                    "Plus": 4.2,
+                    "Moins": 1.17
+                },
+                {
+                    "Seuil": 2,
+                    "Plus": 9.8,
+                    "Moins": 1.003
+                }
+            ],
+            "team_2": [
+                {
+                    "Seuil": 0.5,
+                    "Plus": 1.011,
+                    "Moins": 9.1
+                },
+                {
+                    "Seuil": 2,
+                    "Plus": 1.36,
+                    "Moins": 2.8
+                },
+                {
+                    "Seuil": 2.5,
+                    "Plus": 1.727,
+                    "Moins": 1.97
+                },
+                {
+                    "Seuil": 3,
+                    "Plus": 2.16,
+                    "Moins": 1.59
+                }
+            ]
+        },
+        "opportunity": {}
+    },
+    {
+        "id": "294233091",
+        "league": "Championnat des Émirats arabes unis U195",
+        "heure": "13:55",
+        "favori": "Al-Wahda Abu Dhabi U19",
+        "pronostic": "V1",
+        "cote": 1.03,
+        "match_complet": "Al-Wahda Abu Dhabi U19 vs Gulf United U19",
+        "url": "https://1xbet.cm/fr/line/football/28203-uae-championship-u19/294233091-al-wahda-abu-dhabi-u19-gulf-united-u19",
+        "status": "UPCOMING",
+        "timestamp": "2025-12-29T09:00:59.164286",
+        "last_update": "09:00:59",
+        "score": "0-0",
+        "half_time_score": {
+            "home": null,
+            "away": null
+        },
+        "game_time": "00:00",
+        "stats": {},
+        "live_odds": {
+            "V1": 1.05,
+            "V2": 36,
+            "X": 12,
+            "BTS_Oui": 2.75,
+            "BTS_Non": 1.377
+        },
+        "probabilities": {
+            "P1": "90%",
+            "PX": "7%",
+            "P2": "3%"
+        },
+        "totals": {
+            "global": [
+                {
+                    "Seuil": 1.5,
+                    "Plus": 1.03,
+                    "Moins": 13
+                },
+                {
+                    "Seuil": 2.5,
+                    "Plus": 1.111,
+                    "Moins": 5.5
+                },
+                {
+                    "Seuil": 3,
+                    "Plus": 1.105,
+                    "Moins": 5
+                },
+                {
+                    "Seuil": 3.5,
+                    "Plus": 1.26,
+                    "Moins": 3.2
+                },
+                {
+                    "Seuil": 4,
+                    "Plus": 1.34,
+                    "Moins": 2.78
+                },
+                {
+                    "Seuil": 4.5,
+                    "Plus": 1.6,
+                    "Moins": 2.17
+                },
+                {
+                    "Seuil": 5,
+                    "Plus": 1.8,
+                    "Moins": 1.82
+                },
+                {
+                    "Seuil": 5.5,
+                    "Plus": 2.1,
+                    "Moins": 1.59
+                },
+                {
+                    "Seuil": 6,
+                    "Plus": 2.66,
+                    "Moins": 1.37
+                },
+                {
+                    "Seuil": 6.5,
+                    "Plus": 3.1,
+                    "Moins": 1.32
+                },
+                {
+                    "Seuil": 7.5,
+                    "Plus": 5.3,
+                    "Moins": 1.12
+                }
+            ],
+            "team_1": [
+                {
+                    "Seuil": 2.5,
+                    "Plus": 1.12,
+                    "Moins": 5.3
+                },
+                {
+                    "Seuil": 3.5,
+                    "Plus": 1.35,
+                    "Moins": 2.95
+                },
+                {
+                    "Seuil": 4.5,
+                    "Plus": 1.78,
+                    "Moins": 1.92
+                },
+                {
+                    "Seuil": 5.5,
+                    "Plus": 2.6,
+                    "Moins": 1.45
+                },
+                {
+                    "Seuil": 6.5,
+                    "Plus": 4.05,
+                    "Moins": 1.2
+                },
+                {
+                    "Seuil": 7.5,
+                    "Plus": 6.5,
+                    "Moins": 1.08
+                }
+            ],
+            "team_2": [
+                {
+                    "Seuil": 0.5,
+                    "Plus": 2.95,
+                    "Moins": 1.35
+                }
+            ]
+        },
+        "opportunity": {}
+    },
+    {
+        "id": "294192236",
+        "league": "Rwanda. Ligue Nationale2",
+        "heure": "14:00",
+        "favori": "Al Merreikh Omdurman",
+        "pronostic": "V2",
+        "cote": 1.33,
+        "match_complet": "Muhanga vs Al Merreikh Omdurman",
+        "url": "https://1xbet.cm/fr/line/football/901389-rwanda-national-league/294192236-muhanga-al-merrikh",
+        "status": "UPCOMING",
+        "timestamp": "2025-12-29T09:01:19.578967",
+        "last_update": "09:01:19",
+        "score": "0-0",
+        "half_time_score": {
+            "home": null,
+            "away": null
+        },
+        "game_time": "00:00",
+        "stats": {},
+        "live_odds": {
+            "V1": 9.3,
+            "V2": 1.45,
+            "X": 3.28,
+            "BTS_Oui": 2.92,
+            "BTS_Non": 1.336
+        },
+        "probabilities": {
+            "P1": "10%",
+            "PX": "27%",
+            "P2": "63%"
+        },
+        "totals": {
+            "global": [
+                {
+                    "Seuil": 0.5,
+                    "Plus": 1.08,
+                    "Moins": 5.55
+                },
+                {
+                    "Seuil": 1,
+                    "Plus": 1.146,
+                    "Moins": 4.3
+                },
+                {
+                    "Seuil": 1.5,
+                    "Plus": 1.52,
+                    "Moins": 2.24
+                },
+                {
+                    "Seuil": 2,
+                    "Plus": 1.98,
+                    "Moins": 1.67
+                },
+                {
+                    "Seuil": 2.5,
+                    "Plus": 2.69,
+                    "Moins": 1.4
+                },
+                {
+                    "Seuil": 3,
+                    "Plus": 4.5,
+                    "Moins": 1.134
+                },
+                {
+                    "Seuil": 3.5,
+                    "Plus": 5.3,
+                    "Moins": 1.09
+                },
+                {
+                    "Seuil": 4.5,
+                    "Plus": 13,
+                    "Moins": 1.03
+                },
+                {
+                    "Seuil": 5.5,
+                    "Plus": 21,
+                    "Moins": 1.01
+                }
+            ],
+            "team_1": [
+                {
+                    "Seuil": 0.5,
+                    "Plus": 2.44,
+                    "Moins": 1.45
+                },
+                {
+                    "Seuil": 1,
+                    "Plus": 7.7,
+                    "Moins": 1.046
+                },
+                {
+                    "Seuil": 1.5,
+                    "Plus": 10.2,
+                    "Moins": 1.011
+                }
+            ],
+            "team_2": [
+                {
+                    "Seuil": 0.5,
+                    "Plus": 1.176,
+                    "Moins": 4.05
+                },
+                {
+                    "Seuil": 1,
+                    "Plus": 1.36,
+                    "Moins": 2.8
+                },
+                {
+                    "Seuil": 1.5,
+                    "Plus": 1.98,
+                    "Moins": 1.72
+                },
+                {
+                    "Seuil": 2,
+                    "Plus": 3.1,
+                    "Moins": 1.3
+                }
+            ]
+        },
+        "opportunity": {}
+    },
+    {
+        "id": "294180888",
+        "league": "Jordanie. Ligue de réserve3",
+        "heure": "16:00",
+        "favori": "Al-Jazeera Amman II",
+        "pronostic": "V1",
+        "cote": 1.085,
+        "match_complet": "Al-Jazeera Amman II vs Al Ramtha II",
+        "url": "https://1xbet.cm/fr/line/football/2888772-jordan-reserve-league/294180888-al-jazeera-amman-ii-al-ramtha-ii",
+        "status": "UPCOMING",
+        "timestamp": "2025-12-29T09:01:41.192772",
+        "last_update": "09:01:41",
+        "score": "0-0",
+        "half_time_score": {
+            "home": null,
+            "away": null
+        },
+        "game_time": "00:00",
+        "stats": {},
+        "live_odds": {
+            "V1": 1.232,
+            "V2": 9.5,
+            "X": 5.4,
+            "BTS_Oui": 2.06,
+            "BTS_Non": 1.654
+        },
+        "probabilities": {
+            "P1": "74%",
+            "PX": "16%",
+            "P2": "10%"
+        },
+        "totals": {
+            "global": [
+                {
+                    "Seuil": 0.5,
+                    "Plus": 1.03,
+                    "Moins": 13
+                },
+                {
+                    "Seuil": 1.5,
+                    "Plus": 1.163,
+                    "Moins": 4.1
+                },
+                {
+                    "Seuil": 2,
+                    "Plus": 1.26,
+                    "Moins": 3.2
+                },
+                {
+                    "Seuil": 2.5,
+                    "Plus": 1.64,
+                    "Moins": 2.1
+                },
+                {
+                    "Seuil": 3,
+                    "Plus": 2.05,
+                    "Moins": 1.62
+                },
+                {
+                    "Seuil": 3.5,
+                    "Plus": 2.59,
+                    "Moins": 1.39
+                },
+                {
+                    "Seuil": 4,
+                    "Plus": 4.05,
+                    "Moins": 1.164
+                },
+                {
+                    "Seuil": 4.5,
+                    "Plus": 4.75,
+                    "Moins": 1.118
+                },
+                {
+                    "Seuil": 5.5,
+                    "Plus": 9,
+                    "Moins": 1.062
+                }
+            ],
+            "team_1": [
+                {
+                    "Seuil": 0.5,
+                    "Plus": 1.026,
+                    "Moins": 8
+                },
+                {
+                    "Seuil": 1.5,
+                    "Plus": 1.39,
+                    "Moins": 2.68
+                },
+                {
+                    "Seuil": 2,
+                    "Plus": 1.7,
+                    "Moins": 2.01
+                },
+                {
+                    "Seuil": 2.5,
+                    "Plus": 2.27,
+                    "Moins": 1.533
+                }
+            ],
+            "team_2": [
+                {
+                    "Seuil": 0.5,
+                    "Plus": 1.87,
+                    "Moins": 1.77
+                },
+                {
+                    "Seuil": 1,
+                    "Plus": 4,
+                    "Moins": 1.194
+                },
+                {
+                    "Seuil": 1.5,
+                    "Plus": 5.7,
+                    "Moins": 1.09
+                }
+            ]
+        },
+        "opportunity": {}
+    },
+    {
+        "id": "294151393",
+        "league": "Coupe d'Oman2",
+        "heure": "16:50",
+        "favori": "Al-Seeb Sports Club",
+        "pronostic": "V1",
+        "cote": 1.04,
+        "match_complet": "Al-Seeb Sports Club vs Jalan",
+        "url": "https://1xbet.cm/fr/line/football/129591-sultan-qaboos-cup/294151393-al-seeb-sports-club-jalan",
+        "status": "UPCOMING",
+        "timestamp": "2025-12-29T09:02:01.883755",
+        "last_update": "09:02:01",
+        "score": "0-0",
+        "half_time_score": {
+            "home": null,
+            "away": null
+        },
+        "game_time": "00:00",
+        "stats": {},
+        "live_odds": {
+            "V1": 1.03,
+            "V2": 47,
+            "X": 9.5,
+            "BTS_Oui": 2.88,
+            "BTS_Non": 1.393
+        },
+        "probabilities": {
+            "P1": "88%",
+            "PX": "10%",
+            "P2": "2%"
+        },
+        "totals": {
+            "global": [
+                {
+                    "Seuil": 1.5,
+                    "Plus": 1.05,
+                    "Moins": 8
+                },
+                {
+                    "Seuil": 2.5,
+                    "Plus": 1.21,
+                    "Moins": 3.9
+                },
+                {
+                    "Seuil": 3,
+                    "Plus": 1.3,
+                    "Moins": 3.2
+                },
+                {
+                    "Seuil": 3.5,
+                    "Plus": 1.57,
+                    "Moins": 2.25
+                },
+                {
+                    "Seuil": 4,
+                    "Plus": 1.86,
+                    "Moins": 1.84
+                },
+                {
+                    "Seuil": 4.5,
+                    "Plus": 2.27,
+                    "Moins": 1.56
+                },
+                {
+                    "Seuil": 5,
+                    "Plus": 3.1,
+                    "Moins": 1.33
+                },
+                {
+                    "Seuil": 5.5,
+                    "Plus": 3.6,
+                    "Moins": 1.24
+                },
+                {
+                    "Seuil": 6.5,
+                    "Plus": 6,
+                    "Moins": 1.1
+                }
+            ],
+            "team_1": [
+                {
+                    "Seuil": 2.5,
+                    "Plus": 1.3,
+                    "Moins": 3.2
+                },
+                {
+                    "Seuil": 3.5,
+                    "Plus": 1.82,
+                    "Moins": 1.88
+                },
+                {
+                    "Seuil": 4.5,
+                    "Plus": 2.8,
+                    "Moins": 1.38
+                }
+            ],
+            "team_2": [
+                {
+                    "Seuil": 0.5,
+                    "Plus": 2.47,
+                    "Moins": 1.48
+                },
+                {
+                    "Seuil": 1,
+                    "Plus": 6.2,
+                    "Moins": 1.09
+                },
+                {
+                    "Seuil": 1.5,
+                    "Plus": 8.3,
+                    "Moins": 1.04
+                }
+            ]
+        },
+        "opportunity": {}
+    },
+    {
+        "id": "294138730",
+        "league": "Championnat de Bahreïn. Première Ligue1",
+        "heure": "17:00",
+        "favori": "Al Khalidiya",
+        "pronostic": "V1",
+        "cote": 1.295,
+        "match_complet": "Al Khalidiya vs Budaiya",
+        "url": "https://1xbet.cm/fr/line/football/58655-bahrain-premier-league/294138730-al-khalidiya-budaiya",
+        "status": "UPCOMING",
+        "timestamp": "2025-12-29T09:02:24.751096",
+        "last_update": "09:02:24",
+        "score": "0-0",
+        "half_time_score": {
+            "home": null,
+            "away": null
+        },
+        "game_time": "00:00",
+        "stats": {},
+        "live_odds": {
+            "V1": 1.31,
+            "V2": 8.15,
+            "X": 4.65,
+            "BTS_Oui": 1.9,
+            "BTS_Non": 1.777
+        },
+        "probabilities": {
+            "P1": "69%",
+            "PX": "20%",
+            "P2": "11%"
+        },
+        "totals": {
+            "global": [
+                {
+                    "Seuil": 0.5,
+                    "Plus": 1.028,
+                    "Moins": 11.9
+                },
+                {
+                    "Seuil": 1,
+                    "Plus": 1.03,
+                    "Moins": 8.9
+                },
+                {
+                    "Seuil": 1.5,
+                    "Plus": 1.162,
+                    "Moins": 4.1
+                },
+                {
+                    "Seuil": 2,
+                    "Plus": 1.25,
+                    "Moins": 3.28
+                },
+                {
+                    "Seuil": 2.5,
+                    "Plus": 1.61,
+                    "Moins": 2.15
+                },
+                {
+                    "Seuil": 3,
+                    "Plus": 1.95,
+                    "Moins": 1.69
+                },
+                {
+                    "Seuil": 3.5,
+                    "Plus": 2.43,
+                    "Moins": 1.44
+                },
+                {
+                    "Seuil": 4,
+                    "Plus": 3.58,
+                    "Moins": 1.21
+                },
+                {
+                    "Seuil": 4.5,
+                    "Plus": 4.25,
+                    "Moins": 1.149
+                },
+                {
+                    "Seuil": 5,
+                    "Plus": 7.1,
+                    "Moins": 1.037
+                },
+                {
+                    "Seuil": 5.5,
+                    "Plus": 7.7,
+                    "Moins": 1.026
+                },
+                {
+                    "Seuil": 6.5,
+                    "Plus": 11,
+                    "Moins": 1.02
+                },
+                {
+                    "Seuil": 7.5,
+                    "Plus": 17,
+                    "Moins": 1.005
+                }
+            ],
+            "team_1": [
+                {
+                    "Seuil": 0.5,
+                    "Plus": 1.05,
+                    "Moins": 8
+                },
+                {
+                    "Seuil": 1,
+                    "Plus": 1.1,
+                    "Moins": 5.9
+                },
+                {
+                    "Seuil": 1.5,
+                    "Plus": 1.42,
+                    "Moins": 2.65
+                },
+                {
+                    "Seuil": 2,
+                    "Plus": 1.75,
+                    "Moins": 1.95
+                },
+                {
+                    "Seuil": 2.5,
+                    "Plus": 2.35,
+                    "Moins": 1.52
+                },
+                {
+                    "Seuil": 3,
+                    "Plus": 3.4,
+                    "Moins": 1.27
+                },
+                {
+                    "Seuil": 3.5,
+                    "Plus": 4,
+                    "Moins": 1.2
+                }
+            ],
+            "team_2": [
+                {
+                    "Seuil": 0.5,
+                    "Plus": 1.8,
+                    "Moins": 1.9
+                },
+                {
+                    "Seuil": 1,
+                    "Plus": 3.5,
+                    "Moins": 1.25
+                },
+                {
+                    "Seuil": 1.5,
+                    "Plus": 5.2,
+                    "Moins": 1.13
+                }
+            ]
+        },
+        "opportunity": {}
+    },
+    {
+        "id": "294160486",
+        "league": "Mauritanie. Championnat D11",
+        "heure": "17:00",
+        "favori": "Pompier",
+        "pronostic": "V1",
+        "cote": 1.48,
+        "match_complet": "Pompier vs SNIM",
+        "url": "https://1xbet.cm/fr/line/football/656519-mauritania-championnat-d1/294160486-pompier-snim",
+        "status": "UPCOMING",
+        "timestamp": "2025-12-29T09:02:46.816705",
+        "last_update": "09:02:46",
+        "score": "0-0",
+        "half_time_score": {
+            "home": null,
+            "away": null
+        },
+        "game_time": "00:00",
+        "stats": {},
+        "live_odds": {
+            "V1": 1.48,
+            "V2": 8.1,
+            "X": 3.3,
+            "BTS_Oui": 2.63,
+            "BTS_Non": 1.408
+        },
+        "probabilities": {
+            "P1": "61%",
+            "PX": "28%",
+            "P2": "11%"
+        },
+        "totals": {
+            "global": [
+                {
+                    "Seuil": 0.5,
+                    "Plus": 1.063,
+                    "Moins": 6.05
+                },
+                {
+                    "Seuil": 1,
+                    "Plus": 1.118,
+                    "Moins": 4.75
+                },
+                {
+                    "Seuil": 1.5,
+                    "Plus": 1.49,
+                    "Moins": 2.41
+                },
+                {
+                    "Seuil": 2,
+                    "Plus": 1.85,
+                    "Moins": 1.77
+                },
+                {
+                    "Seuil": 2.5,
+                    "Plus": 2.49,
+                    "Moins": 1.42
+                },
+                {
+                    "Seuil": 3,
+                    "Plus": 4.1,
+                    "Moins": 1.162
+                },
+                {
+                    "Seuil": 3.5,
+                    "Plus": 4.9,
+                    "Moins": 1.109
+                },
+                {
+                    "Seuil": 4.5,
+                    "Plus": 12,
+                    "Moins": 1.03
+                }
+            ],
+            "team_1": [
+                {
+                    "Seuil": 0.5,
+                    "Plus": 1.166,
+                    "Moins": 4.15
+                },
+                {
+                    "Seuil": 1,
+                    "Plus": 1.34,
+                    "Moins": 2.89
+                },
+                {
+                    "Seuil": 1.5,
+                    "Plus": 1.95,
+                    "Moins": 1.74
+                },
+                {
+                    "Seuil": 2,
+                    "Plus": 3.04,
+                    "Moins": 1.31
+                }
+            ],
+            "team_2": [
+                {
+                    "Seuil": 0.5,
+                    "Plus": 2.2,
+                    "Moins": 1.55
+                },
+                {
+                    "Seuil": 1,
+                    "Plus": 6,
+                    "Moins": 1.086
+                },
+                {
+                    "Seuil": 1.5,
+                    "Plus": 8.4,
+                    "Moins": 1.034
+                }
+            ]
+        },
+        "opportunity": {}
+    },
+    {
+        "id": "294188745",
+        "league": "Rwanda. Ligue Nationale2",
+        "heure": "17:00",
+        "favori": "Al-Hilal Omdurman",
+        "pronostic": "V1",
+        "cote": 1.5,
+        "match_complet": "Al-Hilal Omdurman vs Association Sportive de Kigali",
+        "url": "https://1xbet.cm/fr/line/football/901389-rwanda-national-league/294188745-al-hilal-omdurman-association-sportive-de-kigali",
+        "status": "UPCOMING",
+        "timestamp": "2025-12-29T09:03:12.306785",
+        "last_update": "09:03:12",
+        "score": "0-0",
+        "half_time_score": {
+            "home": null,
+            "away": null
+        },
+        "game_time": "00:00",
+        "stats": {},
+        "live_odds": {
+            "V1": 1.58,
+            "V2": 5.6,
+            "X": 3.44,
+            "BTS_Oui": 1.96,
+            "BTS_Non": 1.726
+        },
+        "probabilities": {
+            "P1": "57%",
+            "PX": "27%",
+            "P2": "16%"
+        },
+        "totals": {
+            "global": [
+                {
+                    "Seuil": 0.5,
+                    "Plus": 1.035,
+                    "Moins": 8.25
+                },
+                {
+                    "Seuil": 1,
+                    "Plus": 1.037,
+                    "Moins": 7.1
+                },
+                {
+                    "Seuil": 1.5,
+                    "Plus": 1.285,
+                    "Moins": 3.05
+                },
+                {
+                    "Seuil": 2,
+                    "Plus": 1.48,
+                    "Moins": 2.33
+                },
+                {
+                    "Seuil": 2.5,
+                    "Plus": 1.98,
+                    "Moins": 1.72
+                },
+                {
+                    "Seuil": 3,
+                    "Plus": 2.74,
+                    "Moins": 1.35
+                },
+                {
+                    "Seuil": 3.5,
+                    "Plus": 3.42,
+                    "Moins": 1.23
+                },
+                {
+                    "Seuil": 4,
+                    "Plus": 6.1,
+                    "Moins": 1.062
+                },
+                {
+                    "Seuil": 4.5,
+                    "Plus": 6.1,
+                    "Moins": 1.09
+                },
+                {
+                    "Seuil": 5.5,
+                    "Plus": 15,
+                    "Moins": 1.025
+                }
+            ],
+            "team_1": [
+                {
+                    "Seuil": 0.5,
+                    "Plus": 1.124,
+                    "Moins": 4.8
+                },
+                {
+                    "Seuil": 1,
+                    "Plus": 1.26,
+                    "Moins": 3.34
+                },
+                {
+                    "Seuil": 1.5,
+                    "Plus": 1.81,
+                    "Moins": 1.87
+                },
+                {
+                    "Seuil": 2,
+                    "Plus": 2.64,
+                    "Moins": 1.4
+                }
+            ],
+            "team_2": [
+                {
+                    "Seuil": 0.5,
+                    "Plus": 1.66,
+                    "Moins": 2.01
+                },
+                {
+                    "Seuil": 1,
+                    "Plus": 3.04,
+                    "Moins": 1.32
+                },
+                {
+                    "Seuil": 1.5,
+                    "Plus": 4.6,
+                    "Moins": 1.142
+                }
+            ]
+        },
+        "opportunity": {}
+    },
+    {
+        "id": "294180472",
+        "league": "Championnat d'Israël. Femmes4",
+        "heure": "17:30",
+        "favori": "Maccabi Panthers Ashdod (Femmes)",
+        "pronostic": "V1",
+        "cote": 1.55,
+        "match_complet": "Maccabi Panthers Ashdod (Femmes) vs Nir Ramat Hasharon (Women)",
+        "url": "https://1xbet.cm/fr/line/football/134535-israel-championship-women/294180472-maccabi-panthers-ashdod-women-nir-ramat-hasharon-women",
+        "status": "UPCOMING",
+        "timestamp": "2025-12-29T09:03:35.695357",
+        "last_update": "09:03:35",
+        "score": "0-0",
+        "half_time_score": {
+            "home": null,
+            "away": null
+        },
+        "game_time": "00:00",
+        "stats": {},
+        "live_odds": {
+            "V1": 1.55,
+            "V2": 4.715,
+            "X": 4.1,
+            "BTS_Oui": "N/A",
+            "BTS_Non": "N/A"
+        },
+        "probabilities": {
+            "P1": "59%",
+            "PX": "22%",
+            "P2": "19%"
+        },
+        "totals": {
+            "global": [
+                {
+                    "Seuil": 2,
+                    "Plus": 1.152,
+                    "Moins": 4.2
+                },
+                {
+                    "Seuil": 2.5,
+                    "Plus": 1.44,
+                    "Moins": 2.43
+                },
+                {
+                    "Seuil": 3,
+                    "Plus": 1.7,
+                    "Moins": 1.94
+                },
+                {
+                    "Seuil": 3.5,
+                    "Plus": 2.19,
+                    "Moins": 1.59
+                },
+                {
+                    "Seuil": 4,
+                    "Plus": 3.04,
+                    "Moins": 1.29
+                },
+                {
+                    "Seuil": 4.5,
+                    "Plus": 3.68,
+                    "Moins": 1.2
+                },
+                {
+                    "Seuil": 5,
+                    "Plus": 6.15,
+                    "Moins": 1.061
+                }
+            ],
+            "team_1": [
+                {
+                    "Seuil": 1.5,
+                    "Plus": 1.47,
+                    "Moins": 2.43
+                },
+                {
+                    "Seuil": 2,
+                    "Plus": 1.86,
+                    "Moins": 1.82
+                },
+                {
+                    "Seuil": 2.5,
+                    "Plus": 2.51,
+                    "Moins": 1.44
+                }
+            ],
+            "team_2": [
+                {
+                    "Seuil": 1,
+                    "Plus": 1.833,
+                    "Moins": 1.85
+                },
+                {
+                    "Seuil": 1.5,
+                    "Plus": 2.8,
+                    "Moins": 1.36
+                },
+                {
+                    "Seuil": 2,
+                    "Plus": 6.05,
+                    "Moins": 1.065
+                }
+            ]
+        },
+        "opportunity": {}
+    },
+    {
+        "id": "294180463",
+        "league": "Championnat d'Israël. Femmes4",
+        "heure": "17:35",
+        "favori": "Kiryat Gat (Femmes)",
+        "pronostic": "V1",
+        "cote": 1.085,
+        "match_complet": "Kiryat Gat (Femmes) vs Hapoel Ra'anana (Femmes)",
+        "url": "https://1xbet.cm/fr/line/football/134535-israel-championship-women/294180463-kiryat-gat-women-hapoel-raanana-women",
+        "status": "UPCOMING",
+        "timestamp": "2025-12-29T09:03:59.451009",
+        "last_update": "09:03:59",
+        "score": "0-0",
+        "half_time_score": {
+            "home": null,
+            "away": null
+        },
+        "game_time": "00:00",
+        "stats": {},
+        "live_odds": {
+            "V1": 1.084,
+            "V2": 16,
+            "X": 7.8,
+            "BTS_Oui": "N/A",
+            "BTS_Non": "N/A"
+        },
+        "probabilities": {
+            "P1": "83%",
+            "PX": "11%",
+            "P2": "6%"
+        },
+        "totals": {
+            "global": [
+                {
+                    "Seuil": 1.5,
+                    "Plus": 1.06,
+                    "Moins": 7.3
+                },
+                {
+                    "Seuil": 2,
+                    "Plus": 1.053,
+                    "Moins": 6.4
+                },
+                {
+                    "Seuil": 2.5,
+                    "Plus": 1.22,
+                    "Moins": 3.5
+                },
+                {
+                    "Seuil": 3,
+                    "Plus": 1.3,
+                    "Moins": 2.97
+                },
+                {
+                    "Seuil": 3.5,
+                    "Plus": 1.571,
+                    "Moins": 2.23
+                },
+                {
+                    "Seuil": 4,
+                    "Plus": 1.81,
+                    "Moins": 1.81
+                },
+                {
+                    "Seuil": 4.5,
+                    "Plus": 2.17,
+                    "Moins": 1.55
+                },
+                {
+                    "Seuil": 5,
+                    "Plus": 2.83,
+                    "Moins": 1.33
+                },
+                {
+                    "Seuil": 5.5,
+                    "Plus": 3.5,
+                    "Moins": 1.24
+                },
+                {
+                    "Seuil": 6.5,
+                    "Plus": 5.85,
+                    "Moins": 1.1
+                }
+            ],
+            "team_1": [
+                {
+                    "Seuil": 3,
+                    "Plus": 1.6,
+                    "Moins": 2.14
+                },
+                {
+                    "Seuil": 3.5,
+                    "Plus": 1.95,
+                    "Moins": 1.74
+                },
+                {
+                    "Seuil": 4,
+                    "Plus": 2.5,
+                    "Moins": 1.444
+                }
+            ],
+            "team_2": [
+                {
+                    "Seuil": 1,
+                    "Plus": 4.05,
+                    "Moins": 1.192
+                },
+                {
+                    "Seuil": 1.5,
+                    "Plus": 5.65,
+                    "Moins": 1.093
+                }
+            ]
+        },
+        "opportunity": {}
+    },
+    {
+        "id": "294180469",
+        "league": "Championnat d'Israël. Femmes4",
+        "heure": "17:45",
+        "favori": "Hapoel Jerusalem (Femmes)",
+        "pronostic": "V1",
+        "cote": 1.134,
+        "match_complet": "Hapoel Jerusalem (Femmes) vs Maccabi Holon (Femmes)",
+        "url": "https://1xbet.cm/fr/line/football/134535-israel-championship-women/294180469-hapoel-jerusalem-women-maccabi-holon-women",
+        "status": "UPCOMING",
+        "timestamp": "2025-12-29T09:04:20.355545",
+        "last_update": "09:04:20",
+        "score": "0-0",
+        "half_time_score": {
+            "home": null,
+            "away": null
+        },
+        "game_time": "00:00",
+        "stats": {},
+        "live_odds": {},
+        "probabilities": {},
+        "totals": {},
+        "opportunity": {}
+    },
+    {
+        "id": "293897253",
+        "league": "Championnat d'Arabie saoudite de football4",
+        "heure": "18:30",
+        "favori": "Al-Taawon",
+        "pronostic": "V1",
+        "cote": 1.4,
+        "match_complet": "Al-Taawon vs Al-Najma Unaizah",
+        "url": "https://1xbet.cm/fr/line/football/16819-saudi-arabia-saudi-professional-league/293897253-al-taawon-al-najma-unaizah",
+        "status": "UPCOMING",
+        "timestamp": "2025-12-29T09:04:45.000396",
+        "last_update": "09:04:45",
+        "score": "0-0",
+        "half_time_score": {
+            "home": null,
+            "away": null
+        },
+        "game_time": "00:00",
+        "stats": {},
+        "live_odds": {
+            "V1": 1.38,
+            "V2": 7.02,
+            "X": 4.3,
+            "BTS_Oui": 1.85,
+            "BTS_Non": 1.836
+        },
+        "probabilities": {
+            "P1": "66%",
+            "PX": "21%",
+            "P2": "13%"
+        },
+        "totals": {
+            "global": [
+                {
+                    "Seuil": 0.5,
+                    "Plus": 1.028,
+                    "Moins": 11.9
+                },
+                {
+                    "Seuil": 1,
+                    "Plus": 1.03,
+                    "Moins": 8.9
+                },
+                {
+                    "Seuil": 1.5,
+                    "Plus": 1.172,
+                    "Moins": 3.96
+                },
+                {
+                    "Seuil": 2,
+                    "Plus": 1.28,
+                    "Moins": 3.08
+                },
+                {
+                    "Seuil": 2.5,
+                    "Plus": 1.68,
+                    "Moins": 2.06
+                },
+                {
+                    "Seuil": 3,
+                    "Plus": 2.1,
+                    "Moins": 1.59
+                },
+                {
+                    "Seuil": 3.5,
+                    "Plus": 2.66,
+                    "Moins": 1.37
+                },
+                {
+                    "Seuil": 4,
+                    "Plus": 4.25,
+                    "Moins": 1.151
+                },
+                {
+                    "Seuil": 4.5,
+                    "Plus": 4.95,
+                    "Moins": 1.106
+                },
+                {
+                    "Seuil": 5,
+                    "Plus": 9.1,
+                    "Moins": 1.004
+                },
+                {
+                    "Seuil": 5.5,
+                    "Plus": 9.5,
+                    "Moins": 1.02
+                },
+                {
+                    "Seuil": 6.5,
+                    "Plus": 12,
+                    "Moins": 1.015
+                },
+                {
+                    "Seuil": 7.5,
+                    "Plus": 17,
+                    "Moins": 1.005
+                }
+            ],
+            "team_1": [
+                {
+                    "Seuil": 0.5,
+                    "Plus": 1.07,
+                    "Moins": 6.6
+                },
+                {
+                    "Seuil": 1.5,
+                    "Plus": 1.51,
+                    "Moins": 2.4
+                },
+                {
+                    "Seuil": 2.5,
+                    "Plus": 2.6,
+                    "Moins": 1.44
+                },
+                {
+                    "Seuil": 3.5,
+                    "Plus": 5.2,
+                    "Moins": 1.12
+                },
+                {
+                    "Seuil": 4.5,
+                    "Plus": 11,
+                    "Moins": 1.01
+                }
+            ],
+            "team_2": [
+                {
+                    "Seuil": 0.5,
+                    "Plus": 1.65,
+                    "Moins": 2.1
+                },
+                {
+                    "Seuil": 1,
+                    "Plus": 2.65,
+                    "Moins": 1.42
+                },
+                {
+                    "Seuil": 1.5,
+                    "Plus": 3.9,
+                    "Moins": 1.21
+                },
+                {
+                    "Seuil": 2,
+                    "Plus": 10.5,
+                    "Moins": 1.02
+                }
+            ]
+        },
+        "opportunity": {}
+    },
+    {
+        "id": "293610673",
+        "league": "Algérie. Ligue 14",
+        "heure": "19:30",
+        "favori": "MC Alger",
+        "pronostic": "V1",
+        "cote": 1.54,
+        "match_complet": "MC Alger vs ES Sétif",
+        "url": "https://1xbet.cm/fr/line/football/28645-algeria-ligue-1/293610673-mc-alger-es-setif",
+        "status": "UPCOMING",
+        "timestamp": "2025-12-29T09:05:07.526861",
+        "last_update": "09:05:07",
+        "score": "0-0",
+        "half_time_score": {
+            "home": null,
+            "away": null
+        },
+        "game_time": "00:00",
+        "stats": {},
+        "live_odds": {
+            "V1": 1.553,
+            "V2": 7.23,
+            "X": 3.15,
+            "BTS_Oui": 2.98,
+            "BTS_Non": 1.334
+        },
+        "probabilities": {
+            "P1": "59%",
+            "PX": "28%",
+            "P2": "13%"
+        },
+        "totals": {
+            "global": [
+                {
+                    "Seuil": 0.5,
+                    "Plus": 1.099,
+                    "Moins": 5.1
+                },
+                {
+                    "Seuil": 1,
+                    "Plus": 1.184,
+                    "Moins": 3.84
+                },
+                {
+                    "Seuil": 1.5,
+                    "Plus": 1.666,
+                    "Moins": 2.08
+                },
+                {
+                    "Seuil": 2,
+                    "Plus": 2.24,
+                    "Moins": 1.52
+                },
+                {
+                    "Seuil": 2.5,
+                    "Plus": 2.97,
+                    "Moins": 1.3
+                },
+                {
+                    "Seuil": 3,
+                    "Plus": 5.4,
+                    "Moins": 1.087
+                },
+                {
+                    "Seuil": 3.5,
+                    "Plus": 6.25,
+                    "Moins": 1.057
+                },
+                {
+                    "Seuil": 4,
+                    "Plus": 9.4,
+                    "Moins": 1.03
+                },
+                {
+                    "Seuil": 4.5,
+                    "Plus": 12,
+                    "Moins": 1.025
+                },
+                {
+                    "Seuil": 5.5,
+                    "Plus": 17,
+                    "Moins": 1.005
+                }
+            ],
+            "team_1": [
+                {
+                    "Seuil": 0.5,
+                    "Plus": 1.26,
+                    "Moins": 3.5
+                },
+                {
+                    "Seuil": 1,
+                    "Plus": 1.51,
+                    "Moins": 2.38
+                },
+                {
+                    "Seuil": 1.5,
+                    "Plus": 2.25,
+                    "Moins": 1.57
+                },
+                {
+                    "Seuil": 2.5,
+                    "Plus": 5.2,
+                    "Moins": 1.13
+                }
+            ],
+            "team_2": [
+                {
+                    "Seuil": 0.5,
+                    "Plus": 2.32,
+                    "Moins": 1.54
+                },
+                {
+                    "Seuil": 1,
+                    "Plus": 5.5,
+                    "Moins": 1.11
+                },
+                {
+                    "Seuil": 1.5,
+                    "Plus": 7.5,
+                    "Moins": 1.06
+                }
+            ]
+        },
+        "opportunity": {}
+    },
+    {
+        "id": "293341872",
+        "league": "Coupe d'Afrique des nations5",
+        "heure": "20:00",
+        "favori": "Mali",
+        "pronostic": "V2",
+        "cote": 1.555,
+        "match_complet": "Archipel des Comores vs Mali",
+        "url": "https://1xbet.cm/fr/line/football/21317-africa-cup-of-nations/293341872-comoro-islands-mali",
+        "status": "UPCOMING",
+        "timestamp": "2025-12-29T09:05:35.305706",
+        "last_update": "09:05:35",
+        "score": "0-0",
+        "half_time_score": {
+            "home": null,
+            "away": null
+        },
+        "game_time": "00:00",
+        "stats": {},
+        "live_odds": {
+            "V1": 7.35,
+            "V2": 1.577,
+            "X": 3.995,
+            "BTS_Oui": 2.22,
+            "BTS_Non": 1.587
+        },
+        "probabilities": {
+            "P1": "13%",
+            "PX": "25%",
+            "P2": "62%"
+        },
+        "totals": {
+            "global": [
+                {
+                    "Seuil": 0.5,
+                    "Plus": 1.018,
+                    "Moins": 8.1
+                },
+                {
+                    "Seuil": 1,
+                    "Plus": 1.047,
+                    "Moins": 6.65
+                },
+                {
+                    "Seuil": 1.5,
+                    "Plus": 1.33,
+                    "Moins": 2.85
+                },
+                {
+                    "Seuil": 2,
+                    "Plus": 1.58,
+                    "Moins": 2.18
+                },
+                {
+                    "Seuil": 2.5,
+                    "Plus": 2.247,
+                    "Moins": 1.738
+                },
+                {
+                    "Seuil": 3,
+                    "Plus": 3.125,
+                    "Moins": 1.3
+                },
+                {
+                    "Seuil": 3.5,
+                    "Plus": 3.82,
+                    "Moins": 1.189
+                },
+                {
+                    "Seuil": 4,
+                    "Plus": 7,
+                    "Moins": 1.039
+                },
+                {
+                    "Seuil": 4.5,
+                    "Plus": 7.9,
+                    "Moins": 1.022
+                },
+                {
+                    "Seuil": 5,
+                    "Plus": 13,
+                    "Moins": 1.01
+                },
+                {
+                    "Seuil": 5.5,
+                    "Plus": 17,
+                    "Moins": 1.02
+                },
+                {
+                    "Seuil": 6.5,
+                    "Plus": 34,
+                    "Moins": 1.005
+                }
+            ],
+            "team_1": [
+                {
+                    "Seuil": 0.5,
+                    "Plus": 1.9,
+                    "Moins": 1.84
+                },
+                {
+                    "Seuil": 1,
+                    "Plus": 3.5,
+                    "Moins": 1.25
+                },
+                {
+                    "Seuil": 1.5,
+                    "Plus": 5.1,
+                    "Moins": 1.14
+                }
+            ],
+            "team_2": [
+                {
+                    "Seuil": 0.5,
+                    "Plus": 1.16,
+                    "Moins": 4.9
+                },
+                {
+                    "Seuil": 1,
+                    "Plus": 1.27,
+                    "Moins": 3.4
+                },
+                {
+                    "Seuil": 1.5,
+                    "Plus": 1.81,
+                    "Moins": 1.94
+                },
+                {
+                    "Seuil": 2,
+                    "Plus": 2.65,
+                    "Moins": 1.44
+                },
+                {
+                    "Seuil": 2.5,
+                    "Plus": 3.6,
+                    "Moins": 1.26
+                },
+                {
+                    "Seuil": 3.5,
+                    "Plus": 8.2,
+                    "Moins": 1.05
+                }
+            ]
+        },
+        "opportunity": {}
+    },
+    {
+        "id": "293341874",
+        "league": "Coupe d'Afrique des nations5",
+        "heure": "20:00",
+        "favori": "Maroc",
+        "pronostic": "V2",
+        "cote": 1.231,
+        "match_complet": "Zambie vs Maroc",
+        "url": "https://1xbet.cm/fr/line/football/21317-africa-cup-of-nations/293341874-zambia-morocco",
+        "status": "UPCOMING",
+        "timestamp": "2025-12-29T09:06:10.016256",
+        "last_update": "09:06:10",
+        "score": "0-0",
+        "half_time_score": {
+            "home": null,
+            "away": null
+        },
+        "game_time": "00:00",
+        "stats": {},
+        "live_odds": {},
+        "probabilities": {},
+        "totals": {},
+        "opportunity": {}
+    },
+    {
+        "id": "294175825",
+        "league": "Championnat d'Irlande du Nord. Reserve League3",
+        "heure": "20:45",
+        "favori": "Larne II",
+        "pronostic": "V1",
+        "cote": 1.28,
+        "match_complet": "Larne II vs Glenavon II",
+        "url": "https://1xbet.cm/fr/line/football/22355-northern-ireland-reserve-league/294175825-larne-ii-glenavon-ii",
+        "status": "UPCOMING",
+        "timestamp": "2025-12-29T09:06:51.540665",
+        "last_update": "09:06:51",
+        "score": "0-0",
+        "half_time_score": {
+            "home": null,
+            "away": null
+        },
+        "game_time": "00:00",
+        "stats": {},
+        "live_odds": {
+            "V1": 1.28,
+            "V2": 7.7,
+            "X": 5.25,
+            "BTS_Oui": 1.4,
+            "BTS_Non": 2.661
+        },
+        "probabilities": {
+            "P1": "71%",
+            "PX": "17%",
+            "P2": "12%"
+        },
+        "totals": {
+            "global": [
+                {
+                    "Seuil": 1.5,
+                    "Plus": 1.05,
+                    "Moins": 9.5
+                },
+                {
+                    "Seuil": 2,
+                    "Plus": 1.029,
+                    "Moins": 7.5
+                },
+                {
+                    "Seuil": 2.5,
+                    "Plus": 1.197,
+                    "Moins": 3.7
+                },
+                {
+                    "Seuil": 3,
+                    "Plus": 1.285,
+                    "Moins": 3.05
+                },
+                {
+                    "Seuil": 3.5,
+                    "Plus": 1.6,
+                    "Moins": 2.17
+                },
+                {
+                    "Seuil": 4,
+                    "Plus": 1.88,
+                    "Moins": 1.75
+                },
+                {
+                    "Seuil": 4.5,
+                    "Plus": 2.3,
+                    "Moins": 1.49
+                },
+                {
+                    "Seuil": 5,
+                    "Plus": 3.14,
+                    "Moins": 1.27
+                },
+                {
+                    "Seuil": 5.5,
+                    "Plus": 3.6,
+                    "Moins": 1.24
+                }
+            ],
+            "team_1": [
+                {
+                    "Seuil": 2,
+                    "Plus": 1.3,
+                    "Moins": 3.1
+                },
+                {
+                    "Seuil": 2.5,
+                    "Plus": 1.68,
+                    "Moins": 2.04
+                },
+                {
+                    "Seuil": 3,
+                    "Plus": 2.12,
+                    "Moins": 1.61
+                }
+            ],
+            "team_2": [
+                {
+                    "Seuil": 0.5,
+                    "Plus": 1.33,
+                    "Moins": 2.875
+                },
+                {
+                    "Seuil": 1,
+                    "Plus": 1.8,
+                    "Moins": 1.88
+                },
+                {
+                    "Seuil": 1.5,
+                    "Plus": 2.76,
+                    "Moins": 1.37
+                },
+                {
+                    "Seuil": 2,
+                    "Plus": 5.8,
+                    "Moins": 1.072
+                }
+            ]
+        },
+        "opportunity": {}
+    },
+    {
+        "id": "294179027",
+        "league": "Championnat d'Irlande du Nord. Reserve League3",
+        "heure": "20:45",
+        "favori": "Linfield II",
+        "pronostic": "V1",
+        "cote": 1.31,
+        "match_complet": "Linfield II vs Coleraine II",
+        "url": "https://1xbet.cm/fr/line/football/22355-northern-ireland-reserve-league/294179027-linfield-ii-coleraine-ii",
+        "status": "UPCOMING",
+        "timestamp": "2025-12-29T09:07:24.472747",
+        "last_update": "09:07:24",
+        "score": "0-0",
+        "half_time_score": {
+            "home": null,
+            "away": null
+        },
+        "game_time": "00:00",
+        "stats": {},
+        "live_odds": {
+            "V1": 1.31,
+            "V2": 6.69,
+            "X": 5.3,
+            "BTS_Oui": 1.32,
+            "BTS_Non": 3
+        },
+        "probabilities": {
+            "P1": "69%",
+            "PX": "17%",
+            "P2": "14%"
+        },
+        "totals": {
+            "global": [
+                {
+                    "Seuil": 1.5,
+                    "Plus": 1.04,
+                    "Moins": 11
+                },
+                {
+                    "Seuil": 2.5,
+                    "Plus": 1.21,
+                    "Moins": 4
+                },
+                {
+                    "Seuil": 3,
+                    "Plus": 1.22,
+                    "Moins": 3.5
+                },
+                {
+                    "Seuil": 3.5,
+                    "Plus": 1.47,
+                    "Moins": 2.35
+                },
+                {
+                    "Seuil": 4,
+                    "Plus": 1.7,
+                    "Moins": 1.94
+                },
+                {
+                    "Seuil": 4.5,
+                    "Plus": 2.12,
+                    "Moins": 1.63
+                },
+                {
+                    "Seuil": 5,
+                    "Plus": 2.74,
+                    "Moins": 1.35
+                },
+                {
+                    "Seuil": 5.5,
+                    "Plus": 3.28,
+                    "Moins": 1.25
+                },
+                {
+                    "Seuil": 6,
+                    "Plus": 5,
+                    "Moins": 1.104
+                }
+            ],
+            "team_1": [
+                {
+                    "Seuil": 2.5,
+                    "Plus": 1.615,
+                    "Moins": 2.11
+                },
+                {
+                    "Seuil": 3,
+                    "Plus": 2.04,
+                    "Moins": 1.68
+                },
+                {
+                    "Seuil": 3.5,
+                    "Plus": 2.57,
+                    "Moins": 1.42
+                }
+            ],
+            "team_2": [
+                {
+                    "Seuil": 0.5,
+                    "Plus": 1.26,
+                    "Moins": 3.28
+                },
+                {
+                    "Seuil": 1,
+                    "Plus": 1.57,
+                    "Moins": 2.22
+                },
+                {
+                    "Seuil": 1.5,
+                    "Plus": 2.375,
+                    "Moins": 1.49
+                },
+                {
+                    "Seuil": 2,
+                    "Plus": 4.5,
+                    "Moins": 1.134
+                }
+            ]
+        },
+        "opportunity": {}
+    },
+    {
+        "id": "293363061",
+        "league": "Portugal. Première Ligue1",
+        "heure": "21:15",
+        "favori": "Porto",
+        "pronostic": "V1",
+        "cote": 1.117,
+        "match_complet": "Porto vs Aves",
+        "url": "https://1xbet.cm/fr/line/football/118663-portugal-primeira-liga/293363061-porto-aves",
+        "status": "UPCOMING",
+        "timestamp": "2025-12-29T09:07:52.562130",
+        "last_update": "09:07:52",
+        "score": "0-0",
+        "half_time_score": {
+            "home": null,
+            "away": null
+        },
+        "game_time": "00:00",
+        "stats": {},
+        "live_odds": {
+            "V1": 1.115,
+            "V2": 23,
+            "X": 10.9,
+            "BTS_Oui": 2.51,
+            "BTS_Non": 1.465
+        },
+        "probabilities": {
+            "P1": "87%",
+            "PX": "9%",
+            "P2": "4%"
+        },
+        "totals": {
+            "global": [
+                {
+                    "Seuil": 0.5,
+                    "Plus": 1.009,
+                    "Moins": 21
+                },
+                {
+                    "Seuil": 1,
+                    "Plus": 1.01,
+                    "Moins": 15
+                },
+                {
+                    "Seuil": 1.5,
+                    "Plus": 1.088,
+                    "Moins": 5.35
+                },
+                {
+                    "Seuil": 2,
+                    "Plus": 1.128,
+                    "Moins": 4.6
+                },
+                {
+                    "Seuil": 2.5,
+                    "Plus": 1.37,
+                    "Moins": 2.68
+                },
+                {
+                    "Seuil": 3,
+                    "Plus": 1.58,
+                    "Moins": 2.18
+                },
+                {
+                    "Seuil": 3.5,
+                    "Plus": 2.089,
+                    "Moins": 1.811
+                },
+                {
+                    "Seuil": 4,
+                    "Plus": 2.59,
+                    "Moins": 1.42
+                },
+                {
+                    "Seuil": 4.5,
+                    "Plus": 3.08,
+                    "Moins": 1.285
+                },
+                {
+                    "Seuil": 5,
+                    "Plus": 4.7,
+                    "Moins": 1.12
+                },
+                {
+                    "Seuil": 5.5,
+                    "Plus": 5.25,
+                    "Moins": 1.093
+                },
+                {
+                    "Seuil": 6,
+                    "Plus": 8.6,
+                    "Moins": 1.011
+                },
+                {
+                    "Seuil": 6.5,
+                    "Plus": 13,
+                    "Moins": 1.04
+                },
+                {
+                    "Seuil": 7.5,
+                    "Plus": 23,
+                    "Moins": 1.012
+                },
+                {
+                    "Seuil": 8.5,
+                    "Plus": 50,
+                    "Moins": 1.002
+                }
+            ],
+            "team_1": [
+                {
+                    "Seuil": 0.5,
+                    "Plus": 1.002,
+                    "Moins": 11.2
+                },
+                {
+                    "Seuil": 2,
+                    "Plus": 1.285,
+                    "Moins": 3.32
+                },
+                {
+                    "Seuil": 2.5,
+                    "Plus": 1.64,
+                    "Moins": 2.18
+                },
+                {
+                    "Seuil": 3,
+                    "Plus": 2.02,
+                    "Moins": 1.76
+                },
+                {
+                    "Seuil": 3.5,
+                    "Plus": 2.52,
+                    "Moins": 1.49
+                },
+                {
+                    "Seuil": 4,
+                    "Plus": 3.65,
+                    "Moins": 1.24
+                },
+                {
+                    "Seuil": 4.5,
+                    "Plus": 4.3,
+                    "Moins": 1.173
+                }
+            ],
+            "team_2": [
+                {
+                    "Seuil": 0.5,
+                    "Plus": 2.4,
+                    "Moins": 1.49
+                },
+                {
+                    "Seuil": 1,
+                    "Plus": 6.9,
+                    "Moins": 1.089
+                },
+                {
+                    "Seuil": 1.5,
+                    "Plus": 9.1,
+                    "Moins": 1.049
+                }
+            ]
+        },
+        "opportunity": {}
+    }
+]

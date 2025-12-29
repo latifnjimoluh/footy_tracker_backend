@@ -1,9 +1,41 @@
 [
     {
-        "id": "293964504",
-        "teams": "Zamalek vs Baladiyet El Mahallah",
-        "status": "NOT_READY",
-        "timestamp": "2025-12-28T13:43:47.163292",
+        "id": "294138730",
+        "teams": "Al Khalidiya vs Budaiya",
+        "status": "UPCOMING",
+        "timestamp": "2025-12-28T23:59:28.354755",
+        "score": {
+            "home": 0,
+            "away": 0
+        },
+        "half_time_score": {
+            "home": null,
+            "away": null
+        },
+        "game_time": "00:00",
+        "data": {}
+    },
+    {
+        "id": "293881670",
+        "teams": "Waterhouse vs Molynes United",
+        "status": "UPCOMING",
+        "timestamp": "2025-12-28T23:59:55.687490",
+        "score": {
+            "home": 0,
+            "away": 0
+        },
+        "half_time_score": {
+            "home": null,
+            "away": null
+        },
+        "game_time": "00:00",
+        "data": {}
+    },
+    {
+        "id": "293924603",
+        "teams": "Al Ain vs Al Sharjah",
+        "status": "UPCOMING",
+        "timestamp": "2025-12-29T00:00:03.411064",
         "score": {
             "home": 0,
             "away": 0
