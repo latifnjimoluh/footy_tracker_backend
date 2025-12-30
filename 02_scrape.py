@@ -187,29 +187,58 @@ async def run_scraper():
     
     print(f"📂 {len(leagues_list)} championnats à traiter.")
 
+    # 1. CHARGEMENT DES DONNÉES EXISTANTES
+    all_matches = []
+    if os.path.exists(OUTPUT_FILE):
+        try:
+            with open(OUTPUT_FILE, "r", encoding="utf-8") as f:
+                content = f.read().strip()
+                if content:
+                    all_matches = json.loads(content)
+            print(f"🔄 Reprise : {len(all_matches)} matchs déjà existants chargés.")
+        except Exception as e:
+            print(f"⚠️ Erreur lecture fichier existant ({e}), on repart à zéro.")
+            all_matches = []
+    
+    # Création d'un Set d'IDs pour éviter les doublons rapidement
+    existing_ids = {m['id'] for m in all_matches}
+
     async with async_playwright() as p:
         print("🚀 Lancement...")
-        browser = await p.chromium.launch(headless=False, slow_mo=500, args=["--start-maximized"])
+        browser = await p.chromium.launch(headless=True, slow_mo=500, args=["--start-maximized"])
         context = await browser.new_context(no_viewport=True)
         page = await context.new_page()
 
         print("🌐 Démarrage...")
-        all_matches = []
 
         for i, league in enumerate(leagues_list):
             matches = await extract_matches_from_league(page, league['url'], league['name'])
-            all_matches.extend(matches)
             
+            # 2. FUSION INTELLIGENTE (MERGE)
+            added_count = 0
+            for m in matches:
+                # On ajoute seulement si l'ID n'est pas déjà connu
+                if m['id'] not in existing_ids:
+                    all_matches.append(m)
+                    existing_ids.add(m['id'])
+                    added_count += 1
+            
+            if added_count > 0:
+                print(f"      ➕ {added_count} nouveaux matchs ajoutés.")
+
+            # Sauvegarde intermédiaire (Ecrit TOUT : anciens + nouveaux)
             if i % 3 == 0:
                 with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
                     json.dump(all_matches, f, indent=4, ensure_ascii=False)
             
             await asyncio.sleep(random.uniform(2, 5))
 
+        # Sauvegarde finale
         with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
             json.dump(all_matches, f, indent=4, ensure_ascii=False)
         
-        print(f"\n🎉 TERMINÉ ! {len(all_matches)} matchs sauvegardés (Date validée : {TODAY_SLASH})")
+        print(f"\n🎉 TERMINÉ ! {len(all_matches)} matchs au total sauvegardés (Date validée : {TODAY_SLASH})")
+        await browser.close()
 
 if __name__ == "__main__":
     asyncio.run(run_scraper())

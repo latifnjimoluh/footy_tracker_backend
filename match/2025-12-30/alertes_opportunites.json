@@ -1,0 +1,131 @@
+[
+    {
+        "match": "Coyotes de Tlaxcala vs Pachuca",
+        "timestamp": "2025-12-30T02:17:40.720144",
+        "opportunity": {
+            "score": 75,
+            "niveau": "🟠 ALERTE ORANGE",
+            "type": "FAVORI_PERDANT",
+            "raisons": [
+                "Nita FA (Femmes) (V1) mené 0-3 (Cote init: 1.48)"
+            ],
+            "recommandation": "Écart important. Le favori va attaquer pour l'honneur.\n🔥 <b>👉 PARIER : Total Buts +0.5 ou But du Favori (si cote > 1.60)</b>",
+            "action_suggeree": "👉 PARIER : Total Buts +0.5 ou But du Favori (si cote > 1.60)",
+            "risque": "ÉLEVÉ"
+        }
+    },
+    {
+        "match": "Coyotes de Tlaxcala vs Pachuca",
+        "timestamp": "2025-12-30T02:28:18.513629",
+        "opportunity": {
+            "score": 75,
+            "niveau": "🟠 ALERTE ORANGE",
+            "type": "FAVORI_PERDANT",
+            "raisons": [
+                "Nita FA (Femmes) (V1) mené 1-3 (Cote init: 1.48)"
+            ],
+            "recommandation": "Écart important. Le favori va attaquer pour l'honneur.\n🔥 <b>👉 PARIER : Total Buts +0.5 ou But du Favori (si cote > 1.60)</b>",
+            "action_suggeree": "👉 PARIER : Total Buts +0.5 ou But du Favori (si cote > 1.60)",
+            "risque": "ÉLEVÉ"
+        }
+    },
+    {
+        "match": "Coyotes de Tlaxcala vs Pachuca",
+        "timestamp": "2025-12-30T02:34:04.890968",
+        "opportunity": {
+            "score": 75,
+            "niveau": "🟠 ALERTE ORANGE",
+            "type": "FAVORI_PERDANT",
+            "raisons": [
+                "Nita FA (Femmes) (V1) mené 1-4 (Cote init: 1.48)"
+            ],
+            "recommandation": "Écart important. Le favori va attaquer pour l'honneur.\n🔥 <b>👉 PARIER : Total Buts +0.5 ou But du Favori (si cote > 1.60)</b>",
+            "action_suggeree": "👉 PARIER : Total Buts +0.5 ou But du Favori (si cote > 1.60)",
+            "risque": "ÉLEVÉ"
+        }
+    },
+    {
+        "match": "Coyotes de Tlaxcala vs Pachuca",
+        "timestamp": "2025-12-30T02:42:16.505246",
+        "score": "1-4",
+        "game_time": "73:36",
+        "opportunity": {
+            "score": 75,
+            "niveau": "🟠 ALERTE ORANGE",
+            "type": "FAVORI_PERDANT",
+            "raisons": [
+                "Nita FA (Femmes) (V1) mené 1-4 (Cote init: 1.48)"
+            ],
+            "recommandation": "Écart important. Le favori va attaquer pour l'honneur.\n🔥 <b>👉 PARIER : Total Buts +0.5 ou But du Favori (si cote > 1.60)</b>",
+            "action_suggeree": "👉 PARIER : Total Buts +0.5 ou But du Favori (si cote > 1.60)",
+            "risque": "ÉLEVÉ",
+            "cotes_extra": {
+                "but_match": 1.61,
+                "but_favori": 3.33
+            }
+        }
+    },
+    {
+        "match": "Persekabpas Pasuruan vs Waanal Brothers",
+        "timestamp": "2025-12-30T09:46:54.399429",
+        "score": "0-0",
+        "game_time": "46:39",
+        "opportunity": {
+            "score": 60,
+            "niveau": "🟡 SURVEILLANCE",
+            "type": "MATCH_NUL_TARDIF",
+            "raisons": [
+                "Score de parité 0-0 à la 46'"
+            ],
+            "recommandation": "None\n🔥 <b>Attendre que la cote monte encore</b>",
+            "action_suggeree": "Attendre que la cote monte encore",
+            "risque": "FAIBLE",
+            "cotes_extra": {
+                "but_match": 1.215,
+                "but_favori": 1.355
+            }
+        }
+    },
+    {
+        "match": "Persekabpas Pasuruan vs Waanal Brothers",
+        "timestamp": "2025-12-30T09:52:49.665109",
+        "score": "0-0",
+        "game_time": "45:00",
+        "opportunity": {
+            "score": 60,
+            "niveau": "🟡 SURVEILLANCE",
+            "type": "MATCH_NUL_TARDIF",
+            "raisons": [
+                "Score de parité 0-0 à la 45'"
+            ],
+            "recommandation": "None\n🔥 <b>Attendre que la cote monte encore</b>",
+            "action_suggeree": "Attendre que la cote monte encore",
+            "risque": "FAIBLE",
+            "cotes_extra": {
+                "but_match": 1.24,
+                "but_favori": 1.355
+            }
+        }
+    },
+    {
+        "match": "Persekabpas Pasuruan vs Waanal Brothers",
+        "timestamp": "2025-12-30T09:54:44.635232",
+        "score": "0-0",
+        "game_time": "45:00",
+        "opportunity": {
+            "score": 60,
+            "niveau": "🟡 SURVEILLANCE",
+            "type": "MATCH_NUL_TARDIF",
+            "raisons": [
+                "Score de parité 0-0 à la 45'"
+            ],
+            "recommandation": "None\n🔥 <b>Attendre que la cote monte encore</b>",
+            "action_suggeree": "Attendre que la cote monte encore",
+            "risque": "FAIBLE",
+            "cotes_extra": {
+                "but_match": 1.24,
+                "but_favori": 1.355
+            }
+        }
+    }
+]

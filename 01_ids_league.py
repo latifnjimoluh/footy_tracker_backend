@@ -1,6 +1,7 @@
 import asyncio
 import json
 import os
+import re  # 👈 AJOUTÉ POUR LE NETTOYAGE DU NOM
 from datetime import datetime
 from playwright.async_api import async_playwright
 from bs4 import BeautifulSoup
@@ -121,7 +122,6 @@ async def expand_all_sub_menus(page, sidebar):
     print("   📂 Déploiement des sous-menus (Pays/Ligues)...")
     
     # 1. On scrolle vers le bas de la sidebar pour forcer le chargement de tous les éléments
-    # La sidebar a souvent sa propre barre de défilement, on essaie de scroller l'élément
     try:
         # On scrolle progressivement pour déclencher le rendu
         for _ in range(3):
@@ -130,7 +130,6 @@ async def expand_all_sub_menus(page, sidebar):
     except: pass
 
     # 2. On cherche les boutons "Toggle" qui ne sont PAS encore ouverts
-    # Le sélecteur cible le bouton flèche fourni dans ton HTML
     toggle_selector = ".sports-menu-app-champ-with-sub-champs-group__toggle"
     
     # On récupère tous les boutons toggles
@@ -141,7 +140,6 @@ async def expand_all_sub_menus(page, sidebar):
     for toggle in toggles:
         try:
             # On vérifie si c'est déjà ouvert via la classe CSS
-            # Souvent la classe 'ui-nav-link-toggle--is-toggled' indique que c'est ouvert
             class_attr = await toggle.get_attribute("class")
             if "ui-nav-link-toggle--is-toggled" not in class_attr:
                 # Si c'est fermé, on clique pour ouvrir
@@ -166,24 +164,32 @@ async def step_4_extract_data(page):
     try:
         await sidebar.wait_for(state="visible", timeout=10000)
         
-        # --- AJOUT MAJEUR : DÉPLIER LES GROUPES ---
+        # --- DÉPLIER LES GROUPES ---
         await expand_all_sub_menus(page, sidebar)
-        # ------------------------------------------
+        # ---------------------------
 
         html = await sidebar.inner_html()
         soup = BeautifulSoup(html, 'html.parser')
         leagues = []
-        seen = set()
+        seen = set() # Pour éviter les doublons DANS la page actuelle
         
         # On cherche tous les liens qui contiennent /line/football/
         links = soup.select('a[href*="/line/football/"]')
         print(f"   🔍 {len(links)} liens trouvés au total.")
         
-        BANNED = ['special', 'cyber', 'simulated', 'penalty', 'corner', 'carton', 'statist', 'buts', 'player', 'gagnant', 'ante-post', 'srl', 'équipe vs']
+        # 🟢 AJOUT "mls+" DANS LA LISTE DES BANNIS
+        BANNED = ['special', 'cyber', 'simulated', 'penalty', 'corner', 'carton', 'statist', 'buts', 'player', 'gagnant', 'ante-post', 'srl', 'équipe vs', 'mls+']
 
         for link in links:
             href = link.get('href', '').lower()
-            text = link.get_text(strip=True) # On garde la casse pour le nom
+            
+            # --- NETTOYAGE DU NOM ---
+            # On récupère le texte brut
+            raw_text = link.get_text(strip=True)
+            # On utilise regex pour supprimer les chiffres à la toute fin de la chaîne
+            # Ex: "Cuba. Liga de Barrios2" devient "Cuba. Liga de Barrios"
+            text = re.sub(r'\d+$', '', raw_text).strip()
+            
             text_lower = text.lower()
             
             # Filtrage
@@ -202,16 +208,45 @@ async def step_4_extract_data(page):
                         if l_id.isdigit() and l_id not in seen:
                             leagues.append({
                                 "id": l_id, 
-                                "name": text, # Nom propre (ex: "Premier League")
+                                "name": text, # Nom propre nettoyé
                                 "url": link.get('href')
                             })
                             seen.add(l_id)
                 except: continue
             
         if leagues:
-            print(f"   ✅ {len(leagues)} championnats extraits (Y compris sous-ligues).")
+            print(f"   ✅ {len(leagues)} championnats trouvés sur la page.")
+            
+            # --- LOGIQUE DE FUSION (MERGE) ---
+            existing_data = []
+            
+            # 1. Tenter de lire le fichier existant
+            if os.path.exists(OUTPUT_FILE):
+                try:
+                    with open(OUTPUT_FILE, "r", encoding="utf-8") as f:
+                        content = f.read().strip()
+                        if content:
+                            existing_data = json.loads(content)
+                except Exception as e:
+                    print(f"   ⚠️ Fichier existant corrompu ou illisible, on repart à zéro. ({e})")
+                    existing_data = []
+
+            # 2. Créer un Set des IDs existants pour une recherche rapide
+            existing_ids = {item['id'] for item in existing_data}
+            
+            # 3. Ajouter seulement ce qui manque
+            added_count = 0
+            for l in leagues:
+                if l['id'] not in existing_ids:
+                    existing_data.append(l)
+                    added_count += 1
+            
+            print(f"   🔄 FUSION : {added_count} nouveaux championnats ajoutés. Total dans le fichier : {len(existing_data)}")
+
+            # 4. Sauvegarder la liste consolidée
             with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-                json.dump(leagues, f, indent=4, ensure_ascii=False)
+                json.dump(existing_data, f, indent=4, ensure_ascii=False)
+            
             return True
         return False
             
@@ -222,7 +257,11 @@ async def step_4_extract_data(page):
 async def run_scraper():
     async with async_playwright() as p:
         print("🚀 Lancement...")
-        browser = await p.chromium.launch(headless=False, slow_mo=200, args=["--start-maximized"])
+        
+        # 🟢 COMMENTAIRE AJOUTÉ ICI : AFFICHE LE NAVIGATEUR
+        # C'est ici que l'on configure le navigateur pour qu'il soit visible (headless=False)
+        browser = await p.chromium.launch(headless=True, slow_mo=200, args=["--start-maximized"])
+        
         context = await browser.new_context(no_viewport=True)
         page = await context.new_page()
         

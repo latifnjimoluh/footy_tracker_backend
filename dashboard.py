@@ -1,199 +1,255 @@
+"""
+dashboard.py
+Interface de visualisation ULTIME pour le Bot 1xBet.
+VERSION : Ajout Ligue, Pronostic, URL (Cliquable), Heure, Favori, Cote.
+"""
+
 import streamlit as st
+import pandas as pd
 import json
 import os
 import time
-import pandas as pd
 from datetime import datetime
 
-# --- CONFIGURATION DE LA PAGE ---
+# === CONFIGURATION ===
 st.set_page_config(
-    page_title="Monitor 1xBet - Dashboard Pro",
-    page_icon="⚽",
+    page_title="1xBet Command Center",
+    page_icon="🦅",
     layout="wide",
-    initial_sidebar_state="expanded"
+    initial_sidebar_state="collapsed"
 )
 
-# --- CSS PERSONNALISÉ ---
-st.markdown("""
-    <style>
-    .big-score { font-size: 2.5rem; font-weight: 800; color: #4CAF50; text-align: center; margin: 0; }
-    .live-badge { background-color: #ff4b4b; color: white; padding: 4px 8px; border-radius: 12px; font-size: 0.8em; font-weight: bold; animation: pulse 1.5s infinite; }
-    .status-badge { background-color: #43A047; color: white; padding: 4px 8px; border-radius: 4px; font-size: 0.8em; font-weight: bold; }
-    .stat-box { background-color: #262730; padding: 8px; border-radius: 8px; text-align: center; border: 1px solid #444; margin-bottom: 5px; }
-    .stat-label { font-size: 0.75rem; color: #aaa; text-transform: uppercase; letter-spacing: 0.5px; }
-    .stat-value { font-size: 1.1rem; font-weight: bold; color: #fff; }
-    .alert-box { padding: 15px; border-radius: 8px; margin-bottom: 10px; border-left: 5px solid; }
-    .alert-red { background-color: #3a1c1c; border-color: #ff4b4b; }
-    .alert-orange { background-color: #3a2e1c; border-color: #ffa726; }
-    
-    @keyframes pulse {
-        0% { opacity: 1; box-shadow: 0 0 0 0 rgba(255, 75, 75, 0.7); }
-        70% { opacity: 1; box-shadow: 0 0 0 5px rgba(255, 75, 75, 0); }
-        100% { opacity: 1; box-shadow: 0 0 0 0 rgba(255, 75, 75, 0); }
-    }
-    </style>
-""", unsafe_allow_html=True)
-
-# --- FONCTIONS ---
+# === CHEMINS DYNAMIQUES ===
 DATE_STR = datetime.now().strftime("%Y-%m-%d")
 BASE_DIR = os.path.join("match", DATE_STR)
-DATA_FILE = os.path.join(BASE_DIR, "matchs_surveillance_final.json")
 
-def load_data():
-    if not os.path.exists(DATA_FILE): return []
+# Mappage des fichiers
+FILES = {
+    "ALERTES": os.path.join(BASE_DIR, "alertes_opportunites.json"),
+    "LIVE": os.path.join(BASE_DIR, "matchs_surveillance_final.json"), 
+    "HISTORY": os.path.join(BASE_DIR, "matchs_history_log.jsonl"),
+    "RAW_MATCHS": os.path.join(BASE_DIR, "matchs_details.json"),
+    "IDS": os.path.join(BASE_DIR, "ids_championnats_24h.json")
+}
+
+# === FONCTIONS UTILITAIRES ===
+
+def get_file_age(filepath):
+    """Retourne l'heure de dernière modification du fichier"""
+    if not os.path.exists(filepath):
+        return "❌ Inexistant"
+    timestamp = os.path.getmtime(filepath)
+    return datetime.fromtimestamp(timestamp).strftime("%H:%M:%S")
+
+def safe_load_json(filepath):
+    """Lecture sécurisée JSON standard"""
+    if not os.path.exists(filepath): return []
     try:
-        with open(DATA_FILE, "r", encoding="utf-8") as f:
+        with open(filepath, "r", encoding="utf-8") as f:
             return json.load(f)
     except: return []
 
-def format_stats(stats_dict):
-    """Formate les stats pour affichage (ex: T1-T2)"""
-    if not stats_dict: return "0-0"
-    if isinstance(stats_dict, dict):
-        return f"{stats_dict.get('T1', 0)} - {stats_dict.get('T2', 0)}"
-    return str(stats_dict)
+def safe_load_jsonl(filepath, limit=1000):
+    """Lecture sécurisée JSONL"""
+    data = []
+    if not os.path.exists(filepath): return pd.DataFrame()
+    
+    try:
+        with open(filepath, "r", encoding="utf-8") as f:
+            lines = f.readlines()[-limit:]
+            for line in lines:
+                try:
+                    if line.strip():
+                        data.append(json.loads(line))
+                except: pass
+        return pd.DataFrame(data)
+    except:
+        return pd.DataFrame()
 
-# --- SIDEBAR ---
-st.sidebar.title("🎛️ Filtres")
-auto_refresh = st.sidebar.checkbox("🔄 Rafraîchissement Auto (5s)", value=True)
-filter_status = st.sidebar.multiselect("Statut", ["LIVE", "UPCOMING", "FINISHED"], default=["LIVE", "UPCOMING"])
-show_alerts_only = st.sidebar.checkbox("🚨 Afficher opportunités seulement", value=False)
+def get_color(score):
+    if score >= 85: return "🔴"
+    if score >= 70: return "🟠"
+    if score >= 50: return "🟡"
+    return "⚪"
 
-# --- MAIN LOOP ---
-placeholder = st.empty()
+# === CSS ===
+st.markdown("""
+<style>
+    .big-kpi { font-size: 24px; font-weight: bold; }
+    .status-live { color: #00FF00; font-weight: bold; }
+    .status-finished { color: #888888; }
+</style>
+""", unsafe_allow_html=True)
 
-while True:
-    with placeholder.container():
-        matches = load_data()
+# === SIDEBAR ===
+st.sidebar.header("🎛️ Contrôle")
+auto_refresh = st.sidebar.checkbox("Auto-Refresh (5s)", value=True)
+st.sidebar.divider()
+st.sidebar.text(f"Dossier : {DATE_STR}")
+
+# === CHARGEMENT DONNÉES ===
+alerts_data = safe_load_json(FILES["ALERTES"])
+live_data = safe_load_json(FILES["LIVE"])
+ids_data = safe_load_json(FILES["IDS"])
+
+# Conversion Live en DF
+df_live = pd.DataFrame(live_data)
+
+# === GESTION DES NOMS DE COLONNES (Match Complet) ===
+if not df_live.empty:
+    if "match" not in df_live.columns and "match_complet" in df_live.columns:
+        df_live["match"] = df_live["match_complet"]
+    elif "match" not in df_live.columns:
+        df_live["match"] = "Nom Inconnu"
+
+# === ENRICHISSEMENT DATA ===
+if not df_live.empty:
+    # On s'assure que les colonnes existent même si le JSON est partiel
+    if "opportunity" in df_live.columns:
+        df_live["score_opp"] = df_live["opportunity"].apply(lambda x: x.get("score", 0) if isinstance(x, dict) else 0)
+        df_live["conseil"] = df_live["opportunity"].apply(lambda x: x.get("action_suggeree", "") if isinstance(x, dict) else "")
+    else:
+        df_live["score_opp"] = 0
+        df_live["conseil"] = ""
+
+    # Ajout des colonnes demandées : ligue, url, pronostic, etc.
+    # On complète aussi l'URL si elle est relative
+    if "url" in df_live.columns:
+        df_live["url"] = df_live["url"].apply(lambda x: f"https://1xbet.cm{x}" if x and x.startswith("/") else x)
+
+    cols_required = ["league", "heure", "favori", "pronostic", "cote", "url"]
+    for col in cols_required:
+        if col not in df_live.columns:
+            df_live[col] = None
+
+# === INTERFACE PRINCIPALE (ONGLETS) ===
+tab1, tab2, tab3, tab4 = st.tabs([
+    "🚨 LIVE CENTER", 
+    "📈 HISTORIQUE & LOGS", 
+    "🗃️ BASES DE DONNÉES", 
+    "⚙️ SANTÉ SYSTÈME"
+])
+
+# -----------------------------------------------------------------------------
+# TAB 1 : LE COCKPIT (ALERTE + LIVE)
+# -----------------------------------------------------------------------------
+with tab1:
+    c1, c2, c3, c4 = st.columns(4)
+    c1.metric("Matchs Surveillés", len(df_live))
+    c2.metric("Alertes Actives", len(alerts_data), delta_color="inverse")
+    c3.metric("Meilleure Confiance", f"{df_live['score_opp'].max() if not df_live.empty else 0}%")
+    c4.metric("Dernière MAJ Live", get_file_age(FILES["LIVE"]))
+    
+    st.divider()
+
+    # SECTION ALERTES
+    if alerts_data:
+        st.subheader("🔥 OPPORTUNITÉS DÉTECTÉES")
+        for alert in reversed(alerts_data[-3:]):
+            opp = alert.get("opportunity", {})
+            col_a, col_b = st.columns([0.1, 0.9])
+            with col_a:
+                st.write(f"# {get_color(opp.get('score',0))}")
+            with col_b:
+                match_name = alert.get('match') or alert.get('match_complet') or "Inconnu"
+                st.info(f"**{match_name}** | 📊 Score: {alert.get('score')} | ⏱️ {alert.get('game_time')}\n\n"
+                        f"👉 **{opp.get('action_suggeree')}** ({opp.get('score')}%)")
+
+    # SECTION TABLEAU LIVE
+    st.subheader("📺 TABLEAU DE BORD LIVE")
+    if not df_live.empty:
+        mode_view = st.radio("Affichage :", ["Tout", "Seulement LIVE", "Opportunités (>50%)"], horizontal=True)
         
-        if not matches:
-            st.info(f"⏳ En attente de données pour {DATE_STR}...")
+        df_show = df_live.copy()
+        
+        # Filtrage
+        if mode_view == "Seulement LIVE":
+            if "status" in df_show.columns:
+                df_show = df_show[df_show["status"] == "LIVE"]
+        elif mode_view == "Opportunités (>50%)":
+            df_show = df_show[df_show["score_opp"] >= 50]
+        
+        # --- CONFIGURATION DES COLONNES À AFFICHER ---
+        # Ordre logique : Ligue > Match > Heure > Fav > Prono > Cote > Score > Chrono > Status > Confiance > Conseil > Lien
+        cols_to_show = ["league", "match", "heure", "favori", "pronostic", "cote", "score", "game_time", "status", "score_opp", "conseil", "url"]
+        
+        # On ne garde que celles qui existent vraiment pour éviter le crash
+        cols_final = [c for c in cols_to_show if c in df_show.columns]
+
+        st.dataframe(
+            df_show[cols_final],
+            column_config={
+                "league": st.column_config.TextColumn("Championnat", width="medium"),
+                "match": st.column_config.TextColumn("Rencontre", width="medium"),
+                "heure": st.column_config.TextColumn("Début", width="small"),
+                "favori": st.column_config.TextColumn("Favori", width="small"),
+                "pronostic": st.column_config.TextColumn("Prono", width="small"),
+                "cote": st.column_config.NumberColumn("Cote Init", format="%.2f"),
+                "score": st.column_config.TextColumn("Score", width="small"),
+                "game_time": st.column_config.TextColumn("Chrono", width="small"),
+                "status": "État",
+                "score_opp": st.column_config.ProgressColumn("Confiance", min_value=0, max_value=100, format="%d%%"),
+                "conseil": "Action Suggérée",
+                "url": st.column_config.LinkColumn("Lien Match", display_text="Voir Match")
+            },
+            use_container_width=True,
+            hide_index=True,
+            height=600
+        )
+    else:
+        st.warning("Aucune donnée live disponible.")
+
+# -----------------------------------------------------------------------------
+# TAB 2 : HISTORIQUE (JSONL)
+# -----------------------------------------------------------------------------
+with tab2:
+    st.header("📜 Historique des Scans (.jsonl)")
+    if st.button("🔄 Charger/Actualiser l'Historique"):
+        df_history = safe_load_jsonl(FILES["HISTORY"])
+        
+        if not df_history.empty:
+            if "match" not in df_history.columns and "match_complet" in df_history.columns:
+                df_history["match"] = df_history["match_complet"]
+                
+            st.write(f"Total lignes lues : **{len(df_history)}**")
+            st.dataframe(df_history, use_container_width=True)
         else:
-            # 1. HEADER & KPI
-            nb_live = sum(1 for m in matches if m.get("status") == "LIVE")
-            nb_alerts = sum(1 for m in matches if m.get("opportunity", {}).get("score", 0) >= 50)
-            
-            c1, c2, c3 = st.columns([2, 1, 1])
-            c1.title("🎯 1xBet Hunter Dashboard")
-            c2.metric("Matchs en cours", nb_live)
-            c3.metric("Opportunités", nb_alerts, delta_color="inverse")
-            
-            st.divider()
+            st.warning("Fichier historique vide ou introuvable.")
+    else:
+        st.info("Clique sur le bouton pour charger l'historique.")
 
-            # 2. SECTION ALERTES (PRIORITAIRE)
-            alerts = [m for m in matches if m.get("opportunity", {}).get("score", 0) >= 50]
-            if alerts:
-                st.subheader("🚨 Opportunités Détectées")
-                for m in alerts:
-                    opp = m["opportunity"]
-                    color_class = "alert-red" if opp.get("score") >= 80 else "alert-orange"
-                    icon = "🔥" if opp.get("score") >= 80 else "⚠️"
-                    
-                    st.markdown(f"""
-                    <div class="alert-box {color_class}">
-                        <h4>{icon} {m['match_complet']}</h4>
-                        <p><strong>{opp.get('niveau')}</strong> (Score: {opp.get('score')})</p>
-                        <p>{opp.get('recommandation', '')}</p>
-                        <ul>
-                            {''.join([f'<li>{r}</li>' for r in opp.get('raisons', [])])}
-                        </ul>
-                    </div>
-                    """, unsafe_allow_html=True)
-                st.divider()
+# -----------------------------------------------------------------------------
+# TAB 3 : BASES DE DONNÉES
+# -----------------------------------------------------------------------------
+with tab3:
+    c1, c2 = st.columns(2)
+    with c1:
+        st.subheader("🗂️ IDs Championnats")
+        st.caption(f"Fichier : {os.path.basename(FILES['IDS'])}")
+        if ids_data: st.dataframe(pd.DataFrame(ids_data), use_container_width=True)
+    with c2:
+        st.subheader("🗂️ Détails Matchs")
+        st.caption(f"Fichier : {os.path.basename(FILES['RAW_MATCHS'])}")
+        raw_matchs = safe_load_json(FILES["RAW_MATCHS"])
+        if raw_matchs: st.dataframe(pd.DataFrame(raw_matchs), use_container_width=True)
 
-            # 3. LISTE DES MATCHS
-            st.subheader("📡 Radar des Matchs")
-            
-            # Filtrage
-            filtered_matches = [m for m in matches if m.get("status", "UNKNOWN") in filter_status]
-            if show_alerts_only:
-                filtered_matches = [m for m in filtered_matches if m.get("opportunity", {}).get("score", 0) >= 50]
-            
-            # Tri : LIVE d'abord, puis par heure
-            filtered_matches.sort(key=lambda x: (x.get("status") != "LIVE", x.get("heure")))
+# -----------------------------------------------------------------------------
+# TAB 4 : SANTÉ
+# -----------------------------------------------------------------------------
+with tab4:
+    st.header("⚙️ Diagnostic")
+    health_data = []
+    for name, path in FILES.items():
+        exists = os.path.exists(path)
+        size = f"{os.path.getsize(path)/1024:.2f} KB" if exists else "0 KB"
+        health_data.append({
+            "Fichier": name,
+            "Statut": "✅ OK" if exists else "❌ MANQUANT",
+            "Taille": size,
+            "Dernière Modif": get_file_age(path)
+        })
+    st.dataframe(pd.DataFrame(health_data), use_container_width=True)
 
-            for match in filtered_matches:
-                status = match.get("status")
-                score = match.get("score", "N/A")
-                time_game = match.get("game_time", "N/A")
-                
-                # Titre de l'expander
-                header_icon = "🔴" if status == "LIVE" else "📅"
-                header_text = f"{header_icon} {match['match_complet']} | {score}"
-                if status == "LIVE": header_text += f" ({time_game})"
-                
-                with st.expander(header_text, expanded=(status=="LIVE")):
-                    
-                    # Colonnes : Info | Score | Cotes
-                    c1, c2, c3 = st.columns([3, 2, 3])
-                    
-                    with c1:
-                        st.caption(f"🏆 {match.get('league')}")
-                        st.markdown(f"**Favori :** {match.get('favori')}")
-                        st.markdown(f"**Prono Initial :** `{match.get('pronostic')}` @ {match.get('cote')}")
-                        if status == "LIVE":
-                            st.markdown(f"<span class='live-badge'>LIVE {time_game}</span>", unsafe_allow_html=True)
-                    
-                    with c2:
-                        st.markdown(f"<div class='big-score'>{score}</div>", unsafe_allow_html=True)
-                        ht = match.get("half_time_score", {})
-                        if isinstance(ht, dict) and ht.get("home") is not None:
-                            st.caption(f"MT: {ht.get('home')}-{ht.get('away')}")
-                        elif isinstance(ht, str) and ht != "N/A":
-                            st.caption(f"MT: {ht}")
-
-                    with c3:
-                        odds = match.get("live_odds", {})
-                        st.markdown("##### 💰 Cotes Live")
-                        co1, co2, co3 = st.columns(3)
-                        co1.metric("1", odds.get("V1", "-"))
-                        co2.metric("X", odds.get("X", "-"))
-                        co3.metric("2", odds.get("V2", "-"))
-                        
-                        bts = f"Oui: {odds.get('BTS_Oui', '-')} | Non: {odds.get('BTS_Non', '-')}"
-                        st.caption(f"⚽ BTS: {bts}")
-
-                    # STATS VISUELLES
-                    live_stats = match.get("live_stats", {})
-                    if status == "LIVE" and live_stats:
-                        st.markdown("---")
-                        st.caption("📊 STATISTIQUES MATCH")
-                        ks = ["Attaques", "Attaques dangereuses", "Tirs cadrés", "Corners", "Possession"]
-                        k_cols = st.columns(len(ks))
-                        for i, k in enumerate(ks):
-                            val = live_stats.get(k, "0-0")
-                            if isinstance(val, dict): val = f"{val.get('T1',0)}-{val.get('T2',0)}"
-                            k_cols[i].markdown(f"""
-                                <div class="stat-box">
-                                    <div class="stat-label">{k}</div>
-                                    <div class="stat-value">{val}</div>
-                                </div>
-                            """, unsafe_allow_html=True)
-
-                    # TOTAUX
-                    totals = match.get("totals", {})
-                    if totals.get("global") or totals.get("team_1"):
-                        st.markdown("---")
-                        t1, t2 = st.tabs(["📈 Totaux Match", "🏠/✈️ Totaux Équipes"])
-                        
-                        with t1:
-                            if totals.get("global"):
-                                df_glob = pd.DataFrame(totals["global"])
-                                st.dataframe(
-                                    df_glob.style.highlight_between(subset=["Plus", "Moins"], left=1.5, right=2.0, color="#1b5e20"),
-                                    use_container_width=True, hide_index=True
-                                )
-                        
-                        with t2:
-                            col_t1, col_t2 = st.columns(2)
-                            with col_t1:
-                                st.caption("Domicile")
-                                if totals.get("team_1"):
-                                    st.dataframe(pd.DataFrame(totals["team_1"]), use_container_width=True, hide_index=True)
-                            with col_t2:
-                                st.caption("Extérieur")
-                                if totals.get("team_2"):
-                                    st.dataframe(pd.DataFrame(totals["team_2"]), use_container_width=True, hide_index=True)
-
-    if not auto_refresh: break
+if auto_refresh:
     time.sleep(5)
+    st.rerun()

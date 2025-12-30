@@ -1,0 +1,452 @@
+[
+    {
+        "id": "682645296",
+        "league": "Club Friendlies",
+        "heure": "02:30",
+        "favori": "Nita FA (Femmes)",
+        "pronostic": "V1",
+        "cote": 1.48,
+        "match_complet": "Coyotes de Tlaxcala vs Pachuca",
+        "url": "https://1xbet.cm/fr/live/football/67559-club-friendlies/682645296-coyotes-de-tlaxcala-pachuca"
+    },
+    {
+        "id": "294319975",
+        "league": "Championnat d'Inde. Femmes3",
+        "heure": "04:30",
+        "favori": "Nita FA (Femmes)",
+        "pronostic": "V2",
+        "cote": 1.48,
+        "match_complet": "Garhwal United (Femmes) vs Nita FA (Femmes)",
+        "url": "https://1xbet.cm/fr/line/football/1416227-india-championship-women/294319975-garhwal-united-women-nita-fa-women"
+    },
+    {
+        "id": "294314297",
+        "league": "Indonesia. Liga Nusantara6",
+        "heure": "09:00",
+        "favori": "Persekabpas Pasuruan",
+        "pronostic": "V1",
+        "cote": 1.28,
+        "match_complet": "Persekabpas Pasuruan vs Waanal Brothers",
+        "url": "https://1xbet.cm/fr/line/football/2796350-indonesia-liga-nusantara/294314297-persekabpas-pasuruan-waanal-brothers"
+    },
+    {
+        "id": "294352622",
+        "league": "Coupe du Bangladesh de football3",
+        "heure": "09:30",
+        "favori": "Brothers Union",
+        "pronostic": "V1",
+        "cote": 1.49,
+        "match_complet": "Brothers Union vs PWD SC",
+        "url": "https://1xbet.cm/fr/line/football/957641-bangladesh-federation-cup/294352622-brothers-union-pwd-sc"
+    },
+    {
+        "id": "294302121",
+        "league": "Malaysia. Liga A11",
+        "heure": "09:45",
+        "favori": "Kelantan Red Warrior",
+        "pronostic": "V2",
+        "cote": 1.295,
+        "match_complet": "Bunga Raya vs Kelantan Red Warrior",
+        "url": "https://1xbet.cm/fr/line/football/2717183-malaysia-liga-a1/294302121-bunga-raya-kelantan-red-warrior"
+    },
+    {
+        "id": "294322465",
+        "league": "Espagne. Championnat des jeunes2",
+        "heure": "12:45",
+        "favori": "Real Betis (19)",
+        "pronostic": "V1",
+        "cote": 1.022,
+        "match_complet": "Real Betis (19) vs UD Melilla U19",
+        "url": "https://1xbet.cm/fr/line/football/20661-spain-youth-championship/294322465-real-betis-u19-ud-melilla-u19"
+    },
+    {
+        "id": "294307543",
+        "league": "Jordanie. Ligue de réserve2",
+        "heure": "13:00",
+        "favori": "Al-Faisaly Amman II",
+        "pronostic": "V1",
+        "cote": 1.49,
+        "match_complet": "Al-Faisaly Amman II vs Sama Al Sarhan II",
+        "url": "https://1xbet.cm/fr/line/football/2888772-jordan-reserve-league/294307543-al-faisaly-amman-ii-sama-al-sarhan-ii"
+    },
+    {
+        "id": "294393776",
+        "league": "Indonesia. Liga Nusantara",
+        "heure": "13:00",
+        "favori": "Nusantara United",
+        "pronostic": "V1",
+        "cote": 1.26,
+        "match_complet": "Nusantara United vs Persipa Pati",
+        "url": "https://1xbet.cm/fr/line/football/2796350-indonesia-liga-nusantara/294393776-nusantara-united-persipa-pati"
+    },
+    {
+        "id": "294297419",
+        "league": "Liban. Premier League2",
+        "heure": "13:15",
+        "favori": "Al-Ansar Beyrouth",
+        "pronostic": "V1",
+        "cote": 1.187,
+        "match_complet": "Al-Ansar Beyrouth vs Al Bourj",
+        "url": "https://1xbet.cm/fr/line/football/2908998-lebanon-premier-league/294297419-al-ansar-beirut-al-bourj"
+    },
+    {
+        "id": "294352463",
+        "league": "Matchs amicaux des clubs",
+        "heure": "13:30",
+        "favori": "Tombense",
+        "pronostic": "V1",
+        "cote": 1.41,
+        "match_complet": "Tombense vs Rio Branco-VN",
+        "url": "https://1xbet.cm/fr/line/football/67559-club-friendlies/294352463-tombense-rio-branco-vn"
+    },
+    {
+        "id": "294309350",
+        "league": "Arabie saoudite. Division 13",
+        "heure": "13:45",
+        "favori": "Al-Ula",
+        "pronostic": "V1",
+        "cote": 1.37,
+        "match_complet": "Al-Ula vs Al-Anwar Club",
+        "url": "https://1xbet.cm/fr/line/football/245547-saudi-arabia-division-1/294309350-al-ula-al-anwar-club"
+    },
+    {
+        "id": "294281211",
+        "league": "Championnat des Émirats arabes unis. Division 12",
+        "heure": "13:55",
+        "favori": "Al Urooba",
+        "pronostic": "V2",
+        "cote": 1.37,
+        "match_complet": "Al Ittifaq Dubai vs Al Urooba",
+        "url": "https://1xbet.cm/fr/line/football/28201-uae-division-1/294281211-al-ittifaq-dubai-al-urooba"
+    },
+    {
+        "id": "294357885",
+        "league": "Cuba. Liga de Barrios2",
+        "heure": "14:00",
+        "favori": "Olimpicos Habana",
+        "pronostic": "V2",
+        "cote": 1.37,
+        "match_complet": "Atletico Cuevita vs Olimpicos Habana",
+        "url": "https://1xbet.cm/fr/line/football/2779554-cuba-liga-de-barrios/294357885-atletico-cuevita-olimpicos-habana"
+    },
+    {
+        "id": "294262331",
+        "league": "Matchs amicaux des clubs",
+        "heure": "14:00",
+        "favori": "US Monastir",
+        "pronostic": "V1",
+        "cote": 1.42,
+        "match_complet": "US Monastir vs Hammam-Lif",
+        "url": "https://1xbet.cm/fr/line/football/67559-club-friendlies/294262331-us-monastir-hammam-lif"
+    },
+    {
+        "id": "294166578",
+        "league": "Championnat de Libye de football4",
+        "heure": "14:30",
+        "favori": "Al-Watan",
+        "pronostic": "V1",
+        "cote": 1.54,
+        "match_complet": "Al-Watan vs Assabah",
+        "url": "https://1xbet.cm/fr/line/football/605255-libya-premier-league/294166578-al-watan-assabah"
+    },
+    {
+        "id": "294376784",
+        "league": "Championnat de Bangladesh. Femmes1",
+        "heure": "15:00",
+        "favori": "Farashganj (Femmes)",
+        "pronostic": "V2",
+        "cote": 1.111,
+        "match_complet": "Dhaka Rangers (Femmes) vs Farashganj (Femmes)",
+        "url": "https://1xbet.cm/fr/line/football/2072013-bangladesh-championship-women/294376784-dhaka-rangers-women-farashganj-women"
+    },
+    {
+        "id": "294205481",
+        "league": "Koweït. Division 12",
+        "heure": "15:30",
+        "favori": "Al Jazira Kuwait",
+        "pronostic": "V1",
+        "cote": 1.195,
+        "match_complet": "Al Jazira Kuwait vs Sporty",
+        "url": "https://1xbet.cm/fr/line/football/1715448-kuwait-division-1/294205481-al-jazira-kuwait-sporty"
+    },
+    {
+        "id": "294205464",
+        "league": "Koweït. Division 12",
+        "heure": "15:30",
+        "favori": "Al Yarmouk Koweït",
+        "pronostic": "V2",
+        "cote": 1.179,
+        "match_complet": "Al Shamiya vs Al Yarmouk Koweït",
+        "url": "https://1xbet.cm/fr/line/football/1715448-kuwait-division-1/294205464-al-shamiya-al-yarmouk-kuwait"
+    },
+    {
+        "id": "294357884",
+        "league": "Cuba. Liga de Barrios2",
+        "heure": "16:15",
+        "favori": "Sporting Bellavista",
+        "pronostic": "V1",
+        "cote": 1.31,
+        "match_complet": "Sporting Bellavista vs Real Castilla Kholy",
+        "url": "https://1xbet.cm/fr/line/football/2779554-cuba-liga-de-barrios/294357884-sporting-bellavista-real-castilla-kholy"
+    },
+    {
+        "id": "293883923",
+        "league": "Championnat d'Arabie saoudite de football4",
+        "heure": "16:30",
+        "favori": "Al-Ahli Jeddah",
+        "pronostic": "V1",
+        "cote": 1.4,
+        "match_complet": "Al-Ahli Jeddah vs Al Feiha",
+        "url": "https://1xbet.cm/fr/line/football/16819-saudi-arabia-saudi-professional-league/293883923-al-ahli-jeddah-al-feiha"
+    },
+    {
+        "id": "294352004",
+        "league": "Bahreïn. Deuxième division4",
+        "heure": "17:00",
+        "favori": "AlHala",
+        "pronostic": "V1",
+        "cote": 1.116,
+        "match_complet": "AlHala vs Al Tadamun Buri",
+        "url": "https://1xbet.cm/fr/line/football/203239-bahrain-second-division/294352004-al-hala-al-tadamun-buri"
+    },
+    {
+        "id": "294355781",
+        "league": "Bahreïn. Deuxième division4",
+        "heure": "17:00",
+        "favori": "Isa Town",
+        "pronostic": "V1",
+        "cote": 1.24,
+        "match_complet": "Isa Town vs Etehad Al Reef",
+        "url": "https://1xbet.cm/fr/line/football/203239-bahrain-second-division/294355781-isa-town-etehad-al-reef"
+    },
+    {
+        "id": "294313886",
+        "league": "Championnat du Liberia de football1",
+        "heure": "17:00",
+        "favori": "Heaven Eleven",
+        "pronostic": "V1",
+        "cote": 1.22,
+        "match_complet": "Heaven Eleven vs Jubilee",
+        "url": "https://1xbet.cm/fr/line/football/831017-liberia-first-division/294313886-heaven-eleven-jubilee"
+    },
+    {
+        "id": "294313890",
+        "league": "Mauritanie. Championnat D12",
+        "heure": "17:00",
+        "favori": "ASC Gendrim",
+        "pronostic": "V2",
+        "cote": 1.53,
+        "match_complet": "Ksar vs ASC Gendrim",
+        "url": "https://1xbet.cm/fr/line/football/656519-mauritania-championnat-d1/294313890-ksar-asc-gendrim"
+    },
+    {
+        "id": "293506932",
+        "league": "Coupe d'Afrique des nations",
+        "heure": "17:00",
+        "favori": "Tunisie",
+        "pronostic": "V2",
+        "cote": 1.555,
+        "match_complet": "Tanzanie vs Tunisie",
+        "url": "https://1xbet.cm/fr/line/football/21317-africa-cup-of-nations/293506932-tanzania-tunisia"
+    },
+    {
+        "id": "293946066",
+        "league": "Championnat d'Arabie saoudite de football4",
+        "heure": "18:30",
+        "favori": "Al Nassr",
+        "pronostic": "V2",
+        "cote": 1.25,
+        "match_complet": "Ettifaq Dammam vs Al Nassr",
+        "url": "https://1xbet.cm/fr/line/football/16819-saudi-arabia-saudi-professional-league/293946066-ettifaq-dammam-al-nassr"
+    },
+    {
+        "id": "293453517",
+        "league": "Israël. Première Ligue4",
+        "heure": "19:00",
+        "favori": "Maccabi Tel Aviv",
+        "pronostic": "V1",
+        "cote": 1.22,
+        "match_complet": "Maccabi Tel Aviv vs Ironi Tiberias",
+        "url": "https://1xbet.cm/fr/line/football/41199-israel-premier-league/293453517-maccabi-tel-aviv-ironi-tiberias"
+    },
+    {
+        "id": "293527933",
+        "league": "Coupe d'Afrique des nations",
+        "heure": "20:00",
+        "favori": "Sénégal",
+        "pronostic": "V2",
+        "cote": 1.308,
+        "match_complet": "Benin vs Sénégal",
+        "url": "https://1xbet.cm/fr/line/football/21317-africa-cup-of-nations/293527933-benin-senegal"
+    },
+    {
+        "id": "293527929",
+        "league": "Coupe d'Afrique des nations",
+        "heure": "20:00",
+        "favori": "DR Congo",
+        "pronostic": "V2",
+        "cote": 1.242,
+        "match_complet": "Botswana vs DR Congo",
+        "url": "https://1xbet.cm/fr/line/football/21317-africa-cup-of-nations/293527929-botswana-dr-congo"
+    },
+    {
+        "id": "294352461",
+        "league": "Matchs amicaux des clubs",
+        "heure": "20:00",
+        "favori": "Serra Branca Esporte Clube",
+        "pronostic": "V1",
+        "cote": 1.591,
+        "match_complet": "Serra Branca Esporte Clube vs Jaguar Pernambuco",
+        "url": "https://1xbet.cm/fr/line/football/67559-club-friendlies/294352461-serra-branca-esporte-clube-jaguar-pernambuco"
+    },
+    {
+        "id": "293061282",
+        "league": "Angleterre. Premier League9",
+        "heure": "20:30",
+        "favori": "Chelsea",
+        "pronostic": "V1",
+        "cote": 1.597,
+        "match_complet": "Chelsea vs Bournemouth",
+        "url": "https://1xbet.cm/fr/line/football/88637-england-premier-league/293061282-chelsea-bournemouth"
+    },
+    {
+        "id": "294305198",
+        "league": "Championnat du Pays de Galles. Championnat. Sud1",
+        "heure": "20:30",
+        "favori": "Trefelin",
+        "pronostic": "V2",
+        "cote": 1.23,
+        "match_complet": "Afan Lido vs Trefelin",
+        "url": "https://1xbet.cm/fr/line/football/2008568-wales-championship-south/294305198-afan-lido-trefelin"
+    },
+    {
+        "id": "293845245",
+        "league": "Angleterre. National League12",
+        "heure": "20:45",
+        "favori": "York City",
+        "pronostic": "V2",
+        "cote": 1.47,
+        "match_complet": "Altrincham vs York City",
+        "url": "https://1xbet.cm/fr/line/football/1256221-england-national-league/293845245-altrincham-york-city"
+    },
+    {
+        "id": "293845190",
+        "league": "Angleterre. National League12",
+        "heure": "20:45",
+        "favori": "Boreham Wood",
+        "pronostic": "V1",
+        "cote": 1.45,
+        "match_complet": "Boreham Wood vs Solihull Moors",
+        "url": "https://1xbet.cm/fr/line/football/1256221-england-national-league/293845190-boreham-wood-solihull-moors"
+    },
+    {
+        "id": "293786064",
+        "league": "Angleterre. National League12",
+        "heure": "20:45",
+        "favori": "Carlisle United",
+        "pronostic": "V1",
+        "cote": 1.36,
+        "match_complet": "Carlisle United vs Morecambe",
+        "url": "https://1xbet.cm/fr/line/football/1256221-england-national-league/293786064-carlisle-united-morecambe"
+    },
+    {
+        "id": "293872435",
+        "league": "Angleterre. National League12",
+        "heure": "20:45",
+        "favori": "Forest Green Rovers",
+        "pronostic": "V1",
+        "cote": 1.25,
+        "match_complet": "Forest Green Rovers vs Truro City",
+        "url": "https://1xbet.cm/fr/line/football/1256221-england-national-league/293872435-forest-green-rovers-truro-city"
+    },
+    {
+        "id": "293845248",
+        "league": "Angleterre. National League12",
+        "heure": "20:45",
+        "favori": "Rochdale",
+        "pronostic": "V1",
+        "cote": 1.54,
+        "match_complet": "Rochdale vs Hartlepool United",
+        "url": "https://1xbet.cm/fr/line/football/1256221-england-national-league/293845248-rochdale-hartlepool-united"
+    },
+    {
+        "id": "293845250",
+        "league": "Angleterre. National League12",
+        "heure": "20:45",
+        "favori": "Scunthorpe United",
+        "pronostic": "V1",
+        "cote": 1.35,
+        "match_complet": "Scunthorpe United vs Gateshead",
+        "url": "https://1xbet.cm/fr/line/football/1256221-england-national-league/293845250-scunthorpe-united-gateshead"
+    },
+    {
+        "id": "293845244",
+        "league": "Angleterre. National League12",
+        "heure": "20:45",
+        "favori": "Southend United",
+        "pronostic": "V1",
+        "cote": 1.4,
+        "match_complet": "Southend United vs Sutton United",
+        "url": "https://1xbet.cm/fr/line/football/1256221-england-national-league/293845244-southend-united-sutton-united"
+    },
+    {
+        "id": "293897162",
+        "league": "Championnat d'Irlande du Nord. NIFL Premiership7",
+        "heure": "20:45",
+        "favori": "Glentoran",
+        "pronostic": "V1",
+        "cote": 1.38,
+        "match_complet": "Glentoran vs Portadown FC",
+        "url": "https://1xbet.cm/fr/line/football/11463-northern-ireland-ifa-premiership/293897162-glentoran-portadown"
+    },
+    {
+        "id": "294156735",
+        "league": "Angleterre. National League Sud",
+        "heure": "20:45",
+        "favori": "Weston-super-Mare",
+        "pronostic": "V1",
+        "cote": 1.57,
+        "match_complet": "Weston-super-Mare vs Salisbury",
+        "url": "https://1xbet.cm/fr/line/football/1256219-england-national-league-south/294156735-weston-super-mare-salisbury"
+    },
+    {
+        "id": "293539210",
+        "league": "Championnat d'Écosse. Première Ligue",
+        "heure": "20:45",
+        "favori": "Rangers",
+        "pronostic": "V1",
+        "cote": 1.58,
+        "match_complet": "Rangers vs Saint Mirren",
+        "url": "https://1xbet.cm/fr/line/football/13521-scotland-premier-league/293539210-rangers-st-mirren"
+    },
+    {
+        "id": "293061279",
+        "league": "Angleterre. Premier League9",
+        "heure": "21:15",
+        "favori": "Arsenal",
+        "pronostic": "V1",
+        "cote": 1.505,
+        "match_complet": "Arsenal vs Aston Villa",
+        "url": "https://1xbet.cm/fr/line/football/88637-england-premier-league/293061279-arsenal-aston-villa"
+    },
+    {
+        "id": "293061289",
+        "league": "Angleterre. Premier League9",
+        "heure": "21:15",
+        "favori": "Manchester United",
+        "pronostic": "V1",
+        "cote": 1.404,
+        "match_complet": "Manchester United vs Wolverhampton Wanderers",
+        "url": "https://1xbet.cm/fr/line/football/88637-england-premier-league/293061289-manchester-united-wolverhampton-wanderers"
+    },
+    {
+        "id": "293428056",
+        "league": "Angleterre. Premier League9",
+        "heure": "21:15",
+        "favori": "Domicile (Paris spéciaux)",
+        "pronostic": "V1",
+        "cote": 1.186,
+        "match_complet": "Domicile (Paris spéciaux) vs Extérieur (Paris spéciaux)",
+        "url": "https://1xbet.cm/fr/line/football/88637-england-premier-league/293428056-home-special-bets-away-special-bets"
+    }
+]

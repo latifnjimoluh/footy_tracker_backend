@@ -1,0 +1,122 @@
+[
+    {
+        "id": "294314297",
+        "league": "Indonesia. Liga Nusantara6",
+        "heure": "09:00",
+        "favori": "Persekabpas Pasuruan",
+        "pronostic": "V1",
+        "cote": 1.28,
+        "match_complet": "Persekabpas Pasuruan vs Waanal Brothers",
+        "url": "https://1xbet.cm/fr/line/football/2796350-indonesia-liga-nusantara/294314297-persekabpas-pasuruan-waanal-brothers",
+        "status": "UNKNOWN",
+        "timestamp": "2025-12-30T10:04:48.707204",
+        "last_update": "10:04:48",
+        "score": "0-0",
+        "half_time_score": {
+            "home": null,
+            "away": null
+        },
+        "game_time": "00:00",
+        "stats": {},
+        "live_odds": {},
+        "probabilities": {},
+        "totals": {},
+        "opportunity": {}
+    },
+    {
+        "id": "294352622",
+        "league": "Coupe du Bangladesh de football3",
+        "heure": "09:30",
+        "favori": "Brothers Union",
+        "pronostic": "V1",
+        "cote": 1.49,
+        "match_complet": "Brothers Union vs PWD SC",
+        "url": "https://1xbet.cm/fr/line/football/957641-bangladesh-federation-cup/294352622-brothers-union-pwd-sc",
+        "status": "NOT_READY",
+        "timestamp": "2025-12-30T10:05:52.660615",
+        "last_update": "10:05:52",
+        "score": "0-0",
+        "half_time_score": {
+            "home": null,
+            "away": null
+        },
+        "game_time": "00:00",
+        "stats": {},
+        "live_odds": {},
+        "probabilities": {},
+        "totals": {},
+        "opportunity": {}
+    },
+    {
+        "id": "682645296",
+        "league": "Club Friendlies",
+        "heure": "02:30",
+        "favori": "Nita FA (Femmes)",
+        "pronostic": "V1",
+        "cote": 1.48,
+        "match_complet": "Coyotes de Tlaxcala vs Pachuca",
+        "url": "https://1xbet.cm/fr/live/football/67559-club-friendlies/682645296-coyotes-de-tlaxcala-pachuca",
+        "status": "FINISHED",
+        "timestamp": "2025-12-30T10:07:12.950991",
+        "last_update": "10:07:12",
+        "score": "0-0",
+        "half_time_score": {
+            "home": null,
+            "away": null
+        },
+        "game_time": "00:00",
+        "stats": {},
+        "live_odds": {},
+        "probabilities": {},
+        "totals": {},
+        "opportunity": {}
+    },
+    {
+        "id": "294319975",
+        "league": "Championnat d'Inde. Femmes3",
+        "heure": "04:30",
+        "favori": "Nita FA (Femmes)",
+        "pronostic": "V2",
+        "cote": 1.48,
+        "match_complet": "Garhwal United (Femmes) vs Nita FA (Femmes)",
+        "url": "https://1xbet.cm/fr/line/football/1416227-india-championship-women/294319975-garhwal-united-women-nita-fa-women",
+        "status": "NOT_READY",
+        "timestamp": "2025-12-30T10:02:27.332401",
+        "last_update": "10:02:27",
+        "score": "0-0",
+        "half_time_score": {
+            "home": null,
+            "away": null
+        },
+        "game_time": "00:00",
+        "stats": {},
+        "live_odds": {},
+        "probabilities": {},
+        "totals": {},
+        "opportunity": {}
+    },
+    {
+        "id": "293061279",
+        "league": "Angleterre. Premier League9",
+        "heure": "21:15",
+        "favori": "Arsenal",
+        "pronostic": "V1",
+        "cote": 1.505,
+        "match_complet": "Arsenal vs Aston Villa",
+        "url": "https://1xbet.cm/fr/line/football/88637-england-premier-league/293061279-arsenal-aston-villa",
+        "status": "NOT_READY",
+        "timestamp": "2025-12-30T10:00:50.358708",
+        "last_update": "10:00:50",
+        "score": "0-0",
+        "half_time_score": {
+            "home": null,
+            "away": null
+        },
+        "game_time": "00:00",
+        "stats": {},
+        "live_odds": {},
+        "probabilities": {},
+        "totals": {},
+        "opportunity": {}
+    }
+]
